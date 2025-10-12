@@ -149,121 +149,121 @@
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="80%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_2
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_2.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_3
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_3.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_4
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_4.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_5
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_5.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_6
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_6.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_7
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_7.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_8
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_8.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_9
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_9.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_10
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_10.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_11
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_11.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_12
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_12.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_13
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_13.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_14
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_14.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_15
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_15.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_16
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_16.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_17
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_17.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_18
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_18.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_19
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_19.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 
 #### Mixed_20
 ```
  https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_20.txt
 ```
-<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/32794872d.gif"> </p>
 <p align="center"> <img width="100%" src="https://github.com/Argh73/V2Ray-Vault/blob/main/gif/326705781.gif"> </p>
 
 ## 🌐 Network Technologies
