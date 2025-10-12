@@ -25,15 +25,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install httpx[http2] beautifulsoup4 pydantic jdatetime aiofiles geoip2 rich
 
-      - name: Create Extraction and sub directories
+      - name: Create data and sub directories
         run: |
-          mkdir -p Extraction
+          mkdir -p data
           mkdir -p sub
 
       - name: Download GeoLite databases
         run: |
-          curl -L -o Extraction/GeoLite2-Country.mmdb https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb
-          curl -L -o Extraction/GeoLite2-ASN.mmdb https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb
+          curl -L -o data/GeoLite2-Country.mmdb https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb
+          curl -L -o data/GeoLite2-ASN.mmdb https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb
 
       - name: Run script
         run: |
