@@ -37,7 +37,7 @@ jobs:
 
       - name: Run script
         run: |
-          python main.py
+          python data/main.py
         continue-on-error: false
 
       - name: Commit and push if there are changes
