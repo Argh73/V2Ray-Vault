@@ -3,14 +3,14 @@
 
 <div align="center">
 
-🌍 [English](https://github.com/Argh94/V2Ray-Vault/blob/main/README.md) | 🌐[فارسی](https://github.com/Argh94/V2Ray-Vault/blob/main/README_fa.md)
+🌍 [English](https://github.com/Argh73/V2Ray-Vault/blob/main/README.md) | 🌐[فارسی](https://github.com/Argh73/V2Ray-Vault/blob/main/README_fa.md)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
 ![Configs](https://img.shields.io/badge/Configs-10K+-blueviolet?style=for-the-badge&logo=v2ray)
 ![Countries](https://img.shields.io/badge/Countries-100+-orange?style=for-the-badge&logo=globe)
 ![Update](https://img.shields.io/badge/Auto%20Update-24/7-teal?style=for-the-badge&logo=refresh)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=mit)
-![GitHub Stars](https://img.shields.io/github/stars/tahmaseb73/configs-collector-v2ray?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Argh94/configs-collector-v2ray?style=for-the-badge&logo=github)
 
 </div>
 
