@@ -39,8 +39,8 @@ from pydantic import BaseModel, Field, model_validator, ValidationError
 
 class AppConfig:
     BASE_DIR = Path(__file__).parent
-    DATA_DIR = BASE_DIR / "Extraction"  # تغییر به Extraction
-    OUTPUT_DIR = BASE_DIR / "sub" 
+    DATA_DIR = BASE_DIR / "data"
+    OUTPUT_DIR = BASE_DIR / "sub"  # حالا sub تو ریشه پروژه ساخته می‌شه
 
     DIRS = {
         "splitted": OUTPUT_DIR / "splitted",
@@ -63,7 +63,7 @@ class AppConfig:
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
     REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/telegram_channels.json"
-    REMOTE_SUBS_URL = "https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub_link.json"
+    REMOTE_SUBS_URL = "https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/subscription_links.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 
@@ -88,9 +88,9 @@ class AppConfig:
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "This is a free trial project."
-    DNT_SIGNATURE = "For enhanced GitHub access, visit Argh73 now!"
+    DNT_SIGNATURE = "For enhanced GitHub access, visit Argh94 now!"
     DEV_SIGNATURE = "</> Collector v5.0"
-    CUSTOM_SIGNATURE = "「 GitHub Argh73 ☕ 」"
+    CUSTOM_SIGNATURE = "「 GitHub Argh94 ☕ 」"
 
 CONFIG = AppConfig()
 console = Console()
