@@ -39,7 +39,7 @@ from pydantic import BaseModel, Field, model_validator, ValidationError
 
 class AppConfig:
     BASE_DIR = Path(__file__).parent
-    DATA_DIR = BASE_DIR / "data"
+    DATA_DIR = BASE_DIR / "Extract"
     OUTPUT_DIR = BASE_DIR / "sub"  # حالا sub تو ریشه پروژه ساخته می‌شه
 
     DIRS = {
