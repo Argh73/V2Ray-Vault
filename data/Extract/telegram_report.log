@@ -1,14 +1,15 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-10-17 07:43:24
+Timestamp: 2025-10-17 11:45:53
 Total Channels: 117
 Successful Scrapes: 82
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-DailyV2RY: 240 configs
+ShadowsocksM: 232 configs
 v2raying: 230 configs
+DailyV2RY: 219 configs
 LonUp_M: 200 configs
-ShadowsocksM: 193 configs
+heyatserver: 191 configs
 V2RAY_VMESS_free: 174 configs
 meli_proxyy: 160 configs
 V2rayNG3: 153 configs
@@ -17,11 +18,10 @@ FreakConfig: 134 configs
 CaV2ray: 132 configs
 configfa: 117 configs
 ViProxys: 100 configs
-heyatserver: 99 configs
 vpnaloo: 94 configs
 v2rayng_1378: 87 configs
 Awlix_ir: 85 configs
-v2rayngvpn: 72 configs
+v2rayngvpn: 82 configs
 hopev2ray: 62 configs
 viturey: 61 configs
 fastfreeconfig: 60 configs
@@ -33,15 +33,16 @@ dailyv2ray: 40 configs
 proxy_mtm: 39 configs
 vmessiran: 35 configs
 OutlineReleasedKey: 34 configs
-V2RAYROZ: 33 configs
 customv2ray: 32 configs
 ev2rayy: 25 configs
 tehranargo: 22 configs
 free4allVPN: 20 configs
 FreeV2rays: 20 configs
+V2RAYROZ: 20 configs
 GetConfigIR: 20 configs
 IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
+v2ray_configs_pool: 20 configs
 freeconfigsplus: 20 configs
 Farah_VPN: 20 configs
 vmess_vless_v2rayng: 19 configs
@@ -50,13 +51,12 @@ orange_vpns: 19 configs
 FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
 ArV2ray: 18 configs
-v2ray_configs_pool: 18 configs
 v2rayfree: 18 configs
 freedom_config: 18 configs
-PrivateVPNs: 16 configs
-v2rayvpnchannel: 15 configs
+PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 Vpnstable: 14 configs
+v2rayvpnchannel: 14 configs
 v2ngfast: 13 configs
 NoForcedHeaven: 12 configs
 Ahmedhamoomi_Servers: 12 configs
@@ -73,11 +73,11 @@ vip_vpn_2022: 8 configs
 ConfigWireguard: 8 configs
 iraniv2ray: 8 configs
 redfree8: 7 configs
+ultrasurf_12: 6 configs
 proSSH: 6 configs
 v2rayngfreee: 6 configs
 v2raymelliii: 6 configs
 configV2rayForFree: 5 configs
-ultrasurf_12: 5 configs
 xroVPN: 5 configs
 ServerNett: 3 configs
 bypass_filter: 3 configs
