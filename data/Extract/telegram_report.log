@@ -1,36 +1,36 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-10-23 07:43:08
+Timestamp: 2025-10-23 11:45:31
 Total Channels: 117
 Successful Scrapes: 89
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
+V2ray_Alpha: 285 configs
 DailyV2RY: 281 configs
-V2ray_Alpha: 267 configs
-heyatserver: 222 configs
+heyatserver: 264 configs
 LonUp_M: 200 configs
-oneclickvpnkeys: 175 configs
-ShadowsocksM: 160 configs
 V2rayNG3: 154 configs
 configV2rayNG: 153 configs
+ShadowsocksM: 152 configs
 meli_proxyy: 141 configs
+oneclickvpnkeys: 141 configs
 V2RAY_VMESS_free: 139 configs
 CaV2ray: 132 configs
 FreakConfig: 120 configs
 v2raying: 101 configs
 ViProxys: 100 configs
 vpnaloo: 97 configs
+v2rayngvpn: 89 configs
 Awlix_ir: 85 configs
-v2rayngvpn: 81 configs
-v2rayng_1378: 70 configs
+v2rayng_1378: 68 configs
 viturey: 61 configs
 fastfreeconfig: 60 configs
 hopev2ray: 59 configs
+ZibaNabz: 56 configs
 tehranargo: 55 configs
 v2rayngconfig: 52 configs
 VmessProtocol: 49 configs
 proxy_mtm: 48 configs
-ZibaNabz: 48 configs
 yaney_01: 41 configs
 vmessiran: 40 configs
 dailyv2ray: 40 configs
@@ -38,9 +38,10 @@ OutlineReleasedKey: 34 configs
 customv2ray: 31 configs
 configfa: 30 configs
 ev2rayy: 25 configs
+V2RAYROZ: 21 configs
 free4allVPN: 20 configs
 FreeV2rays: 20 configs
-V2RAYROZ: 20 configs
+orange_vpns: 20 configs
 GetConfigIR: 20 configs
 IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
@@ -48,19 +49,17 @@ freeconfigsplus: 20 configs
 Farah_VPN: 20 configs
 vmess_vless_v2rayng: 19 configs
 V2rayNG_Outlinee: 19 configs
-orange_vpns: 19 configs
 FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
 ArV2ray: 18 configs
 freedom_config: 18 configs
-proxy_kafee: 17 configs
-PrivateVPNs: 16 configs
 sinavm: 15 configs
 v2nodes: 15 configs
+PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 v2rayvpnchannel: 14 configs
-v2rayfree: 14 configs
 Vpnstable: 13 configs
+v2rayfree: 13 configs
 v2ngfast: 13 configs
 NoForcedHeaven: 12 configs
 Ahmedhamoomi_Servers: 12 configs
@@ -78,6 +77,7 @@ vip_vpn_2022: 8 configs
 AzadNet: 8 configs
 iraniv2ray: 8 configs
 redfree8: 7 configs
+proxy_kafee: 7 configs
 configV2rayForFree: 6 configs
 proSSH: 6 configs
 v2rayngfreee: 6 configs
@@ -90,9 +90,9 @@ bypass_filter: 3 configs
 ultrasurf_12: 2 configs
 Ln2Ray: 2 configs
 hiddify_f: 2 configs
+shadowproxy66: 2 configs
 vmess_iran: 1 configs
 ZeusVPN_Net: 1 configs
 V2rey_vless: 1 configs
-shadowproxy66: 1 configs
 
 --- Failed Channels ---
