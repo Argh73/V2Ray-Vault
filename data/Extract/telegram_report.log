@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-10-24 04:11:46
+Timestamp: 2025-10-24 07:42:47
 Total Channels: 117
 Successful Scrapes: 87
 Failed Scrapes: 0
@@ -9,14 +9,14 @@ V2ray_Alpha: 312 configs
 DailyV2RY: 286 configs
 meli_proxyy: 205 configs
 LonUp_M: 200 configs
-heyatserver: 188 configs
+heyatserver: 183 configs
 V2rayNG3: 154 configs
-configV2rayNG: 153 configs
 oneclickvpnkeys: 153 configs
+configV2rayNG: 147 configs
 V2RAY_VMESS_free: 139 configs
 CaV2ray: 132 configs
+FreakConfig: 130 configs
 ShadowsocksM: 128 configs
-FreakConfig: 113 configs
 v2raying: 101 configs
 ViProxys: 100 configs
 vpnaloo: 96 configs
@@ -57,16 +57,15 @@ ArV2ray: 17 configs
 PrivateVPNs: 16 configs
 sinavm: 15 configs
 v2ray_for_free: 14 configs
+v2box_free: 14 configs
 v2rayvpnchannel: 14 configs
 Vpnstable: 13 configs
-v2nodes: 13 configs
-proxy_kafee: 13 configs
 v2ngfast: 13 configs
 NoForcedHeaven: 12 configs
 Ahmedhamoomi_Servers: 12 configs
 ConfigWireguard: 12 configs
 golestan_vpn: 11 configs
-v2box_free: 11 configs
+v2nodes: 11 configs
 vpn_ocean: 10 configs
 server_nekobox: 9 configs
 ISVvpn: 9 configs
@@ -78,6 +77,7 @@ iraniv2ray: 8 configs
 v2Source: 7 configs
 redfree8: 7 configs
 configV2rayForFree: 6 configs
+proxy_kafee: 6 configs
 proSSH: 6 configs
 v2rayngfreee: 6 configs
 v2raymelliii: 6 configs
