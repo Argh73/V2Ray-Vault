@@ -1,11 +1,11 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-12-31 08:01:04
+Timestamp: 2025-12-31 11:47:16
 Total Channels: 117
 Successful Scrapes: 81
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-DailyV2RY: 308 configs
+DailyV2RY: 305 configs
 freev2rayssr: 300 configs
 V2ray_Alpha: 253 configs
 configV2rayNG: 226 configs
@@ -13,28 +13,27 @@ ShadowsocksM: 208 configs
 LonUp_M: 193 configs
 V2rayNG3: 183 configs
 V2RAY_VMESS_free: 180 configs
+heyatserver: 151 configs
 CaV2ray: 130 configs
-FreakConfig: 118 configs
-oneclickvpnkeys: 108 configs
+FreakConfig: 108 configs
 vpnaloo: 101 configs
 ViProxys: 100 configs
 configfa: 85 configs
-heyatserver: 84 configs
-Awlix_ir: 74 configs
+Awlix_ir: 83 configs
 v2rayngconfig: 74 configs
 Outline_Vpn: 69 configs
+v2rayngvpn: 64 configs
 viturey: 61 configs
 vmessiran: 60 configs
 fastfreeconfig: 60 configs
 hopev2ray: 59 configs
-v2rayngvpn: 55 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
 v2rayng_1378: 37 configs
 v2raying: 36 configs
 ZibaNabz: 36 configs
 OutlineReleasedKey: 34 configs
-V2RAYROZ: 33 configs
+oneclickvpnkeys: 33 configs
 sinavm: 28 configs
 ev2rayy: 25 configs
 tehranargo: 25 configs
@@ -49,17 +48,18 @@ vpnfail_vless: 20 configs
 v2nodes: 20 configs
 freeconfigsplus: 20 configs
 Farah_VPN: 20 configs
+V2RAYROZ: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
 VmessProtocol: 18 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
 v2rayvpnchannel: 17 configs
-PrivateVPNs: 16 configs
 ArV2ray: 15 configs
+v2rayfree: 15 configs
+PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 freedomofinfor: 14 configs
-v2rayfree: 14 configs
 Vpnstable: 13 configs
 v2rayngfreee: 11 configs
 vpn_ocean: 10 configs
@@ -71,7 +71,6 @@ iraniv2ray: 8 configs
 ServerNett: 7 configs
 GrizzlyVPN: 7 configs
 ultrasurf_12: 6 configs
-AzadNet: 6 configs
 An0nymousTeam: 6 configs
 v2raymelliii: 6 configs
 configV2rayForFree: 5 configs
@@ -79,6 +78,7 @@ vip_vpn_2022: 5 configs
 v2Source: 5 configs
 xsfilternet: 5 configs
 redfree8: 5 configs
+AzadNet: 5 configs
 xroVPN: 5 configs
 server_nekobox: 4 configs
 Ln2Ray: 3 configs
