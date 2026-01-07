@@ -1,13 +1,8 @@
-trojan://h10dsrrm-kjc9-9i1j-cpqk-8ydls0uwedff@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/07 | 11:48
-trojan://75abfnws-kfwa-43dp-pq9b-r3wqi54cgdfl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://iuroin35-b5z1-r9rb-jhxr-kmfrekzxfjqu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://h4l2qsu3-mcvv-y12b-yo5v-vpnq18eqj6h0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/07 | 15:54
+trojan://9o2ue5mq-yvdz-klvt-jret-4d367tcv3qr3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hpueqa61-fqbz-6d3m-f21a-a4xeuai3n5h5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQFYyUkFZUk9aIiwiYWRkIjoiMTU0LjIxMS44LjU4IiwicG9ydCI6NDQzLCJpZCI6ImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ1cy5uYmVlLnBwLnVhIiwicGF0aCI6Ii9hYSIsInRscyI6InRscyIsInNuaSI6InVzLm5iZWUucHAudWEifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQFYyUkFZUk9aIiwiYWRkIjoiMTU0LjIxMS44LjU4IiwicG9ydCI6NDQzLCJpZCI6ImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ1cy5uYmVlLnBwLnVhIiwicGF0aCI6Ii9hYSIsInRscyI6InRscyIsInNuaSI6InVzLm5iZWUucHAudWEifQ
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?type=ws&security=none#151.101.3.8:80
-vless://4fc8707b-0c0d-494c-af35-024840f9a5b9@http.hexo-music.ir:2095?type=tcp&security=none#http.hexo-music.ir:2095
-vless://3684f870-90ae-409a-98a7-dea071ae5068@speedtest.net:80?type=xhttp&security=none&path=/#speedtest.net:80
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?type=ws&security=none#151.101.3.8:80
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net&fp=firefox#181.214.231.8:443
 vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?type=tcp&security=none#tun.thuglife.ir:1993
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?type=grpc&security=tls&sni=pqh27v1.carwashipdir.shop#104.21.86.253:443
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?type=ws&security=tls&path=/&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO#api.dark-coffe.com:2087
@@ -17,7 +12,13 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?type=grpc&securit
 vless://d51ff948-ccc2-430e-b6d1-53bc266ffc0f@cdn.solidnet.fun:80?type=xhttp&security=none&path=/#cdn.solidnet.fun:80
 vless://d51ff948-ccc2-430e-b6d1-53bc266ffc0f@cdn.solidnet.fun:80?type=xhttp&security=none&path=/api/status#cdn.solidnet.fun:80
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?type=tcp&security=none#209.38.52.51:4655
+vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.speedtest.net:2096?type=ws&security=tls&path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&sni=DiGIkALaA.dpdns.ORG&fp=chrome#www.speedtest.net:2096
+vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.173.252:41647?type=grpc&security=none#91.107.173.252:41647
+vless://db2c8a95-f751-46e3-b05e-d2def66850fb@104.18.42.163:443?type=ws&security=tls&path=/ed=2560&sni=ayanamirei.11160321.xyz&fp=chrome#104.18.42.163:443
+vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.172.11:41647?type=grpc&security=none#91.107.172.11:41647
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net&fp=firefox#181.214.231.8:443
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?type=tcp&security=none#209.38.52.51:4655
 vless://ec6901a9-0837-4d55-a29b-f5623d138af7@maxa19.gatesrev.ir:8080?type=tcp&security=reality&sni=chatgpt.com&fp=firefox&flow=xtls-rprx-vision&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#maxa19.gatesrev.ir:8080
 vless://ca44ff1a-e4b1-4c19-8849-efe56d8de53a@45.135.195.219:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=fW43MXDdfHEKYdq8-YWvTsl4-h-2BFE69W1ZGuLg6lI&sid=86473f2d52494ed4#45.135.195.219:443
-trojan://yz3n8st5-fm2m-8mf8-iaac-xglvrhmhkjm2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rqzutgdk-omlw-4u45-4gjp-acurfc40s507@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://22wia754-itj6-5gmu-ajec-nfh58qgouyyh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ad0qk7jx-4tqi-exsg-ovcu-sg1shxylsk7b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
