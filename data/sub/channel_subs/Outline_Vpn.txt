@@ -1,8 +1,16 @@
-trojan://60g1fzqv-03gs-rt6w-din2-3oybu9a5dnxt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/07 | 23:44
-trojan://a7rp5juh-btqm-k19w-w4su-yt6fp0m32rft@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://34sxc2vf-fw9n-1tgo-g35x-3ewkv5qb0zg4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://00he0hvf-ij4p-hfvo-omn4-5pxe79c3xvmb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/08 | 04:22
+trojan://8o7bgc1p-8je5-1d8h-oecb-6o7qbfsgv8xs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://e23lfp6j-y3e9-vazp-absm-npaeyppw169v@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#135.125.245.131:20939
+trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?sni=seashell.qzz.io&peer=seashell.qzz.io&security=tls#seashell.qzz.io:443
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?sni=_acme-challenge.2go.cloudns.be&peer=_acme-challenge.2go.cloudns.be&security=tls#mfa.gov.ua:443
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#one.cf.cdn.hyli.xyz:443
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?type=ws&security=tls&path=/?ed&sni=sni.111000.dynv6.net&fp=chrome#208.103.161.32:2053
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.19.73.126:2053?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.dynv6.net#104.19.73.126:2053
+vless://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?type=ws&security=tls&path=/156.254.114.120:30011&sni=seashell.qzz.io#seashell.qzz.io:443
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@pages.cloudflare.com:2053?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.dynv6.net&fp=chrome#pages.cloudflare.com:2053
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?type=ws&security=tls&path=/yhowcws&sni=azizoarjmand.info&fp=chrome#108.162.193.217:443
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@www.aapanel.com:2053?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.dynv6.net#www.aapanel.com:2053
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?type=ws&security=tls&path=/&sni=sni.111000.dynv6.net#platform.wise.com:2053
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?type=ws&security=tls&path=/yhowcws&sni=azizoarjmand.info&fp=chrome#173.245.59.217:443
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?type=ws&security=tls&path=/&sni=sni.111000.dynv6.net#platform.wise.com:2053
@@ -66,5 +74,5 @@ vless://98256f2f-1a3e-4db8-ad9b-d553b6894d50@79.72.90.132:3366?type=grpc&securit
 vless://a307515b-bfac-4dfb-a5ac-0dd5596e76f2@midorinote.online:8443?type=tcp&security=reality&sni=sun6-22.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=387d2fb5f83c0cde#midorinote.online:8443
 vless://893ba1c2-bfd4-41bf-9c02-0acfc8b43dca@145.241.255.25:3366?type=grpc&security=reality&sni=addons.mozilla.org&fp=random&pbk=-jHmlv2vWuviE7ghKTZ7fAyYHFoGf1j-qTsKHUGUekE&sid=04cbbd26#145.241.255.25:3366
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?sni=www.apple.com&insecure=1#193.123.76.84:443
-trojan://p6p3xlc0-jezd-ga2w-xpga-kn39jxbldnvk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7lyjxs6j-bpug-pzze-i5b5-zcnx90318adb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://o1hyz6zj-v2jl-z9x6-0ivx-yp119urltw46@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3ty8b48v-7dt8-nk3w-f73h-daaezj1uuodj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
