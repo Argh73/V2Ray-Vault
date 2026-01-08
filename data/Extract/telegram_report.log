@@ -1,21 +1,21 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-01-08 04:21:59
+Timestamp: 2026-01-08 08:01:56
 Total Channels: 117
 Successful Scrapes: 87
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-DailyV2RY: 259 configs
+DailyV2RY: 257 configs
 LonUp_M: 200 configs
-heyatserver: 189 configs
 V2ray_Alpha: 179 configs
 V2rayNG3: 162 configs
+heyatserver: 147 configs
 CaV2ray: 130 configs
 oneclickvpnkeys: 104 configs
 ViProxys: 100 configs
 ShadowsocksM: 94 configs
-configV2rayNG: 84 configs
+configV2rayNG: 90 configs
 vpnaloo: 78 configs
 v2rayngconfig: 74 configs
 Outline_Vpn: 73 configs
@@ -23,7 +23,7 @@ Awlix_ir: 69 configs
 hopev2ray: 64 configs
 V2RAY_VMESS_free: 63 configs
 viturey: 61 configs
-FreakConfig: 60 configs
+FreakConfig: 58 configs
 vmessiran: 53 configs
 fastfreeconfig: 50 configs
 yaney_01: 41 configs
@@ -40,13 +40,13 @@ FreeV2rays: 20 configs
 GetConfigIR: 20 configs
 ArV2ray: 20 configs
 configfa: 20 configs
+IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
 v2nodes: 20 configs
 Farah_VPN: 20 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
-IP_CF_Config: 19 configs
 vpnstorefast: 18 configs
 orange_vpns: 18 configs
 freeconfigsplus: 18 configs
@@ -67,30 +67,30 @@ freev2raym: 9 configs
 vmess_iran: 8 configs
 server_nekobox: 8 configs
 NoForcedHeaven: 8 configs
+v2ray_configs_pool: 8 configs
 iraniv2ray: 8 configs
 v2ngfast: 8 configs
 redfree8: 7 configs
 v2rayfree: 7 configs
 vip_vpn_2022: 6 configs
 GrizzlyVPN: 6 configs
-v2ray_configs_pool: 6 configs
 blueshekan: 6 configs
+vpn_proxy_custom: 5 configs
 ultrasurf_12: 5 configs
 Vpnstable: 5 configs
 xroVPN: 5 configs
-vpn_proxy_custom: 4 configs
 Network_442: 4 configs
 VmessProtocol: 3 configs
 configV2rayForFree: 3 configs
 v2Source: 3 configs
 AzadNet: 3 configs
 Ln2Ray: 3 configs
+proSSH: 3 configs
 bypass_filter: 3 configs
 xsfilternet: 2 configs
 ServerNett: 1 configs
 ShadowSocks_s: 1 configs
 Ahmedhamoomi_Servers: 1 configs
 ZeusVPN_Net: 1 configs
-proSSH: 1 configs
 
 --- Failed Channels ---
