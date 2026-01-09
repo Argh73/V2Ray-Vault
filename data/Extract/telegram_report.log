@@ -1,17 +1,17 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-01-09 19:45:09
+Timestamp: 2026-01-09 23:44:19
 Total Channels: 117
 Successful Scrapes: 83
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-heyatserver: 247 configs
+heyatserver: 279 configs
 DailyV2RY: 239 configs
 LonUp_M: 200 configs
 V2ray_Alpha: 179 configs
 V2rayNG3: 162 configs
-oneclickvpnkeys: 161 configs
+oneclickvpnkeys: 146 configs
 CaV2ray: 127 configs
 ViProxys: 100 configs
 configV2rayNG: 92 configs
@@ -38,6 +38,7 @@ vmess_iran: 20 configs
 configfa: 20 configs
 IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
+v2nodes: 20 configs
 Farah_VPN: 20 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
@@ -49,9 +50,8 @@ orange_vpns: 18 configs
 freeconfigsplus: 18 configs
 freedom_config: 18 configs
 v2rayngfreee: 17 configs
-v2nodes: 16 configs
+PrivateVPNs: 15 configs
 v2rayvpnchannel: 15 configs
-PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 V2RAYROZ: 14 configs
 freedomofinfor: 14 configs
@@ -74,15 +74,15 @@ blueshekan: 6 configs
 vpn_proxy_custom: 5 configs
 v2raying: 5 configs
 xroVPN: 5 configs
-v2rayfree: 5 configs
 ServerNett: 4 configs
 Network_442: 4 configs
 GrizzlyVPN: 4 configs
-AzadNet: 4 configs
 proSSH: 4 configs
+v2rayfree: 4 configs
 VmessProtocol: 3 configs
 configV2rayForFree: 3 configs
 v2Source: 3 configs
+AzadNet: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
 ShadowSocks_s: 1 configs
