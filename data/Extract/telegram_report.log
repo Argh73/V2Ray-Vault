@@ -1,29 +1,30 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-01-17 07:54:23
+Timestamp: 2026-01-17 11:44:51
 Total Channels: 117
 Successful Scrapes: 81
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-DailyV2RY: 278 configs
-heyatserver: 232 configs
+DailyV2RY: 281 configs
+heyatserver: 246 configs
 LonUp_M: 200 configs
 V2ray_Alpha: 179 configs
 V2rayNG3: 162 configs
-oneclickvpnkeys: 131 configs
+oneclickvpnkeys: 148 configs
 CaV2ray: 127 configs
 ViProxys: 100 configs
 configV2rayNG: 92 configs
-FreakConfig: 78 configs
 Outline_Vpn: 75 configs
 Awlix_ir: 74 configs
 v2rayngconfig: 74 configs
-hopev2ray: 64 configs
+FreakConfig: 67 configs
 V2RAY_VMESS_free: 63 configs
 viturey: 61 configs
+hopev2ray: 56 configs
 vmessiran: 53 configs
 fastfreeconfig: 50 configs
+customv2ray: 43 configs
 yaney_01: 41 configs
 v2rayngvpn: 40 configs
 dailyv2ray: 40 configs
@@ -36,7 +37,6 @@ vmess_vless_v2rayng: 20 configs
 PrivateVPNs: 20 configs
 FreeV2rays: 20 configs
 vmess_iran: 20 configs
-GetConfigIR: 20 configs
 configfa: 20 configs
 IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
@@ -46,12 +46,13 @@ Farah_VPN: 20 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
-ArV2ray: 19 configs
+GetConfigIR: 19 configs
 vpnstorefast: 18 configs
 orange_vpns: 18 configs
+ArV2ray: 18 configs
 freedom_config: 18 configs
 freeconfigsplus: 17 configs
-v2rayngfreee: 17 configs
+v2rayngfreee: 16 configs
 v2ray_for_free: 14 configs
 V2RAYROZ: 14 configs
 freedomofinfor: 14 configs
@@ -62,10 +63,10 @@ vpn_ocean: 10 configs
 ultrasurf_12: 10 configs
 tehranargo: 10 configs
 freev2raym: 9 configs
+ServerNett: 8 configs
 NoForcedHeaven: 8 configs
 iraniv2ray: 8 configs
 v2ngfast: 8 configs
-customv2ray: 7 configs
 redfree8: 7 configs
 vip_vpn_2022: 6 configs
 server_nekobox: 6 configs
@@ -74,7 +75,6 @@ blueshekan: 6 configs
 vpn_proxy_custom: 5 configs
 v2raying: 5 configs
 xroVPN: 5 configs
-ServerNett: 4 configs
 Network_442: 4 configs
 GrizzlyVPN: 4 configs
 proSSH: 4 configs
