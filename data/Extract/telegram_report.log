@@ -1,17 +1,18 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-01-19 04:25:50
+Timestamp: 2026-01-19 08:14:03
 Total Channels: 117
 Successful Scrapes: 83
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-DailyV2RY: 281 configs
+DailyV2RY: 285 configs
 LonUp_M: 200 configs
 V2ray_Alpha: 179 configs
 V2rayNG3: 162 configs
-oneclickvpnkeys: 133 configs
+heyatserver: 128 configs
 CaV2ray: 127 configs
+oneclickvpnkeys: 118 configs
 ViProxys: 100 configs
 configV2rayNG: 92 configs
 V2RAY_VMESS_free: 76 configs
@@ -21,7 +22,6 @@ Awlix_ir: 69 configs
 FreakConfig: 67 configs
 viturey: 61 configs
 hopev2ray: 56 configs
-heyatserver: 55 configs
 vmessiran: 53 configs
 fastfreeconfig: 50 configs
 yaney_01: 41 configs
@@ -50,8 +50,8 @@ orange_vpns: 18 configs
 GetConfigIR: 18 configs
 ArV2ray: 18 configs
 freedom_config: 18 configs
-PASARGAD_V2rayNG: 17 configs
 freeconfigsplus: 17 configs
+PASARGAD_V2rayNG: 15 configs
 v2ray_for_free: 14 configs
 V2RAYROZ: 14 configs
 freedomofinfor: 14 configs
@@ -61,10 +61,10 @@ ConfigWireguard: 12 configs
 v2raymelliii: 11 configs
 vpn_ocean: 10 configs
 ultrasurf_12: 10 configs
+v2rayfree: 10 configs
 freev2raym: 9 configs
 tehranargo: 9 configs
 NoForcedHeaven: 8 configs
-v2rayfree: 8 configs
 iraniv2ray: 8 configs
 v2ngfast: 8 configs
 redfree8: 7 configs
