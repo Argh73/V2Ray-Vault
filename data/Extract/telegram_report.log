@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-01-21 08:07:48
+Timestamp: 2026-01-21 11:48:31
 Total Channels: 117
 Successful Scrapes: 82
 Failed Scrapes: 0
@@ -7,16 +7,15 @@ Failed Scrapes: 0
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
 DailyV2RY: 285 configs
-heyatserver: 222 configs
+heyatserver: 249 configs
 LonUp_M: 199 configs
-oneclickvpnkeys: 148 configs
+oneclickvpnkeys: 165 configs
 V2ray_Alpha: 144 configs
 CaV2ray: 127 configs
 V2rayNG3: 123 configs
 ViProxys: 100 configs
 configV2rayNG: 92 configs
 Outline_Vpn: 75 configs
-Awlix_ir: 74 configs
 v2rayngconfig: 74 configs
 FreakConfig: 67 configs
 viturey: 61 configs
@@ -24,17 +23,18 @@ hopev2ray: 56 configs
 vmessiran: 53 configs
 fastfreeconfig: 50 configs
 yaney_01: 41 configs
+Awlix_ir: 41 configs
 dailyv2ray: 40 configs
+PASARGAD_V2rayNG: 39 configs
 OutlineReleasedKey: 34 configs
 v2rayngvpn: 33 configs
-PASARGAD_V2rayNG: 27 configs
+xsfilternet: 31 configs
 ZibaNabz: 25 configs
 ev2rayy: 25 configs
 customv2ray: 24 configs
 golestan_vpn: 23 configs
 vmess_vless_v2rayng: 20 configs
 PrivateVPNs: 20 configs
-V2RAY_VMESS_free: 20 configs
 FreeV2rays: 20 configs
 freedomofinfor: 20 configs
 GetConfigIR: 20 configs
@@ -50,6 +50,7 @@ V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
 orange_vpns: 18 configs
+ConfigWireguard: 18 configs
 freedom_config: 18 configs
 ArV2ray: 17 configs
 tehranargo: 16 configs
@@ -57,12 +58,12 @@ v2rayfree: 15 configs
 v2ray_for_free: 14 configs
 V2RAYROZ: 14 configs
 v2rayngfreee: 14 configs
-v2rayng_1378: 14 configs
 NoForcedHeaven: 11 configs
 vpn_irane: 11 configs
+v2rayng_1378: 11 configs
 v2raymelliii: 11 configs
 vpn_ocean: 10 configs
-ConfigWireguard: 10 configs
+proxy_kafee: 10 configs
 iSeqaro: 9 configs
 freev2raym: 9 configs
 iraniv2ray: 8 configs
@@ -71,13 +72,12 @@ GrizzlyVPN: 7 configs
 redfree8: 7 configs
 vip_vpn_2022: 6 configs
 Vpnstable: 6 configs
-xsfilternet: 6 configs
-proxy_kafee: 6 configs
 configV2rayForFree: 5 configs
 vpn_proxy_custom: 5 configs
 ultrasurf_12: 5 configs
 v2raying: 5 configs
 xroVPN: 5 configs
+V2RAY_VMESS_free: 4 configs
 Network_442: 4 configs
 proSSH: 4 configs
 v2Source: 3 configs
