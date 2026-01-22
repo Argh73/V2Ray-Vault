@@ -1,7 +1,6 @@
-trojan://180p39ir-b1wt-vxa3-8x8l-hfwjy3fxybp6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/22 | 08:11
-trojan://3icudbcr-8h9j-1yet-f881-68rp5i7h0rwj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jj1dj5r0-2vih-7k0x-89zv-rkv2ft6yw678@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@8.6.112.0:443?sni=_acme-challenge.2go.cloudns.be&peer=_acme-challenge.2go.cloudns.be&security=tls#8.6.112.0:443
+trojan://nzu1xdy0-x6zf-jiwm-qmav-hiqp1kecz4vl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/22 | 11:48
+trojan://3smktaka-fkun-wyfe-3kvu-p7tff7a29zq4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hyvifats-2f56-buxm-c267-vk17xhcep2lq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://4ad217a5-5a96-4095-a96c-837ffc73f97c@vpn.zorixvpn.site:8443?type=tcp&security=tls#vpn.zorixvpn.site:8443
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?type=tcp&security=tls&sni=api.avito.ru#65.108.231.185:443
 vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?type=ws&security=tls&path=/192.252.182.52:7602&sni=blueivy.qzz.io#blueivy.qzz.io:443
@@ -10,6 +9,8 @@ vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?type=ws&security=t
 vless://f2aa0f74-e70c-4811-b2b2-2ced9a11adce@8.6.112.0:443?type=ws&security=tls&path=/193.23.197.183=443&sni=vermilion.qzz.io&fp=chrome#8.6.112.0:443
 vless://b4481397-d602-45d4-8d99-1fc4939d65d4@8.6.112.0:443?type=ws&security=tls&path=/142.132.140.130=447&sni=cranberry.qzz.io#8.6.112.0:443
 vless://b4481397-d602-45d4-8d99-1fc4939d65d4@hell-tawana.lookanet.codes:443?type=ws&security=tls&path=/142.132.140.130=447&sni=cranberry.qzz.io#hell-tawana.lookanet.codes:443
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@8.6.112.0:443?type=ws&security=tls&path=/&sni=dev.qsaas.dev#8.6.112.0:443
-trojan://4k46n44f-nu68-86kv-04oy-rg0tx9ne2725@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bb3mxvg4-n4fy-7zqj-6h9e-hzhg3b9egjc8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@8.6.112.0:443?type=ws&security=tls&path=/telegram-@v2ray_alpha&sni=a.azadnet003.ddns-ip.net&fp=chrome#8.6.112.0:443
+vless://f0693080-e004-4baf-a1e9-258025a134a7@8.6.112.0:2096?type=ws&security=tls&path=/&sni=rb11.fasst11.shop&fp=chrome#8.6.112.0:2096
+vless://84ccd309-283a-49e8-b92c-8b9ecdae7f42@zzula.ir:443?type=ws&security=tls&path=/34.42.77.60=443&sni=cornsilk.qzz.io#zzula.ir:443
+trojan://c35wmh6x-wv11-i9jp-jf77-mjoqecuqjw4p@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nst6vbah-h2t3-duc4-sce3-t1zadl0jxkdq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
