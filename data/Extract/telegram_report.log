@@ -1,29 +1,27 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-01-29 11:56:33
+Timestamp: 2026-01-29 15:59:49
 Total Channels: 117
-Successful Scrapes: 72
+Successful Scrapes: 71
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
 LonUp_M: 200 configs
-configV2rayNG: 198 configs
+configV2rayNG: 187 configs
 V2rayNG3: 123 configs
 ViProxys: 100 configs
-freedomofinfor: 97 configs
+freedomofinfor: 98 configs
 Outline_Vpn: 87 configs
-oneclickvpnkeys: 73 configs
-DailyV2RY: 60 configs
+oneclickvpnkeys: 78 configs
+DailyV2RY: 74 configs
 fastfreeconfig: 50 configs
-ZibaNabz: 47 configs
-PASARGAD_V2rayNG: 44 configs
+ZibaNabz: 42 configs
 yaney_01: 41 configs
+PASARGAD_V2rayNG: 41 configs
 dailyv2ray: 40 configs
 V2RAYROZ: 36 configs
-ConfigWireguard: 36 configs
 vmessiran: 34 configs
 OutlineReleasedKey: 34 configs
-xsfilternet: 27 configs
 V2ray_Alpha: 27 configs
 hopev2ray: 27 configs
 ev2rayy: 25 configs
@@ -39,11 +37,9 @@ golestan_vpn: 20 configs
 v2nodes: 20 configs
 An0nymousTeam: 20 configs
 v2rayvpnchannel: 20 configs
-v2rayfree: 20 configs
 Farah_VPN: 20 configs
 FreakConfig: 19 configs
 free4allVPN: 19 configs
-vip_vpn_2022: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
@@ -51,20 +47,23 @@ CaV2ray: 18 configs
 freedom_config: 18 configs
 v2raying: 16 configs
 configV2rayForFree: 15 configs
-Network_442: 15 configs
 v2ray_for_free: 14 configs
 GrizzlyVPN: 13 configs
-customv2ray: 12 configs
+customv2ray: 11 configs
 Vpnstable: 11 configs
+v2rayfree: 11 configs
 vpn_ocean: 10 configs
 DarkVPNpro: 10 configs
+ConfigWireguard: 10 configs
 vmess_iran: 9 configs
+Network_442: 9 configs
 ArV2ray: 9 configs
+proxy_kafee: 9 configs
 freev2raym: 9 configs
 v2ngfast: 9 configs
-ultrasurf_12: 8 configs
 NoForcedHeaven: 8 configs
 iraniv2ray: 8 configs
+ultrasurf_12: 7 configs
 orange_vpns: 7 configs
 redfree8: 7 configs
 freeland8: 5 configs
@@ -76,6 +75,6 @@ viturey: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
 vpnaloo: 2 configs
-vpn_irane: 1 configs
+vip_vpn_2022: 1 configs
 
 --- Failed Channels ---
