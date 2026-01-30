@@ -1,6 +1,6 @@
-trojan://8ou4bm87-kzf7-4gbu-t2g7-hop7y1a3erpe@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/30 | 04:30
-trojan://w0pug1nz-xi2d-zsy8-5fjl-w7m0jmlrd74y@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://f5qnvphs-pdew-d0o7-kng8-5g8ugxulht80@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://46ctt0ck-27jh-y689-x9c9-oexyeuzrcei3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/01/30 | 08:34
+trojan://mj0u1s65-hiu2-hfs6-tl1e-ygbqqqth4cw2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dvb6drf1-9gna-zl9y-5yev-0u3mthoxrxsb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92bWVzc2lyYWFuIiwiYWRkIjoiMTcyLjIzMy4yMjkuOTEiLCJwb3J0IjoxNDEwMiwiaWQiOiIyN2JhODdmYy01ODNmLTQ3NjMtOTA2MC04M2NmMGI5MjY0ZGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://a26bbed7-a286-4840-84bc-dc102c526777@python.org:80?type=xhttp&security=none&path=/category/music#python.org:80
 vless://8cecfc42-f81b-4754-9833-9014bd8ba0c8@irandoc.info:443?type=ws&security=tls&path=/18211/api/v4&sni=cdn.irandoc.info&fp=random#irandoc.info:443
@@ -26,6 +26,14 @@ vless://79df85dd-cb40-4b32-828e-f38d918d85e3@irani.vidboxco.ir:2053?type=ws&secu
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?type=ws&security=tls&path=/45.76.183.217=49292&sni=delta090.qzz.io&fp=chrome#188.114.98.0:443
 vless://79df85dd-cb40-4b32-828e-f38d918d85e3@irani.vidboxco.ir:2053?type=ws&security=tls&path=/?ed=2048&sni=ip-static-address.wizardxray.net&fp=chrome#irani.vidboxco.ir:2053
 vless://1ca9ceff-e060-4cdf-a5c8-60662d326a87@65.109.219.60:443?type=ws&security=none&path=/#65.109.219.60:443
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@chatgpt.com:443?type=ws&security=tls&path=/telegram-@v2ray_alpha=?ed=2560&sni=a.azadnet003.ddns-ip.net&fp=chrome#chatgpt.com:443
+vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@188.114.98.23:2053?type=ws&security=tls&sni=lin.ecoglass.ir#188.114.98.23:2053
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?type=ws&security=tls&path=/&sni=dev.twistsparrow.xyz#104.18.32.47:443
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?type=grpc&security=none#yesok42v2.ip4exordir.shop:8880
+vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@188.114.98.23:2053?type=ws&security=tls&sni=zxz.ecoping2.org#188.114.98.23:2053
 vless://df7f9ba3-ea64-4275-b2aa-d4fef07d9ab7@ge-1.seemsflower.ru:8443?type=tcp&security=reality&sni=samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ge-1.seemsflower.ru:8443
-trojan://frcvwg2e-yrx3-cc7w-kmqp-kmakx1kt0s5c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://58dkyat3-2bov-itkq-xmoc-gbzmw6ls2igq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?type=tcp&security=reality&sni=www.autodesk.com&fp=chrome&pbk=y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4&sid=860705e716cbe6ed#47.245.38.111:443
+vless://0ff8dbfb-d7ee-4a19-b22d-b652a8b52e22@212.111.84.82:443?type=tcp&security=reality&sni=m.vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#212.111.84.82:443
+vless://0ff8dbfb-d7ee-4a19-b22d-b652a8b52e22@212.111.84.82:443?type=tcp&security=reality&sni=m.vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#212.111.84.82:443
+trojan://832h54es-fmo2-899o-9ds8-3xkvhzwvjac0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hm330zrt-qmx4-3lgx-na3y-z5bowtgzodur@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
