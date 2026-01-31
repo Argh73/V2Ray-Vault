@@ -1,27 +1,25 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-01-31 11:46:59
+Timestamp: 2026-01-31 15:52:17
 Total Channels: 117
-Successful Scrapes: 75
+Successful Scrapes: 74
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
 LonUp_M: 200 configs
-DailyV2RY: 142 configs
+DailyV2RY: 158 configs
 V2rayNG3: 123 configs
-FreakConfig: 109 configs
+FreakConfig: 117 configs
 freedomofinfor: 106 configs
-oneclickvpnkeys: 106 configs
 ViProxys: 100 configs
 V2ray_Alpha: 99 configs
-Outline_Vpn: 95 configs
-configV2rayNG: 84 configs
-PASARGAD_V2rayNG: 53 configs
+Outline_Vpn: 96 configs
+oneclickvpnkeys: 96 configs
+configV2rayNG: 87 configs
 fastfreeconfig: 50 configs
-proxy_kafee: 49 configs
+PASARGAD_V2rayNG: 49 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
-customv2ray: 37 configs
 ZibaNabz: 37 configs
 OutlineReleasedKey: 34 configs
 V2RAYROZ: 27 configs
@@ -32,6 +30,7 @@ v2Source: 22 configs
 vmess_vless_v2rayng: 20 configs
 PrivateVPNs: 20 configs
 FreeV2rays: 20 configs
+customv2ray: 20 configs
 GetConfigIR: 20 configs
 configfa: 20 configs
 IP_CF_Config: 20 configs
@@ -48,9 +47,8 @@ ConfigWireguard: 18 configs
 freedom_config: 18 configs
 v2raying: 15 configs
 v2ray_for_free: 14 configs
-v2rayfree: 13 configs
-xsfilternet: 12 configs
-ultrasurf_12: 11 configs
+proxy_kafee: 14 configs
+v2rayfree: 12 configs
 vpn_ocean: 10 configs
 DarkVPNpro: 10 configs
 Vpnstable: 10 configs
@@ -63,21 +61,22 @@ ArV2ray: 8 configs
 iraniv2ray: 8 configs
 v2ngfast: 8 configs
 V2RAY_VMESS_free: 7 configs
-GrizzlyVPN: 7 configs
 redfree8: 7 configs
 An0nymousTeam: 7 configs
 hopev2ray: 7 configs
+ShadowSocks_s: 6 configs
+v2raymelliii: 6 configs
+GrizzlyVPN: 5 configs
 xroVPN: 5 configs
-v2raymelliii: 5 configs
 orange_vpns: 4 configs
 freeconfigsplus: 4 configs
 vpn_proxy_custom: 3 configs
-viturey: 3 configs
+Network_442: 3 configs
+ultrasurf_12: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
 vpnaloo: 2 configs
 configV2rayForFree: 1 configs
-Network_442: 1 configs
 tehranargo: 1 configs
 filter_breaker: 1 configs
 
