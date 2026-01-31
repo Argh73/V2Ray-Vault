@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-01-30 23:47:16
+Timestamp: 2026-01-31 04:27:55
 Total Channels: 117
-Successful Scrapes: 77
+Successful Scrapes: 75
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -13,21 +13,20 @@ freedomofinfor: 106 configs
 ViProxys: 100 configs
 V2ray_Alpha: 99 configs
 Outline_Vpn: 95 configs
-FreakConfig: 79 configs
-configV2rayNG: 75 configs
+FreakConfig: 87 configs
+configV2rayNG: 79 configs
 oneclickvpnkeys: 75 configs
 fastfreeconfig: 50 configs
-PASARGAD_V2rayNG: 46 configs
+customv2ray: 46 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
+PASARGAD_V2rayNG: 40 configs
 ZibaNabz: 37 configs
 V2RAYROZ: 35 configs
-customv2ray: 35 configs
-vmessiran: 34 configs
 OutlineReleasedKey: 34 configs
 v2rayngconfig: 26 configs
 ev2rayy: 25 configs
-golestan_vpn: 23 configs
+vmessiran: 22 configs
 v2Source: 22 configs
 vmess_vless_v2rayng: 20 configs
 PrivateVPNs: 20 configs
@@ -36,8 +35,8 @@ GetConfigIR: 20 configs
 configfa: 20 configs
 IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
+golestan_vpn: 20 configs
 v2nodes: 20 configs
-v2rayvpnchannel: 20 configs
 Farah_VPN: 20 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
@@ -45,22 +44,20 @@ FreeVPNHomesConfigs: 19 configs
 CaV2ray: 19 configs
 vpnstorefast: 18 configs
 proxy_kafee: 18 configs
-v2rayfree: 18 configs
 freedom_config: 18 configs
-ConfigWireguard: 17 configs
-v2raying: 16 configs
+v2rayfree: 15 configs
 v2ray_for_free: 14 configs
+ultrasurf_12: 14 configs
 Network_442: 13 configs
-ultrasurf_12: 12 configs
-ShadowSocks_s: 10 configs
+xsfilternet: 12 configs
+v2raying: 11 configs
 vpn_ocean: 10 configs
 DarkVPNpro: 10 configs
 Vpnstable: 10 configs
 shadowproxy66: 10 configs
-configV2rayForFree: 9 configs
 vmess_iran: 9 configs
 ArV2ray: 9 configs
-xsfilternet: 9 configs
+v2rayvpnchannel: 9 configs
 freev2raym: 9 configs
 NoForcedHeaven: 8 configs
 iraniv2ray: 8 configs
@@ -75,11 +72,12 @@ orange_vpns: 4 configs
 freeconfigsplus: 4 configs
 v2raymelliii: 4 configs
 vpn_proxy_custom: 3 configs
+ConfigWireguard: 3 configs
 viturey: 3 configs
 bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
 vpnaloo: 2 configs
-vip_vpn_2022: 1 configs
+configV2rayForFree: 1 configs
 tehranargo: 1 configs
 filter_breaker: 1 configs
 
