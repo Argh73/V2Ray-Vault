@@ -1,37 +1,31 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-02-01 19:46:25
+Timestamp: 2026-02-01 23:46:13
 Total Channels: 117
-Successful Scrapes: 73
-Failed Scrapes: 0
+Successful Scrapes: 69
+Failed Scrapes: 6
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
 LonUp_M: 200 configs
-V2ray_Alpha: 161 configs
 configV2rayNG: 156 configs
-DailyV2RY: 148 configs
-FreakConfig: 144 configs
-V2rayNG3: 123 configs
+V2ray_Alpha: 156 configs
 freedomofinfor: 106 configs
 ViProxys: 100 configs
-Outline_Vpn: 97 configs
-PASARGAD_V2rayNG: 89 configs
+PASARGAD_V2rayNG: 76 configs
 oneclickvpnkeys: 71 configs
 configfa: 62 configs
 fastfreeconfig: 50 configs
+V2RAY_VMESS_free: 48 configs
+V2RAYROZ: 45 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
-V2RAYROZ: 38 configs
 OutlineReleasedKey: 34 configs
 ZibaNabz: 32 configs
-v2rayngconfig: 28 configs
-V2RAY_VMESS_free: 27 configs
+v2Source: 28 configs
 v2raying: 27 configs
-proxy_kafee: 26 configs
+ConfigWireguard: 25 configs
 ev2rayy: 25 configs
-ConfigWireguard: 24 configs
 customv2ray: 23 configs
-v2Source: 22 configs
 vmess_vless_v2rayng: 20 configs
 PrivateVPNs: 20 configs
 FreeV2rays: 20 configs
@@ -48,10 +42,13 @@ golestan_vpn: 19 configs
 vmessiran: 18 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
+v2rayngconfig: 17 configs
+tehranargo: 17 configs
 v2ray_for_free: 14 configs
 Vpnstable: 14 configs
-v2rayfree: 14 configs
+xsfilternet: 14 configs
 vmess_iran: 12 configs
+v2rayfree: 11 configs
 vpn_ocean: 10 configs
 DarkVPNpro: 10 configs
 freev2raym: 9 configs
@@ -64,9 +61,10 @@ redfree8: 7 configs
 An0nymousTeam: 7 configs
 hopev2ray: 7 configs
 v2raymelliii: 6 configs
-tehranargo: 6 configs
 xroVPN: 5 configs
+Network_442: 4 configs
 server_nekobox: 4 configs
+AzadNet: 4 configs
 freeconfigsplus: 4 configs
 ShadowSocks_s: 3 configs
 orange_vpns: 3 configs
@@ -75,8 +73,12 @@ bypass_filter: 3 configs
 Ahmedhamoomi_Servers: 2 configs
 viturey: 2 configs
 vpnaloo: 2 configs
-Network_442: 1 configs
 ultrasurf_12: 1 configs
-xsfilternet: 1 configs
 
 --- Failed Channels ---
+DailyV2RY
+FreakConfig
+Outline_Vpn
+ServerNett
+V2rayNG3
+freeland8
