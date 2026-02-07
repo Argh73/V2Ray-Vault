@@ -1,34 +1,34 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-02-07 11:49:02
+Timestamp: 2026-02-07 15:52:51
 Total Channels: 117
-Successful Scrapes: 73
+Successful Scrapes: 74
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-DailyV2RY: 259 configs
+DailyV2RY: 253 configs
 LonUp_M: 200 configs
 V2ray_Alpha: 171 configs
 v2rayngconfig: 131 configs
-configV2rayNG: 125 configs
 V2rayNG3: 123 configs
-oneclickvpnkeys: 117 configs
 freedomofinfor: 115 configs
-Outline_Vpn: 109 configs
+Outline_Vpn: 107 configs
 ViProxys: 100 configs
+configV2rayNG: 97 configs
+oneclickvpnkeys: 91 configs
+V2RAY_VMESS_free: 77 configs
 v2Source: 68 configs
 configfa: 68 configs
-V2RAY_VMESS_free: 65 configs
+FreakConfig: 52 configs
+V2RAYROZ: 51 configs
 fastfreeconfig: 50 configs
-FreakConfig: 42 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
-proxy_kafee: 38 configs
 ConfigWireguard: 35 configs
 OutlineReleasedKey: 34 configs
 customv2ray: 29 configs
+proxy_kafee: 28 configs
 golestan_vpn: 27 configs
-V2RAYROZ: 25 configs
 ev2rayy: 25 configs
 vmess_vless_v2rayng: 20 configs
 FreeV2rays: 20 configs
@@ -39,9 +39,10 @@ Farah_VPN: 20 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
-v2nodes: 19 configs
+v2rayfree: 19 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
+v2nodes: 17 configs
 PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 ZibaNabz: 13 configs
@@ -51,7 +52,6 @@ hopev2ray: 11 configs
 vpn_ocean: 10 configs
 v2raying: 10 configs
 DarkVPNpro: 10 configs
-v2rayfree: 10 configs
 freev2raym: 9 configs
 vmessiran: 8 configs
 ArV2ray: 8 configs
@@ -63,20 +63,21 @@ NoForcedHeaven: 7 configs
 redfree8: 7 configs
 v2raymelliii: 7 configs
 configV2rayForFree: 6 configs
-xsfilternet: 5 configs
 xroVPN: 5 configs
 v2rayvpnchannel: 5 configs
-ultrasurf_12: 4 configs
 AzadNet: 4 configs
 freeconfigsplus: 4 configs
 ShadowSocks_s: 3 configs
+vip_vpn_2022: 3 configs
+ultrasurf_12: 3 configs
 orange_vpns: 3 configs
 bypass_filter: 3 configs
-vip_vpn_2022: 2 configs
 Ahmedhamoomi_Servers: 2 configs
 viturey: 2 configs
 vpnaloo: 2 configs
 Awlix_ir: 1 configs
+Vpnstable: 1 configs
+xsfilternet: 1 configs
 filter_breaker: 1 configs
 
 --- Failed Channels ---
