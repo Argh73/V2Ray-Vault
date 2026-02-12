@@ -1,11 +1,17 @@
-trojan://bvogos3g-2yqh-hmn5-slmh-czb3pqata15x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/12 | 08:51
-trojan://hy7jrbr6-x0ev-3osn-ywmy-uexo343ijgdv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kdzdps7i-1m54-agpi-60ij-sgujhsxz2zj1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://vfnmbvey-6fzg-13q6-p7an-mfhxszsnpblf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/12 | 12:03
+trojan://w6i9nprb-ktkf-5kfj-9oyr-59a8jp90wneq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://n7bfcvex-yiuk-b9mx-wpli-xyeyxwj516oh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxU2xJakRLcElscHpaUGdUMzN4NkVi@45.15.162.92:64351#45.15.162.92:64351
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWWttSDJEVTVMaWlJelU4Qkt5Wnhv@45.95.233.75:27389#45.95.233.75:27389
 trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#172.64.152.23:443
 trojan://humanity@172.64.152.23:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#172.64.152.23:443
 trojan://humanity@172.64.152.23:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#172.64.152.23:443
+trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#172.64.152.23:443
+trojan://humanity@104.18.32.37:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#104.18.32.37:443
+trojan://humanity@172.67.180.92:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#172.67.180.92:443
+trojan://humanity@104.21.40.34:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#104.21.40.34:443
+trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#188.114.96.3:443
+trojan://humanity@chatgpt.com:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#chatgpt.com:443
 vless://851bb56d-4beb-4e48-8080-84ca1e8664de@104.19.12.165:8080?type=ws&security=none&path=/87OobIb63u8goXVe?ed=2560#104.19.12.165:8080
 vless://6c1bdaca-62d1-4ff8-8367-c1ab5451d75d@ravezh.v2moz.sbs:24807?type=xhttp&security=none&path=/#ravezh.v2moz.sbs:24807
 vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?type=tcp&security=none#v2tr.topacp.store:2053
@@ -22,7 +28,11 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grp
 vless://3e06f94f-c224-480c-962f-1d7d4615c15c@chatgpt.com:2082?type=xhttp&security=none&path=/www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net?ed=27226#chatgpt.com:2082
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?type=ws&security=tls&sni=master.red-cow.de&fp=chrome#2sudo.winapp3.ir:8443
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?type=ws&security=tls&path=/Tel-@V2rayAlpha&sni=o00o.snip.qzz.io&fp=chrome#104.17.73.206:443
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?type=ws&security=tls&path=/&sni=dev.twistsparrow.xyz#188.114.98.0:443
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?type=ws&security=tls&path=/&sni=dev.twistsparrow.xyz&fp=chrome#104.21.40.34:443
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?type=ws&security=tls&path=/&sni=dev.twistsparrow.xyz&fp=chrome#188.114.98.0:443
+vless://dea19004-2722-4b93-b708-be2afb24ab3a@girls1.taynno.com:1083?type=tcp&security=none#girls1.taynno.com:1083
 vless://d1b2bc90-fc7b-4ce3-81fb-86e198ca080c@deu342.netliberated.org:443?type=tcp&security=reality&sni=www.screwfix.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#deu342.netliberated.org:443
 vless://d1b2bc90-fc7b-4ce3-81fb-86e198ca080c@deu342.netliberated.org:443?type=tcp&security=reality&sni=www.screwfix.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#deu342.netliberated.org:443
-trojan://8ta74ah6-ogzc-6dq6-3dch-2hgrf81a73ga@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://p0l86ybb-yvyd-r1q1-c4m8-v5lp9pmsilsd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://a2w0d2ff-rpiw-5gci-fnm3-x2fcn47ycjxa@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://67k1ym9r-h41u-0jw2-sxg8-u4jln44uvdgu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
