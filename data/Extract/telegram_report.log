@@ -1,16 +1,16 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-02-14 23:44:36
+Timestamp: 2026-02-15 04:37:11
 Total Channels: 117
 Successful Scrapes: 71
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-V2ray_Alpha: 218 configs
+V2ray_Alpha: 213 configs
 LonUp_M: 200 configs
 v2rayngconfig: 175 configs
 DailyV2RY: 164 configs
-FreakConfig: 161 configs
+FreakConfig: 159 configs
 oneclickvpnkeys: 131 configs
 V2rayNG3: 124 configs
 freedomofinfor: 115 configs
@@ -18,21 +18,22 @@ Outline_Vpn: 102 configs
 ViProxys: 100 configs
 configV2rayNG: 91 configs
 v2Source: 75 configs
+golestan_vpn: 74 configs
 ZibaNabz: 62 configs
 vmess_iran: 55 configs
-configfa: 51 configs
 fastfreeconfig: 50 configs
-golestan_vpn: 48 configs
 V2RAYROZ: 42 configs
-ConfigWireguard: 42 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
+configfa: 39 configs
 OutlineReleasedKey: 34 configs
-proxy_kafee: 26 configs
+proxy_kafee: 30 configs
+tehranargo: 28 configs
 vmess_vless_v2rayng: 25 configs
 ev2rayy: 25 configs
 An0nymousTeam: 24 configs
 FreeV2rays: 20 configs
+IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
 v2nodes: 20 configs
 Farah_VPN: 20 configs
@@ -40,13 +41,13 @@ V2RAY_VMESS_free: 19 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
-PrivateVPNs: 18 configs
 vpnstorefast: 18 configs
-v2rayfree: 18 configs
 freedom_config: 18 configs
-IP_CF_Config: 17 configs
+v2rayfree: 17 configs
+PrivateVPNs: 16 configs
 customv2ray: 16 configs
 CaV2ray: 16 configs
+v2ray_configs_pool: 15 configs
 v2ray_for_free: 14 configs
 v2ngfast: 12 configs
 Network_442: 11 configs
@@ -54,8 +55,8 @@ vpn_ocean: 10 configs
 DarkVPNpro: 10 configs
 Vpnstable: 10 configs
 freev2raym: 9 configs
-tehranargo: 9 configs
 ArV2ray: 8 configs
+ConfigWireguard: 8 configs
 iraniv2ray: 8 configs
 NoForcedHeaven: 7 configs
 redfree8: 7 configs
@@ -75,6 +76,5 @@ viturey: 2 configs
 vpnaloo: 2 configs
 vip_vpn_2022: 1 configs
 ZeusVPN_Net: 1 configs
-v2ray_configs_pool: 1 configs
 
 --- Failed Channels ---
