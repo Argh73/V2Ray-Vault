@@ -1,23 +1,24 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-02-17 08:47:51
+Timestamp: 2026-02-17 12:02:36
 Total Channels: 117
-Successful Scrapes: 73
+Successful Scrapes: 72
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-configV2rayNG: 267 configs
-DailyV2RY: 237 configs
+configV2rayNG: 258 configs
 V2ray_Alpha: 229 configs
+DailyV2RY: 222 configs
 LonUp_M: 200 configs
+oneclickvpnkeys: 176 configs
 v2rayngconfig: 175 configs
-oneclickvpnkeys: 141 configs
-FreakConfig: 130 configs
+configfa: 148 configs
+FreakConfig: 118 configs
 freedomofinfor: 115 configs
 V2rayNG3: 104 configs
 ViProxys: 100 configs
 Outline_Vpn: 98 configs
-ZibaNabz: 76 configs
+ZibaNabz: 83 configs
 golestan_vpn: 59 configs
 V2RAYROZ: 52 configs
 v2Source: 50 configs
@@ -31,7 +32,6 @@ V2RAY_VMESS_free: 29 configs
 ev2rayy: 25 configs
 An0nymousTeam: 24 configs
 v2raying: 23 configs
-configfa: 22 configs
 FreeV2rays: 20 configs
 IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
@@ -43,13 +43,11 @@ FreeVPNHomesConfigs: 19 configs
 v2rayng_1378: 19 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
-PrivateVPNs: 16 configs
 CaV2ray: 16 configs
 v2ngfast: 16 configs
+PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
-v2ray_configs_pool: 13 configs
 vpn_ocean: 10 configs
-Network_442: 10 configs
 DarkVPNpro: 10 configs
 Vpnstable: 10 configs
 customv2ray: 9 configs
@@ -57,12 +55,13 @@ freev2raym: 9 configs
 tehranargo: 9 configs
 ArV2ray: 8 configs
 iraniv2ray: 8 configs
+Network_442: 7 configs
 NoForcedHeaven: 7 configs
 redfree8: 7 configs
 ShadowsocksM: 6 configs
 vmess_iran: 6 configs
-ConfigWireguard: 6 configs
 v2raymelliii: 6 configs
+ConfigWireguard: 5 configs
 AzadNet: 5 configs
 xroVPN: 5 configs
 v2rayfree: 5 configs
@@ -72,10 +71,10 @@ ultrasurf_12: 3 configs
 iSeqaro: 3 configs
 hopev2ray: 3 configs
 bypass_filter: 3 configs
-orange_vpns: 2 configs
 Ahmedhamoomi_Servers: 2 configs
 viturey: 2 configs
 vpnaloo: 2 configs
+orange_vpns: 1 configs
 xsfilternet: 1 configs
 ZeusVPN_Net: 1 configs
 
