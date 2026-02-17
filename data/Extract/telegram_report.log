@@ -1,34 +1,34 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-02-17 12:02:36
+Timestamp: 2026-02-17 16:04:55
 Total Channels: 117
-Successful Scrapes: 72
+Successful Scrapes: 71
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-configV2rayNG: 258 configs
 V2ray_Alpha: 229 configs
-DailyV2RY: 222 configs
+configV2rayNG: 223 configs
 LonUp_M: 200 configs
-oneclickvpnkeys: 176 configs
+DailyV2RY: 186 configs
 v2rayngconfig: 175 configs
 configfa: 148 configs
-FreakConfig: 118 configs
+oneclickvpnkeys: 133 configs
 freedomofinfor: 115 configs
 V2rayNG3: 104 configs
+FreakConfig: 103 configs
 ViProxys: 100 configs
-Outline_Vpn: 98 configs
+Outline_Vpn: 91 configs
 ZibaNabz: 83 configs
 golestan_vpn: 59 configs
-V2RAYROZ: 52 configs
 v2Source: 50 configs
 fastfreeconfig: 50 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
+V2RAYROZ: 35 configs
 OutlineReleasedKey: 34 configs
-proxy_kafee: 30 configs
 vmess_vless_v2rayng: 29 configs
 V2RAY_VMESS_free: 29 configs
+xsfilternet: 28 configs
 ev2rayy: 25 configs
 An0nymousTeam: 24 configs
 v2raying: 23 configs
@@ -40,13 +40,17 @@ Farah_VPN: 20 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
+ConfigWireguard: 19 configs
 v2rayng_1378: 19 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
 CaV2ray: 16 configs
+proxy_kafee: 16 configs
 v2ngfast: 16 configs
 PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
+v2ray_configs_pool: 14 configs
+v2rayfree: 11 configs
 vpn_ocean: 10 configs
 DarkVPNpro: 10 configs
 Vpnstable: 10 configs
@@ -55,16 +59,12 @@ freev2raym: 9 configs
 tehranargo: 9 configs
 ArV2ray: 8 configs
 iraniv2ray: 8 configs
-Network_442: 7 configs
+vmess_iran: 7 configs
 NoForcedHeaven: 7 configs
 redfree8: 7 configs
-ShadowsocksM: 6 configs
-vmess_iran: 6 configs
 v2raymelliii: 6 configs
-ConfigWireguard: 5 configs
 AzadNet: 5 configs
 xroVPN: 5 configs
-v2rayfree: 5 configs
 configV2rayForFree: 4 configs
 freeconfigsplus: 4 configs
 ultrasurf_12: 3 configs
@@ -75,7 +75,6 @@ Ahmedhamoomi_Servers: 2 configs
 viturey: 2 configs
 vpnaloo: 2 configs
 orange_vpns: 1 configs
-xsfilternet: 1 configs
 ZeusVPN_Net: 1 configs
 
 --- Failed Channels ---

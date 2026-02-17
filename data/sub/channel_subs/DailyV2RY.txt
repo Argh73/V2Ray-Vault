@@ -1,8 +1,6 @@
-trojan://5px2zt19-icft-iiao-cf53-848amlm7mzxg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/17 | 12:02
-trojan://yalpyvn7-e02c-h36u-omn2-scdmxbfv09a5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2tbjvto5-3pfn-nqzy-6ece-eyv6gh1y1amp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#57.129.140.88:8388
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#57.129.140.88:8388
+trojan://db5bkvrq-rapn-jvwv-30fm-lu03kho2sc46@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/17 | 16:05
+trojan://jni7hxdq-wnet-83ia-olyi-ctpccneqp95p@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://0sb7alla-zzn7-p6ts-7f07-b1xp4yzo4u6x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#57.129.140.88:8388
 trojan://humanity@104.18.11.110:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#104.18.11.110:443
 trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#104.18.32.47:443
@@ -27,25 +25,6 @@ vmess://eyJ2IjoiMiIsInBzIjoidGVsZWdyYW0gXHVkODNjXHVkZjRhIGRhaWx5djJyeSIsImFkZCI6
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVx1MDBhZVx1ZmUwZkdlcm1hbnlcdTAwYTlcdWZlMGZMaW1idXJnIGFuIGRlciBMYWhuXHVkODNjXHVkZDdmXHVmZTBmcGluZzoyMm1zIDMyIGRhaWx5djJyeSIsImFkZCI6IjU3LjEyOS4yNS4yMiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0Ijoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MifQ
 vmess://eyJ2IjoiMiIsInBzIjoidGVsZWdyYW0gXHUyNmExXHVmZTBmIGRhaWx5djJyeSIsImFkZCI6ImppOS5hZTFhdXR1bW4udXMuY2kiLCJwb3J0Ijo4MCwiaWQiOiI0YzIwNWM4MS01Njk0LTQzZmUtYTI4Ny1hZjU2M2EyZWJjMDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9kakEwN2lVc1NwMEsyRm80Z2RzN2NYcERCNW5PNSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVx1MDBhZVx1ZmUwZkdlcm1hbnlcdTAwYTlcdWZlMGZMaW1idXJnIGFuIGRlciBMYWhuXHVkODNjXHVkZDdmXHVmZTBmcGluZzoyMm1zIDcwIGRhaWx5djJyeSIsImFkZCI6IjU3LjEyOS4yNS4yMiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0Ijoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MifQ
-vless://09ef4c6e-fcb2-4e51-a5bd-bea6ef4f66aa@am.citymobileshop.top:24171?type=tcp&security=none#am.citymobileshop.top:24171
-vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?type=tcp&security=none#91.107.208.24:443
-vless://cd745deb-8a54-880d-d0b4-0076f367d12e@animallzoo-love-zoo-nect.giggoopanel.ir:9091?type=tcp&security=none#animallzoo-love-zoo-nect.giggoopanel.ir:9091
-vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?type=tcp&security=none#91.107.208.24:443
-vless://rootface@::ffff:47.242.178.170:80?type=ws&security=none&path=/𒉭𓆩@rootface𒆜𒉭 @pwn_1337 TELEGRAM#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night#::ffff:47.242.178.170:80
-vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?type=ws&security=tls&path=/35.230.79.26=443#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night&sni=afrcloud22.mmv.kr#afrcloud22.mmv.kr:443
-vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@afrcloud22.mmv.kr:443?type=ws&security=tls&path=/107.174.121.122=443&sni=afrcloud22.mmv.kr#afrcloud22.mmv.kr:443
-vless://3655caf2-a709-4e44-f353-773ddda24d7b@3.127.108.57:36512?type=tcp&security=none#3.127.108.57:36512
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?type=ws&security=tls&path=/&sni=dev.twistsparrow.xyz&fp=chrome#188.114.98.0:443
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?type=ws&security=tls&path=/&sni=dev.twistsparrow.xyz&fp=chrome#188.114.98.0:443
-vless://3655caf2-a709-4e44-f353-773ddda24d7b@3.127.108.57:36512?type=tcp&security=none#3.127.108.57:36512
-vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?type=tcp&security=none#91.107.208.24:443
-vless://rootface@::ffff:47.242.178.170:80?type=ws&security=none&path=/𒉭𓆩@rootface𒆜𒉭 @pwn_1337 TELEGRAM#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night#::ffff:47.242.178.170:80
-vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@afrcloud22.mmv.kr:443?type=ws&security=tls&path=/107.174.121.122=443&sni=afrcloud22.mmv.kr#afrcloud22.mmv.kr:443
-vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?type=tcp&security=none#91.107.208.24:443
-vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?type=ws&security=tls&path=/131.186.26.129=30443&sni=afrcloud22.mmv.kr#afrcloud22.mmv.kr:443
-vless://cd745deb-8a54-880d-d0b4-0076f367d12e@animallzoo-love-zoo-nect.giggoopanel.ir:9091?type=tcp&security=none#animallzoo-love-zoo-nect.giggoopanel.ir:9091
-vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?type=ws&security=tls&path=/35.230.79.26=443#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night&sni=afrcloud22.mmv.kr#afrcloud22.mmv.kr:443
-vless://09ef4c6e-fcb2-4e51-a5bd-bea6ef4f66aa@am.citymobileshop.top:24171?type=tcp&security=none#am.citymobileshop.top:24171
 vless://09ef4c6e-fcb2-4e51-a5bd-bea6ef4f66aa@am.citymobileshop.top:24171?type=tcp&security=none#am.citymobileshop.top:24171
 vless://rootface@::ffff:47.242.178.170:80?type=ws&security=none&path=/𒉭𓆩@rootface𒆜𒉭 @pwn_1337 TELEGRAM#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night#::ffff:47.242.178.170:80
 vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?type=ws&security=tls&path=/35.230.79.26=443#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night&sni=afrcloud22.mmv.kr#afrcloud22.mmv.kr:443
@@ -159,7 +138,6 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?type=w
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?type=ws&security=tls&path=/45.76.183.217=49292&sni=hetz.x-smm.com#www.speedtest.net:2096
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?type=ws&security=tls&path=/&sni=ipv4.yasharteam.com&fp=chrome#ip.shakhle.ir:2083
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#64.188.104.168:40721
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#64.188.104.168:40721
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?type=tcp&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#47.80.13.85:443
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?type=tcp&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#47.80.13.85:443
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?type=tcp&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#47.80.13.85:443
@@ -175,5 +153,5 @@ vless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?type=tcp&security
 vless://32561144-434f-4752-a731-f35cd191ba4a@spb.roblugo.su:443?type=tcp&security=reality&sni=spb.roblugo.su&fp=qq&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#spb.roblugo.su:443
 vless://32561144-434f-4752-a731-f35cd191ba4a@spb.roblugo.su:443?type=tcp&security=reality&sni=spb.roblugo.su&fp=qq&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#spb.roblugo.su:443
 vless://ef69fec4-568a-428b-b0bf-5b3f9e9faa23@144.31.237.22:8443?type=xhttp&security=reality&path=/&sni=pingless.com&fp=chrome&pbk=sLp0-BtGhqDhYoUS87gqkcAmX87AAAiCSKJLgb33CAk&sid=7a1c2e6b540f9b3d#144.31.237.22:8443
-trojan://2didqisl-ybey-l2za-jyh2-p624mg5ic23q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://i5pdt6g3-sg43-833v-102g-ytz4t1pnz01z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://x39coc8p-uevc-e8xd-vq2c-ty5b9z8n7833@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://j6dzexxq-dpmj-wl9w-7tvy-i0p8qm0huw8s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
