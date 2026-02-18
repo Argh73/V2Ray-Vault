@@ -1,6 +1,6 @@
-trojan://roc8p039-jjes-j0tx-1ln3-pheqs7bezlx2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/17 | 23:55
-trojan://5wv241jq-1uyt-7xmu-cg8r-iw109y9630tm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://7r82zo4b-un9c-bhcg-47ai-jtv7h2m20avc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://5e7alnni-qt9r-qdzw-zgyi-27r5ajyk3gaf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/18 | 04:36
+trojan://kxnj6yfn-c2g0-ybec-gfrf-7tqlwqcrv0hv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://usb3kzvi-v1ie-xz1d-npni-537szmd3zp80@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#promo18v.bystrivpn.ru:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#82.38.31.210:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#145.249.109.121:25512
@@ -82,6 +82,7 @@ vless://a5b22acc-bbec-4f8d-9bb8-e6bb2d973730@chatgpt.com:8443?type=ws&security=t
 vless://a1a91a85-4997-40ca-a32c-269f39d1381c@104.18.32.47:2053?type=ws&security=tls&path=/&sni=s4294287AAMf.gamenexus.ir#104.18.32.47:2053
 vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.18.32.47:443?type=ws&security=tls&path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&sni=DiGIkALaA.dpdns.ORG&fp=chrome#104.18.32.47:443
 vless://5590a2f6-9703-4bd9-8861-6bd5d20d93c1@chatgpt.com:443?type=ws&security=tls&path=/?ed=2560&sni=ok-7t5.pages.dev&fp=chrome#chatgpt.com:443
+vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?type=ws&security=none#vip.api-tel.xyz:43151
 vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?type=tcp&security=reality&sni=mirror.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&sid=7e44612b079459#us.nitroo-tech.ru:443
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&sid=89dbda1a1c9369#64.188.70.0:443
 vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U#91.99.8.201:443
@@ -97,7 +98,6 @@ vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?type=tcp&securit
 vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.95:8443?type=tcp&security=reality&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#176.120.67.95:8443
 vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.77:8443?type=tcp&security=reality&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#176.120.67.77:8443
 vless://c870584f-a0c3-47f6-8b8e-09eef67b3d01@a15.api-tel.ir:54697?type=tcp&security=reality&path=/&sni=ea.com&fp=chrome&pbk=SE18-hr9HPPosy_BCLK4bh8fwNJdrJrNtkTBcsOqBGk&sid=d128bc#a15.api-tel.ir:54697
-vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?type=tcp&security=reality&sni=ea.com&fp=chrome&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&sid=02#tes1.api-tel.xyz:50855
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#206.71.158.41:35000
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#206.71.158.41:35000
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#206.71.158.37:35000
@@ -105,5 +105,5 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kerm
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#206.71.158.37:35000
 hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#2a01:4f9:4b:f378::1:13599
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#206.71.158.41:35000
-trojan://vrwo1d59-9yr7-vtls-rqw3-5uk7v0cwa4ut@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://b2t1yh0q-o3mm-asgq-buqy-4m75wbomnjtl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://gsez9vhz-vrni-x1ik-zvxi-tyn8v0p23oq5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://yoybgju0-wwvg-vnxs-gnmt-yrplih2k7jwl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
