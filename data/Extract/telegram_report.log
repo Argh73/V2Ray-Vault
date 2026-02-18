@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-02-18 20:19:16
+Timestamp: 2026-02-18 23:57:40
 Total Channels: 117
-Successful Scrapes: 69
+Successful Scrapes: 68
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -11,26 +11,26 @@ configV2rayNG: 230 configs
 LonUp_M: 200 configs
 V2ray_Alpha: 189 configs
 v2rayngconfig: 179 configs
+oneclickvpnkeys: 132 configs
 V2rayNG3: 124 configs
-oneclickvpnkeys: 107 configs
+FreakConfig: 106 configs
 freedomofinfor: 106 configs
 DailyV2RY: 105 configs
-FreakConfig: 104 configs
-Outline_Vpn: 102 configs
+Outline_Vpn: 101 configs
 ViProxys: 100 configs
-ConfigWireguard: 89 configs
 ZibaNabz: 85 configs
-V2RAYROZ: 63 configs
+ConfigWireguard: 73 configs
 golestan_vpn: 59 configs
 v2rayng_1378: 54 configs
+V2RAYROZ: 52 configs
 fastfreeconfig: 50 configs
+v2Source: 46 configs
 yaney_01: 41 configs
-v2Source: 41 configs
 dailyv2ray: 40 configs
 OutlineReleasedKey: 34 configs
+proxy_kafee: 31 configs
 vmess_vless_v2rayng: 29 configs
 V2RAY_VMESS_free: 29 configs
-proxy_kafee: 28 configs
 ev2rayy: 25 configs
 An0nymousTeam: 24 configs
 v2raying: 23 configs
@@ -46,26 +46,26 @@ FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
 CaV2ray: 16 configs
+v2rayfree: 16 configs
 v2ray_for_free: 14 configs
 PrivateVPNs: 12 configs
-v2rayfree: 11 configs
+Vpnstable: 11 configs
+hopev2ray: 11 configs
 vpn_ocean: 10 configs
 DarkVPNpro: 10 configs
-Vpnstable: 10 configs
 vmess_iran: 9 configs
 freev2raym: 9 configs
-tehranargo: 9 configs
 configV2rayForFree: 8 configs
 ArV2ray: 8 configs
 iraniv2ray: 8 configs
-customv2ray: 7 configs
 NoForcedHeaven: 7 configs
 redfree8: 7 configs
-AzadNet: 5 configs
+customv2ray: 6 configs
 xroVPN: 5 configs
+shadowproxy66: 5 configs
 v2raymelliii: 5 configs
 xsfilternet: 4 configs
-hopev2ray: 3 configs
+AzadNet: 4 configs
 bypass_filter: 3 configs
 iSeqaro: 2 configs
 Ahmedhamoomi_Servers: 2 configs
@@ -73,6 +73,5 @@ viturey: 2 configs
 vpnaloo: 2 configs
 orange_vpns: 1 configs
 ZeusVPN_Net: 1 configs
-shadowproxy66: 1 configs
 
 --- Failed Channels ---
