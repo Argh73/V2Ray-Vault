@@ -1,6 +1,7 @@
-trojan://o6u3ujdh-rfun-oyno-fvwn-u06o8nvmhs3w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/19 | 08:48
-trojan://9nsucn60-wqc3-lfsv-uogh-wh9hbwgvxc9o@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://df8cyr6d-24x6-23md-4xnh-5bxomb8n8boq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://d0kpj6a7-7f19-mr4u-v715-8xxoz2ijwkvi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/19 | 12:01
+trojan://htikuui2-7148-xi3i-02xh-tivts9f2n63z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://fqolbme4-y0ui-skst-gqaz-xrw4u8x4n4s2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#78.38.246.150:8446
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#78.38.246.150:8446
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#78.38.246.150:8446
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#78.38.246.150:8446
@@ -18,11 +19,15 @@ vless://4c765647-bc2e-456c-8ac0-47a5e45c9fad@::ffff:26f2:eae4:80?type=ws&securit
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?type=tcp&security=none#195.234.80.178:26480
 vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@45.130.125.160:2052?type=xhttp&security=none&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&sni=api-at.cdnight.ir#45.130.125.160:2052
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?type=ws&security=tls&path=/45.76.183.217=49292&sni=hetz.x-smm.com&fp=chrome#clyde.ns.cloudflare.com:2096
+vless://f8d3b3c4-678d-4a23-a4de-f8613a310a44@78.110.123.32:2095?type=tcp&security=none#78.110.123.32:2095
+vless://796d1abf-3380-4ad3-9c0f-11575e621023@http.tostar.ir:443?type=httpupgrade&security=tls&path=/UdhD3KL2ybEo3nVleSsjHGjsiFSl0JRLUHttPuPgRaDe&sni=http.tostar.ir&fp=chrome#http.tostar.ir:443
+vless://5c576c29-6b99-41c7-b2d4-5f259d3a163c@vip.irvps.online:42246?type=tcp&security=none#vip.irvps.online:42246
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?type=ws&security=tls&path=/45.76.183.217=49292&sni=hetz.x-smm.com&fp=chrome#clyde.ns.cloudflare.com:2096
 vless://6ab80df3-5f07-4aa7-9aed-44d6db54aa3f@87.106.21.75:443?type=tcp&security=reality&sni=azure.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#87.106.21.75:443
 vless://ba8d9308-3e66-45ba-bf24-bda4533154bc@nl1.zen.irish:443?type=tcp&security=reality&sni=blog.zen.irish&fp=chrome&flow=xtls-rprx-vision&pbk=snZTSRUVea-Qbn8sqO73JG2GuPXcoRrmpQ7dnHapM3Y#nl1.zen.irish:443
 vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@pl-modx.webedg.net:443?type=tcp&security=reality&sni=pl-modx.webedg.net&fp=chrome&flow=xtls-rprx-vision&pbk=rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM#pl-modx.webedg.net:443
 vless://5c430300-999a-4df3-97d2-50b2c53adf28@178.154.207.153:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#178.154.207.153:443
 vless://d7adab30-f6e4-46fe-ad43-9227625ab4f5@node2-ru.web-davinci.ru:33107?type=tcp&security=reality&sni=download.cdn.yandex.net&fp=random&flow=xtls-rprx-vision&pbk=chTt0lPq848zhBQy_-6pFzWWfta1bpVAiwcJExfUrkM&sid=8c32#node2-ru.web-davinci.ru:33107
 vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@pl-modx.webedg.net:443?type=tcp&security=reality&sni=pl-modx.webedg.net&fp=chrome&flow=xtls-rprx-vision&pbk=rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM#pl-modx.webedg.net:443
-trojan://h12i4zrz-oxfi-l9w7-kfk0-ah3vyvwlbx4m@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://lyck8cfe-hhmj-5zbq-yc6p-utdscg51qnfd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://7ix9tfl9-p05o-qya3-2amr-gi75tl57bvmw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://d3lxvzb5-jvuq-6gyv-xr16-j6pvqwt1qqf1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
