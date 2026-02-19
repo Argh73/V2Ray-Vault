@@ -1,6 +1,6 @@
-trojan://50ze26ry-j16z-pyu8-4owg-rj0v7ybgu1kn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/19 | 04:35
-trojan://fn69ryd5-fkzh-1kg0-gx4h-ix6v4w7jawn3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://iqe31bk2-fyxw-q3be-wb7o-jaftd0kuitn2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ohhvyp56-k0cx-zehk-hfb9-0jjdtqsvpltv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/19 | 08:48
+trojan://934xgw9m-pooj-lyzg-ijxp-9301hf62rdiz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://0qagdj6m-tg5g-ua0g-qsmv-g3ge90l610se@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpITGs3QWxXM2E4eVkyZVNyYWtKdEVD@31.192.234.199:5223#31.192.234.199:5223
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#144.217.164.29:12000
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#admin.c2.havij.co:443
@@ -13,6 +13,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#admin.c2.havij.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#82.38.31.61:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#62.133.63.167:61377
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#18.183.109.29:3373
 trojan://humanity@172.64.152.23:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#172.64.152.23:443
 trojan://humanity@172.67.180.92:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#172.67.180.92:443
@@ -86,6 +87,9 @@ vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ipv1.shakhle.ir:443?type=ws&securit
 vless://nasnet@162.19.10.94:443?type=tcp&security=tls&sni=nasnet-162191094-direct.sharghdaily.co&flow=xtls-rprx-vision#162.19.10.94:443
 vless://e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83@151.101.9.81:80?type=ws&security=none&path=/@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--/@HqV2RayNG--@HqV2RayNG?ed=2056#151.101.9.81:80
 vless://nasnet@162.19.10.94:443?type=tcp&security=tls&sni=nasnet-162191094-direct.sharghdaily.co&flow=xtls-rprx-vision#162.19.10.94:443
+vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80?type=ws&security=none&path=/#z.ssl.fastly.net:80
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?type=ws&security=tls&path=/?ed&sni=sni.111000.v6.navy&fp=chrome#5.161.50.246:443
+vless://dc2c7fb0-6482-4977-945b-ce0e3be94a9d@auths.microsrotfonline.com:443?type=tcp&security=none#auths.microsrotfonline.com:443
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#64.188.104.168:40721
 vless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?type=tcp&security=reality&sni=nl.roblugo.su&fp=qq&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#nl.roblugo.su:443
 vless://32561144-434f-4752-a731-f35cd191ba4a@spb.roblugo.su:443?type=tcp&security=reality&sni=spb.roblugo.su&fp=qq&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#spb.roblugo.su:443
@@ -107,5 +111,10 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?type=tcp&securi
 vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:8443?type=tcp&security=reality&sni=m.vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#212.111.84.82:8443
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#57.129.49.1:23576
 vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?type=tcp&security=reality&sni=mycatcollection.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#185.227.149.123:443
-trojan://4khut0ka-brd3-c3j8-3xat-6mkbh5yi1auy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://9gvn62ur-ekhu-dbc1-xi4n-ipxzioqa2q7u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://32561144-434f-4752-a731-f35cd191ba4a@spb.roblugo.su:443?type=tcp&security=reality&sni=spb.roblugo.su&fp=qq&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#spb.roblugo.su:443
+vless://8e28baed-b7da-29a3-cb89-cb7e4878c011@5.255.126.160:2051?type=tcp&security=reality&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=pMAxMd8b9VTp8Yp4v18z98zJ6frzxPdK0DvZT8CMF2k&sid=9d38c6241e8c654a#5.255.126.160:2051
+vless://ac754349-a3d5-4eca-990e-1119c0cff4d5@57.128.191.90:8443?type=tcp&security=reality&sni=www.chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=FFMIZGGtmpMeCKluwyQ2qjgReo6EU8xwM7oLB-ysa2k&sid=59611200#57.128.191.90:8443
+vless://c2d73a71-923a-4a53-bc4b-dfb47db20527@80.211.141.177:443?type=tcp&security=reality&sni=gmail.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#80.211.141.177:443
+vless://1834316d-2b59-4239-970d-c764218bcdf2@144.24.97.225:443?type=tcp&security=reality&sni=osxapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=h6jFhmMYpmiEmm4sxrBLBSxtgsdM5k5EUvrv1bKNFGU&sid=8894620bd4b91f71#144.24.97.225:443
+trojan://oiw4n962-dwzd-5lvo-0g9u-l3l2u32t45in@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://82mj062j-kstj-7k71-qys3-xpov2umqnnfw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
