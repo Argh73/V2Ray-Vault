@@ -1,6 +1,6 @@
-trojan://g9z6yi7q-rgif-27yi-qluv-xvvjbafsmn6i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/21 | 19:46
-trojan://tymjsu7o-1ata-l5sw-ca85-ddlrmi217pjl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ftgzgy30-va5i-j3mv-dfdb-1p0uypuacvrx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4henpy96-e20q-sxan-4e03-hn2b2bqhmd2j@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/21 | 23:44
+trojan://z52piiqk-tcke-gjzz-fu1h-1ihywgj0vevh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vd5xyfcc-jlb4-tqod-ejiw-chzusafdi66k@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#3.1.195.148:8316
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#3.112.130.53:8319
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#3.112.130.53:8316
@@ -10,6 +10,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#3.112.130.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#3.1.195.148:8319
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#3.112.130.53:8319
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#3.1.195.148:8316
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#3.112.130.53:8319
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?sni=iepl.usq1.cat.bilibili.com&peer=iepl.usq1.cat.bilibili.com&security=tls#5.34.222.4:43642
 vmess://eyJ2IjoiMiIsInBzIjoiQENvbmZpZ1YyUmF5TkciLCJhZGQiOiIxMDQuMTcuNzcuNzciLCJwb3J0Ijo4NDQzLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6MCwic2N5Ijoibm9uZSIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZDM3XHVmZTBmIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NCBcdTA2NDVcdTA2MjcgOiBDb25maWdWMlJheU5HQCIsImFkZCI6IjEwNC4xNy43Ny43NyIsInBvcnQiOjg0NDMsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjowLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiJ9
@@ -121,7 +122,16 @@ vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?type=ws&s
 vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?type=tcp&security=none#3.72.62.160:15200
 vless://2639a84f-a6a5-4283-b2bd-42f4bc0430fa@45.159.148.34:8585?type=tcp&security=none#45.159.148.34:8585
 vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?type=tcp&security=none#87.236.38.66:2087
+vless://af07a5ea-e637-41bd-f88f-bc4493b645a2@18.197.25.140:32016?type=tcp&security=none#18.197.25.140:32016
+vless://9a887970-9742-48fd-ee77-57735bdc1d49@3.76.29.156:443?type=tcp&security=none#3.76.29.156:443
+vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.120.192.139:443?type=tcp&security=none#3.120.192.139:443
+vless://1a78ba25-1f6f-4496-b2a7-3bfec130a734@188.114.98.0:443?type=xhttp&security=tls&path=/video/stream&sni=free-httpcustom-free-httpcustomifree-httpcustom-free-httpcustom.frre-plus-mobile.ir&fp=chrome#188.114.98.0:443
+vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@47.253.253.238:443?type=tcp&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&flow=xtls-rprx-vision#47.253.253.238:443
+vless://1f72d585-175e-4c89-fd78-5d7947009c1b@3.125.34.124:443?type=tcp&security=none#3.125.34.124:443
+vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?type=tcp&security=none#87.236.38.66:2087
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?type=xhttp&security=none&path=pabloping#b.pabloping.cloud:2052
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?type=xhttp&security=none&path=pabloping#a.pabloping.cloud:2052
 vless://32e97345-6a66-4810-9821-82f07a0e2d6c@my.kiomars.shop:6664?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&sid=c3b6ed4da7a983c7#my.kiomars.shop:6664
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#5.175.249.174:35000
-trojan://6q4po9mz-iewg-gbue-pnfn-h0zq7sx3vkds@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6sp4i4j6-qy22-fh94-jfwo-fwkyqoys19d0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://7qbkjpq3-yenl-r2uj-3ux9-6dfdr24g6uj0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6c8wb8z0-fhds-hz76-fjbz-bhsa58kzid7k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
