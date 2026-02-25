@@ -1,10 +1,12 @@
-trojan://jzq4cnnr-x7qo-kyk1-kvt1-bdq80arshcx2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/25 | 16:06
-trojan://hsh4cj2x-tm2u-yrdb-aysd-3gt6204u659f@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://n5q8k8tc-kie2-3fl1-i4z5-h8ww8zixc235@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://uib2f58d-dhdp-7t08-r8au-f7k8zbq4l7a1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/25 | 20:27
+trojan://wim6i1s9-uv8k-qjrk-7kbo-z5oktwmsux9h@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2w0hv5lw-zdpv-r3fl-yyqb-4j3r2yzv6e19@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#admin.c2.havij.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#141.95.106.127:11201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#admin.c2.havij.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#82.38.31.89:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#141.95.106.127:11201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#admin.c1.havij.co:443
 trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#172.64.152.23:443
 trojan://humanity@www.gossipglove.com:443?sni=www.gossipglove.com&peer=www.gossipglove.com&security=tls#www.gossipglove.com:443
 vmess://eyJ2IjoiMiIsInBzIjoiQEdvbGVzdGFuX1ZQTiAtIDUiLCJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwicG9ydCI6NTUxODUsImlkIjoiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii9Ob3RpZl9DaGF0In0
@@ -39,6 +41,16 @@ vless://48129906-0fdc-482e-8c79-c78bfc6480b7@104.18.32.47:443?type=ws&security=t
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?type=tcp&security=tls&sni=deu549.worldbypass.org&flow=xtls-rprx-vision#93.94.51.210:443
 vless://2f1e6b3e-7c92-4af7-bbb4-6f849176a856@ir.tabarston.xyz:11484?type=grpc&security=none#ir.tabarston.xyz:11484
 vless://Join-golestan-vpn@www.speedtest.net:2053?type=ws&security=tls&path=/?ed=2048&sni=dl.immerchauffage.ir.&fp=random#www.speedtest.net:2053
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096?type=ws&security=tls&path=/&sni=sni.111000.indevs.in&fp=chrome#199.181.197.138:2096
+vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-77.f-sub.cfd:1517?type=tcp&security=none#vip-77.f-sub.cfd:1517
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.14.21:443?type=ws&security=tls&path=/131.186.26.129&sni=afrcloud22.mmv.kr&fp=chrome#104.26.14.21:443
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?type=ws&security=tls&path=/&sni=p1.thisiswe.uno&fp=chrome#glob.thisiswe.uno:2053
+vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@45.130.125.198:8443?type=ws&security=tls&path=/&sni=nobitex.sylu.net#45.130.125.198:8443
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?type=ws&security=tls&path=/?V_P_N_Ahmad&sni=p1.thisiswe.uno&fp=chrome#glob.thisiswe.uno:2053
+vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-82.f-sub.cfd:1517?type=tcp&security=none#vip-82.f-sub.cfd:1517
+vless://e42513dd-e4de-446f-a7df-2bc23db90ba1@v2.speedbluepanel.sbs:52657?type=tcp&security=none#v2.speedbluepanel.sbs:52657
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.251.86.199:443?type=ws&security=tls&path=/?ed=2560&sni=sni.111000.indevs.in&fp=chrome#87.251.86.199:443
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?type=httpupgrade&security=none&path=/#dnss.iraniranshopdashnoard.ir:2086
 vless://ad961404-6249-4a11-9577-d1e81f6b198f@150.241.90.13:443?type=tcp&security=reality&sni=monolithgate.com&fp=chrome&flow=xtls-rprx-vision&pbk=0d6fEYI5nZ_puQdJ5J9Sn7ExAs53DZzbpfxghHt_u2E&sid=7c81a04a4b20#150.241.90.13:443
 vless://c544111e-cb4d-48c1-b05e-1a7c4b0a5000@7fra.solonettochka.ru:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=5Y8SmPZENDPp93lANbxf_sO7vKEFNIEqBNL6sx2vigI&sid=874e4e#7fra.solonettochka.ru:443
 vless://cbf05dc7-02a8-4488-ad11-3ed4570cd699@gfnfhyhttgbrtgbrtgbrtttyht7.arenafile.com:33431?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&pbk=DQjRDYsGHriGDOyYw4ikOCgg8fnPoK6Hw74wuio7qyk&sid=cceca309a6cd013a#gfnfhyhttgbrtgbrtgbrtttyht7.arenafile.com:33431
@@ -69,5 +81,7 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?type=tcp&securi
 vless://46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47@158.160.105.121:51102?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#158.160.105.121:51102
 vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y#142.248.80.157:443
 vless://af225242-373e-48dc-b918-4bab11d56c4b@ftp2.2debian.org.www.speedtest.net.ieltsmahan.ieltsmahan.th.ip.springernature.site:3580?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=1coa2Kbrf7AN47bG7UHZKyhvmgkHlxUiBjBQGfoz5xo&sid=75#ftp2.2debian.org.www.speedtest.net.ieltsmahan.ieltsmahan.th.ip.springernature.site:3580
-trojan://zosklfhh-k8qg-eqw1-27nu-s6na3pu03yze@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bi8qhhi4-rncu-rrjz-y26e-lc27fmo46fjg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb08.ava-shop.ir:2096?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#maxb08.ava-shop.ir:2096
+hysteria2://germany_hysteria2_fastlane_5devbouui%3Ad6PbiWJIc6RAIokX8S7ZyXEm6SjqfvXA@150.241.79.106:1935?sni=de2.h.fastlanehosting.ru&insecure=1#150.241.79.106:1935
+trojan://otzkkkh2-4ba6-hcbg-d328-bloxqkwhey4g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ic9mfod6-i2cz-e9ls-20xw-s37w9ahyuzdv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
