@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-02-25 20:27:17
+Timestamp: 2026-02-25 23:55:08
 Total Channels: 117
-Successful Scrapes: 71
+Successful Scrapes: 70
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -9,7 +9,7 @@ freev2rayssr: 300 configs
 V2ray_Alpha: 219 configs
 LonUp_M: 200 configs
 configV2rayNG: 197 configs
-FreakConfig: 172 configs
+FreakConfig: 174 configs
 oneclickvpnkeys: 153 configs
 v2rayngconfig: 148 configs
 V2rayNG3: 124 configs
@@ -18,39 +18,39 @@ vmess_iran: 95 configs
 freedomofinfor: 92 configs
 Outline_Vpn: 91 configs
 golestan_vpn: 85 configs
-v2rayng_1378: 83 configs
+v2Source: 77 configs
 configfa: 73 configs
-v2Source: 70 configs
-ZibaNabz: 62 configs
+V2RAYROZ: 71 configs
+ZibaNabz: 69 configs
+v2rayng_1378: 69 configs
 fastfreeconfig: 50 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
 v2ngfast: 40 configs
 vmess_vless_v2rayng: 39 configs
 proxy_kafee: 39 configs
-V2RAYROZ: 38 configs
 OutlineReleasedKey: 34 configs
 v2raying: 32 configs
-tehranargo: 32 configs
+tehranargo: 31 configs
 An0nymousTeam: 26 configs
 ev2rayy: 25 configs
 FreeV2rays: 20 configs
 IP_CF_Config: 20 configs
 vpnfail_vless: 20 configs
 v2nodes: 20 configs
-v2rayfree: 20 configs
 Farah_VPN: 20 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 customv2ray: 19 configs
 FreeVPNHomesConfigs: 19 configs
-v2ray_configs_pool: 19 configs
-PrivateVPNs: 18 configs
+configV2rayForFree: 18 configs
 vpnstorefast: 18 configs
 v2rayvpnchannel: 18 configs
 freedom_config: 18 configs
+v2ray_configs_pool: 17 configs
+PrivateVPNs: 16 configs
 CaV2ray: 16 configs
-configV2rayForFree: 15 configs
+v2rayfree: 15 configs
 v2ray_for_free: 14 configs
 Vpnstable: 12 configs
 hopev2ray: 11 configs
@@ -63,9 +63,7 @@ redfree8: 7 configs
 v2raymelliii: 7 configs
 NoForcedHeaven: 6 configs
 ShadowSocks_s: 5 configs
-Network_442: 5 configs
 xroVPN: 5 configs
-ConfigWireguard: 4 configs
 ZeusVPN_Net: 4 configs
 AzadNet: 3 configs
 bypass_filter: 3 configs
@@ -75,6 +73,7 @@ Ahmedhamoomi_Servers: 2 configs
 viturey: 2 configs
 vpnaloo: 2 configs
 VmessProtocol: 1 configs
+Network_442: 1 configs
 filter_breaker: 1 configs
 
 --- Failed Channels ---
