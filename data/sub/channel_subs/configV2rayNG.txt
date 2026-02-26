@@ -1,6 +1,6 @@
-trojan://s0h8e66a-n0ph-31c2-qldk-w0hmhjsckr6q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/26 | 16:06
-trojan://4h8sp4wc-a5uz-cxya-2exg-qcyvk5rv9f9s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hg4vusy3-8xw5-6ay3-p7zf-nw4y4z6hmems@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://vf75v8tt-my86-wtla-ry5b-7ic0micufupk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/02/26 | 20:15
+trojan://mrcr8kfh-kmyj-k5t7-lcy8-2silisqjqxjf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dg4jfjfl-expn-ko01-v99y-6y1iea78540r@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&peer=iepl.jpz2.cat.bilibili.com&security=tls#5.34.222.4:43074
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmExVGVsZWdyYW0gPSBAQ29uZmlnVjJSYXlORyIsImFkZCI6IjU3LjEyOS4yNC4xMjUiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQENvbmZpZ1YyUmF5TkciLCJhZGQiOiIxMDQuMTcuNzcuNzciLCJwb3J0Ijo4NDQzLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6MCwic2N5Ijoibm9uZSIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoifQ
@@ -127,6 +127,13 @@ vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?type=tcp&secur
 vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?type=xhttp&security=none&path=/-AzV2ry?ed=2056#199.232.79.229:80
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?type=tcp&security=none#94.183.171.3:41314
 vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?type=tcp&security=none#46.38.138.221:8081
+vless://cba0f4a6-4c8b-4214-bfed-28cf59921df5@85.133.228.75:8881?type=tcp&security=none#85.133.228.75:8881
+vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?type=tcp&security=none#94.184.24.235:56001
+vless://2fda4d53-8fb6-4be6-85bc-8a5044af2887@193.151.134.102:201?type=tcp&security=none#193.151.134.102:201
+vless://775fdbfa-168b-4bb5-b522-5037cbef2859@178.239.150.85:2010?type=tcp&security=none#178.239.150.85:2010
+vless://37922afb-a275-6bdf-7560-3e0bf83633e6@45.11.187.10:443?type=tcp&security=none#45.11.187.10:443
+vless://cc60f323-c28b-4958-96ff-a96080d2e3fb@shaparak.ultrrasound.com:19949?type=ws&security=none&path=/#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night#shaparak.ultrrasound.com:19949
+vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?type=tcp&security=none#94.184.10.119:1010
 vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb05.ava-shop.ir:2096?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#maxb05.ava-shop.ir:2096
 vless://ea9ba1ec-bfe7-407b-bd21-aeebc86da741@159.195.32.141:443?type=tcp&security=reality&sni=stackoverflow.com&flow=xtls-rprx-vision&pbk=C0Vzk1hw72A-hLhp6sdo61WYdsJk9g0XPxtmDHWii20&sid=71e87186710e710e#159.195.32.141:443
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#5.175.249.174:35000
@@ -134,5 +141,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.ker
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#5.175.249.174:35000
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#5.175.249.174:35000
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#5.175.249.174:35000
-trojan://nhfavyrg-c2x4-70la-qugh-5zs604fy2b4a@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://wtdbhr9w-g5dc-49tq-w3p8-00188cgr5old@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#181.214.99.162:35000
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#5.175.249.174:35000
+trojan://e66z54vn-1vva-1shq-gamr-4iebygtex9xs@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://b5ds82ka-rev3-tv1b-hez3-j61uxr0wh3jw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
