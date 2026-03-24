@@ -1,12 +1,12 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-03-24 16:12:05
+Timestamp: 2026-03-24 20:20:19
 Total Channels: 117
 Successful Scrapes: 58
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freev2rayssr: 300 configs
-oneclickvpnkeys: 227 configs
+oneclickvpnkeys: 240 configs
 configV2rayNG: 214 configs
 LonUp_M: 199 configs
 FreakConfig: 132 configs
@@ -46,14 +46,15 @@ DarkVPNpro: 10 configs
 freev2raym: 9 configs
 proxy_kafee: 8 configs
 iraniv2ray: 8 configs
-vip_vpn_2022: 7 configs
 redfree8: 7 configs
+vip_vpn_2022: 6 configs
 ArV2ray: 6 configs
 NoForcedHeaven: 5 configs
 xroVPN: 5 configs
 Vpnstable: 4 configs
 v2rayfree: 4 configs
 bypass_filter: 3 configs
+ultrasurf_12: 2 configs
 Ahmedhamoomi_Servers: 2 configs
 viturey: 2 configs
 vpnaloo: 2 configs
@@ -61,7 +62,6 @@ hopev2ray: 2 configs
 v2raymelliii: 2 configs
 ShadowSocks_s: 1 configs
 FOX_VPN66: 1 configs
-ultrasurf_12: 1 configs
 tehranargo: 1 configs
 
 --- Failed Channels ---
