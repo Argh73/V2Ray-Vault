@@ -1,6 +1,6 @@
-trojan://zj7bnitn-d50v-y40v-vtma-5ymmkwuu3ne7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/03/29 | 19:52
-trojan://u3chjjwd-m3i0-5may-44u8-nqggpc5fxuzm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zpsv6fhn-6z7u-2vil-a5eh-sobm6f4zj0aq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://azclgzy1-xbcy-2d8k-s90s-ha513s4oassw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/03/29 | 23:50
+trojan://5nsecvz8-sveo-pv4w-bpzh-2hh0x7y3cd3x@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dzenvpxt-25vt-gwhp-oaxc-5re22i0njxhs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#158.173.20.171:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#141.95.109.94:11201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#141.95.106.127:11201
@@ -34,6 +34,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#141.95.106.127:11201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#54.37.78.130:11201
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#38.180.216.114:7307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#135.125.245.131:20939
 trojan://WF42809561@touching-pigeon.rooster465.autos:443?security=tls#touching-pigeon.rooster465.autos:443
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&peer=www.semanticstaplegun.click&security=tls#80.173.231.254:12420
 trojan://T9BpZIVMNv@v1.dabache.top:8443?sni=sweden.vmaxpanel.com&peer=sweden.vmaxpanel.com&security=tls#v1.dabache.top:8443
@@ -182,6 +183,16 @@ vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&security=
 vless://73829173-bb56-442b-a8d4-ec732c020945@188.114.98.0:2086?type=httpupgrade&security=none#188.114.98.0:2086
 vless://ed0e05af-49ab-4ea8-a39c-634855811b03@104.24.68.193:443?type=ws&security=tls&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev#104.24.68.193:443
 vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@79.137.174.103:443?type=tcp&security=tls&sni=ru-portal.meetvideo.ru#79.137.174.103:443
+vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@108.162.192.133:443?type=ws&security=tls&path=/resgdws&sni=rivvers.info#108.162.192.133:443
+vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@lucy.ns.cloudflare.com:443?type=ws&security=tls&path=/resgdws&sni=rivvers.info#lucy.ns.cloudflare.com:443
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?type=ws&security=tls&path=/tsghdws&sni=octopusss4.com#162.159.36.5:443
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@79.137.174.178:443?type=tcp&security=tls&sni=ru-portal.meetvideo.ru#79.137.174.178:443
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.255.177:443?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=sni.111000.dynv6.net#195.135.255.177:443
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@172.64.34.99:443?type=ws&security=tls&path=/cahttingws&sni=639073677259599430.civic-perma.info#172.64.34.99:443
+vless://a91e1b4f-09f0-48af-a0c8-cd389bd3223c@104.21.6.124:443?type=ws&security=tls&path=/vless-tls&sni=VPn.nnet.Online#104.21.6.124:443
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@79.137.174.51:443?type=tcp&security=tls&sni=ru-portal.meetvideo.ru#79.137.174.51:443
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@79.137.174.196:443?type=tcp&security=tls&sni=ru-portal.meetvideo.ru#79.137.174.196:443
+vless://5d950f22-a120-42c3-86f8-8ee81bfa08c9@172.67.134.216:443?type=ws&security=tls&path=/vless-tls&sni=VPN.NNET.Online#172.67.134.216:443
 vless://4da4c9c7-a587-4894-bfa1-63e2c50aa21e@141.98.24.151:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=GUykK5D2mcYcPS6SDQdzNYFE3EtKIMoYbSlcjij5yA0&sid=e8#141.98.24.151:443
 vless://1babf197-af69-406e-aae2-83c411ae979f@144.31.166.42:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300&sid=3ef8cdbc#144.31.166.42:443
 vless://0f7f64bd-db72-43af-8be7-f3863de7f922@152.53.135.159:443?type=tcp&security=reality&sni=us.reality.tv123.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#152.53.135.159:443
@@ -231,5 +242,11 @@ vless://35b02525-d4a6-4943-a406-b01468e5987d@velsanto.online:8443?type=tcp&secur
 vless://243203a9-77f5-4f55-b0b0-5f4ca08d3b1a@srv5.ezcon24.online:11444?type=tcp&security=reality&sni=www.sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=vII0ktWC5uuvMBFEvgYpftqq6mCjEfCpEg_s8eT_oh8#srv5.ezcon24.online:11444
 vless://60244f92-609e-444e-b1e8-d0bcba0d9b79@69.12.83.113:443?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=6Ra2AsVwORJlxqvQ9YHAfHFk8Z0HZIrWuXxlBEYpwQY&sid=e7b5024fd83a16c9#69.12.83.113:443
 vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@144.31.1.134:443?type=tcp&security=reality&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=kEhVzEXS_myQF6LPpKPWEI8Ha2-mmNMyLItXoVa8SD4#144.31.1.134:443
-trojan://n3rbi9x3-q5j9-7v2m-en0t-5ytka9xf39iu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://l6kwu5jk-7kv3-haer-gj22-1fcqriaz38cr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://e928d85d-f223-07d0-a1d2-a56e9fbd50e0@212.92.101.182:51006?type=xhttp&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#212.92.101.182:51006
+vless://b875f568-3fe3-07d0-9d0f-d5f748b3f7dd@94.26.249.77:51006?type=xhttp&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#94.26.249.77:51006
+vless://754dfc91-8b6c-07d0-905f-47480387e8a4@212.92.101.177:51006?type=xhttp&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#212.92.101.177:51006
+vless://3a4e812e-b3e8-4008-81b6-2d63405736b3@64.188.78.121:30353?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=kLPBaVSLHWbPQUYr3IzAzsDmDl9o2Gh8FcP1ONxxCWk&sid=badd0a3410#64.188.78.121:30353
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1#62.210.124.146:22000
+hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com&insecure=1#130.61.50.75:6443
+trojan://vfc0hzdm-rurx-dras-19hl-sfo49rf6y4n3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wz36uxcj-mf3y-gv30-c8ge-olrun69lh0rt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
