@@ -1,35 +1,32 @@
-trojan://73ijnk11-72mu-1vw8-wlyc-s0itpyqa404q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/04/07 | 04:43
-trojan://xuf68l64-gkmv-3lrj-vk6u-1r746l1lnjb2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://0h005qvj-gxj8-2sey-ngxb-l1l0a3tm5pla@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 141.98.101.178
-tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?sni=apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#GB 🇬🇧 ┇ TUIC-TCP-NTLS - Cristian Tudor Marcus ┇ 89.144.35.94
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@8tf3qy.by-api-yandex.com:10121?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#GB 🇬🇧 ┇ VLESS-TCP-RLT - Serv.host Group Ltd ┇ 144.31.213.103
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.101
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#GB 🇬🇧 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 140.238.100.35
-vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?type=grpc&security=reality&sni=vk.ru&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5#GB 🇬🇧 ┇ VLESS-GRPC-RLT - FUTURE-LAIN ┇ 82.26.91.244
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 146.70.61.37
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@64.137.109.212:44884#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 64.137.109.212
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.193:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 212.102.53.193
-vless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va28.serverh1ub.ir:8080?type=tcp&security=reality&sni=chatgpt.com&fp=firefox&flow=xtls-rprx-vision&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#GB 🇬🇧 ┇ VLESS-TCP-RLT - OVH SAS ┇ 57.129.131.26
-vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832#GB 🇬🇧 ┇ VLESS-TCP-RLT - Cloudie Limited ┇ 5.180.97.139
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.199
-vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxMDIuMTc3LjE4OS4xMDEiLCJhZGQiOiIxMDIuMTc3LjE4OS4xMDEiLCJwb3J0Ijo0NDMsImlkIjoiOGY3NGVjOGEtOTcxYy0xMWVkLWE4ZmMtMDI0MmFjMTIwMDAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IjRmYzEyOGNlLTQ4NDUtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mi5TaG9tYVBhcnZhelJvWWFkZXRvbk5pc3QtQnlwYXNzSXNIZXJlLmxhdCIsInBhdGgiOiIvNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyP2VkPTIzNjUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI0ZmMxMjhjZS00ODQ1LTExZjAtYTk0OC02YTc1ZjY2N2I0NzIuU2hvbWFQYXJ2YXpSb1lhZGV0b25OaXN0LUJ5cGFzc0lzSGVyZS5sYXQifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - OVH SAS ┇ 57.129.140.88
-vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9WSCBTQVMgXHUyNTA3IDUxLjg5LjcwLjE2IiwiYWRkIjoicGFuZWwzLmlweWFyLm9yZyIsInBvcnQiOjMyMDE3LCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsImFpZCI6MCwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://c4f2dee2-14e3-4c02-91e9-31c7917e239c@185.93.105.113:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS ┇ 185.93.105.113
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.61
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.210
+trojan://m8rasvvb-4fds-4uai-75t4-oba41arwf88g@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/04/07 | 09:13
+trojan://6lgbs6le-4u70-3sc3-ufdv-4j8sp1e7841g@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rjcq6dar-ha5f-2ipl-mmhn-d88x5cjxauzi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://197a0c0a-574d-497a-9e44-7bec185f8662@uk3.magnetgateway.onnstreaming.ru:443?type=tcp&security=reality&sni=uk3.magnetgateway.onnstreaming.ru&fp=chrome&flow=xtls-rprx-vision&pbk=fRAFdTeG4k77FPctArX1_6Af-HKEC1Spf62ghQdaNVc&sid=b5dea479d01202bc#GB 🇬🇧 ┇ VLESS-TCP-RLT - Clouvider Limited ┇ 213.232.236.163
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.35
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@8tf3qy.by-api-yandex.com:10121?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#GB 🇬🇧 ┇ VLESS-TCP-RLT - Serv.host Group Ltd ┇ 144.31.213.101
 vless://d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549@vb05.homianco.ir:2096?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#GB 🇬🇧 ┇ VLESS-TCP-RLT - OVH SAS ┇ 51.89.164.160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.89
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.62
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno@media.mothyleela.cfd:40521#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 107.181.147.235
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@45.43.75.69:7443?type=tcp&security=reality&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#GB 🇬🇧 ┇ VLESS-TCP-RLT - I-servers Ltd ┇ 45.43.75.69
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 40.120.61.164
-trojan://trojan@91.193.58.0:443?sni=wahaha.yingyangkuaixian.dpdns.org&peer=wahaha.yingyangkuaixian.dpdns.org&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 91.193.58.0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.176
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.35
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 141.98.101.178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.184
-trojan://i8p0oh2g-dwyq-gl2n-igpu-d52rqaglk8xt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ggjsiv5m-2isb-mqfs-yz14-cm6a8qrg74fq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.101
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.176
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.61
+trojan://trojan@91.193.58.0:443?sni=wahaha.yingyangkuaixian.dpdns.org&peer=wahaha.yingyangkuaixian.dpdns.org&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 91.193.58.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.90.253.194
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno@media.mothyleela.cfd:40521#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 107.181.147.235
+vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832#GB 🇬🇧 ┇ VLESS-TCP-RLT - Cloudie Limited ┇ 5.180.97.139
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.193:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 212.102.53.193
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@64.137.109.212:44884#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 64.137.109.212
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - OVH SAS ┇ 57.129.140.88
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.62
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.89
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.199
+vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1JQ1JPU09GVC1DT1JQLU1TTi1BUy1CTE9DSyBcdTI1MDcgODUuMjExLjE5Mi4yMzciLCJhZGQiOiIxNi5tYW1hbWFqZC5zaXRlIiwicG9ydCI6MjM2MTYsImlkIjoiNjM0MjY4YzYtNzQwOC0zZWU5LWEwZWQtMDE2YzI4YzMzZDM2IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
+vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxMDIuMTc3LjE4OS4xMDEiLCJhZGQiOiIxMDIuMTc3LjE4OS4xMDEiLCJwb3J0Ijo0NDMsImlkIjoiOGY3NGVjOGEtOTcxYy0xMWVkLWE4ZmMtMDI0MmFjMTIwMDAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IjRmYzEyOGNlLTQ4NDUtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mi5TaG9tYVBhcnZhelJvWWFkZXRvbk5pc3QtQnlwYXNzSXNIZXJlLmxhdCIsInBhdGgiOiIvNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyP2VkPTIzNjUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI0ZmMxMjhjZS00ODQ1LTExZjAtYTk0OC02YTc1ZjY2N2I0NzIuU2hvbWFQYXJ2YXpSb1lhZGV0b25OaXN0LUJ5cGFzc0lzSGVyZS5sYXQifQ
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#GB 🇬🇧 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 140.238.100.35
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.210
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?type=grpc&security=reality&sni=vk.ru&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5#GB 🇬🇧 ┇ VLESS-GRPC-RLT - FUTURE-LAIN ┇ 82.26.91.244
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.205
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@45.43.75.69:7443?type=tcp&security=reality&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#GB 🇬🇧 ┇ VLESS-TCP-RLT - I-servers Ltd ┇ 45.43.75.69
+vless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va28.serverh1ub.ir:8080?type=tcp&security=reality&sni=chatgpt.com&fp=firefox&flow=xtls-rprx-vision&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#GB 🇬🇧 ┇ VLESS-TCP-RLT - OVH SAS ┇ 57.129.131.26
+trojan://j15f22cc-z1vu-r71k-jowg-me023lz13sm3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://d479jduw-qtit-hac9-n4w7-8ut7urpowzoo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
