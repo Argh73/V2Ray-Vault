@@ -1,24 +1,11 @@
-trojan://6wzzmxgp-t8v9-utoh-43ux-g0yo76cahc4d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/04/12 | 12:07
-trojan://uc2zv63r-p2j8-s3im-ynpk-jir5ohwx9jme@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://53p60ec8-cstx-oewq-892h-6j3lyg6noepu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://jy0mzshh-lsuf-xhuu-025u-omrj73bh4ey6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/04/12 | 16:04
+trojan://jbjrmqe6-qg48-kv2x-h3zb-1ouy1sovh1pd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://lx2jmrox-xvpj-th6f-rq79-uz0ow858qk3e@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://humanity@www.multiplydose.com:443?security=tls#www.multiplydose.com:443
 trojan://humanity@www.gossipglove.com:443?security=tls#www.gossipglove.com:443
 trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#104.18.32.47:443
 trojan://humanity@104.18.11.110:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#104.18.11.110:443
 trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#172.64.152.23:443
-vless://b738db04-c73c-4551-b6f2-9041e93914d4@3.125.212.24:4040?type=tcp&security=none#3.125.212.24:4040
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#195.181.173.199:8443
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?type=ws&security=none#172.66.44.211:80
-vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@104.18.13.229:8880?type=ws&security=none#104.18.13.229:8880
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?type=ws&security=none#104.18.2.11:2082
-vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?type=ws&security=none#104.18.5.46:8880
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&security=tls&sni=uk1.fromblancwithlove.com#152.233.28.198:8443
-vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?type=ws&security=none#104.18.15.19:80
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?type=ws&security=tls&sni=sni.111000.indevs.in#176.96.138.17:2087
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.238:2096?type=ws&security=tls&sni=sni.jpmj.dev#185.156.19.238:2096
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80?type=ws&security=none#104.18.185.26:80
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.42:8443?type=ws&security=tls&sni=sni.111000.dynv6.net#57.129.47.42:8443
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@141.193.213.11:2053?type=ws&security=tls&sni=qyi.fqjd663.ggff.net#141.193.213.11:2053
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?type=ws&security=none#104.16.9.24:80
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.123:2053?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=sni.111000.indevs.in#188.241.241.123:2053
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?type=ws&security=none#104.17.15.87:80
@@ -94,11 +81,34 @@ vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.254:80?type=ws&security=
 vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.181:2083?type=ws&security=tls&path=/&sni=aier.eu.cc#8.35.211.181:2083
 vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.18:2096?type=ws&security=tls&path=/&sni=aier.eu.cc#8.35.211.18:2096
 vless://656bb400-3b7a-47e3-94b0-0362f3865072@104.18.34.21:8443?type=ws&security=tls&sni=socks5.revil-time3.workers.dev#104.18.34.21:8443
-vless://7a0ae662-eee7-44c0-8998-d575870bd749@64.188.106.202:38765?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&pbk=fUyUwpKV_0yleQhE_dZF0TuD1lw3BJ-Jo9M6iOaEFEY&sid=d789a31a7a7014#64.188.106.202:38765
-vless://1c61a6c0-9bc7-4cb8-9188-6d86d5989388@72.56.75.169:8443?type=tcp&security=reality&sni=nltw4.lckdwn.ru&fp=chrome&pbk=XEWgLksY3vnV9riMEO7AZ7HR0Ecv3HxXLFglZtcmx00&sid=d5#72.56.75.169:8443
-vless://9357d31a-97f5-492b-9a9d-24dcb3449fb9@94.156.115.109:443?type=tcp&security=reality&sni=tunnel.vk-apps.com&fp=chrome&flow=xtls-rprx-vision&pbk=2XHOm5oJ92noxYHfahYv6dABkpp-bdehIA5grPB1X2c&sid=beba4237#94.156.115.109:443
-vless://43488128-319e-f480-64ea-0acdc712e2a8@45.77.139.2:443?type=tcp&security=reality&sni=www.ing.nl&fp=chrome&flow=xtls-rprx-vision&pbk=K1p8iHF_pzt-Y07A-xqyEMvgFPdhWgJ0k6mLmRv42yg&sid=d4356669ea880400#45.77.139.2:443
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#57.129.53.180:23576
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.38.155.138:2096?type=ws&security=tls&path=/&sni=sni.111000.indevs.in#164.38.155.138:2096
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?type=ws&security=tls&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net#104.17.185.207:443
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?type=ws&security=tls&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net#162.159.36.5:443
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.200:2053?type=ws&security=tls&path=/&sni=aier.eu.cc#8.35.211.200:2053
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.218:2083?type=ws&security=tls&sni=aier.eu.cc#8.35.211.218:2083
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.169:2087?type=ws&security=tls&path=/&sni=aier.eu.cc#8.35.211.169:2087
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.182:2083?type=ws&security=tls&path=/&sni=aier.eu.cc#8.35.211.182:2083
+vless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.173.68:443?type=ws&security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#104.19.173.68:443
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.105:2087?type=ws&security=tls&path=/&sni=aier.eu.cc#8.35.211.105:2087
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?type=ws&security=tls&path=/&sni=sni.111000.indevs.in#45.130.125.138:2096
+vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.12.229:2052?type=ws&security=none#104.18.12.229:2052
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.219:2053?type=ws&security=tls&path=/&sni=aier.eu.cc#8.39.125.219:2053
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.189:2053?type=ws&security=tls&sni=aier.eu.cc#8.35.211.189:2053
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.184:443?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=sni.111000.dynv6.net#135.84.73.184:443
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?type=ws&security=tls&path=/?telegram🇨🇳+@wangcai2=&sni=sni.111000.indevs.in#185.193.31.138:2096
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@205.233.181.138:2096?type=ws&security=tls&path=/?Telegram🇨🇳+@WangCai2=&sni=sni.111000.indevs.in#205.233.181.138:2096
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.171:2053?type=ws&security=tls&sni=aier.eu.cc#8.35.211.171:2053
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.128:8443?type=ws&security=tls&path=/&sni=aier.eu.cc#8.39.125.128:8443
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.6:2087?type=ws&security=tls&path=/&sni=aier.eu.cc#8.39.125.6:2087
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.131:2083?type=ws&security=tls&path=/&sni=aier.eu.cc#8.35.211.131:2083
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.198:2083?type=ws&security=tls&path=/&sni=aier.eu.cc#8.35.211.198:2083
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.150.35.240:8443?type=ws&security=tls&sni=sni.111000.indevs.in#89.150.35.240:8443
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.191:2096?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/&sni=sni.my111000.tech#45.131.209.191:2096
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?type=ws&security=tls&path=/&sni=sni.111000.v6.navy#135.84.74.155:443
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.255:2053?type=ws&security=tls&path=/&sni=aier.eu.cc#8.39.125.255:2053
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.186:2053?type=ws&security=tls&path=/&sni=aier.eu.cc#8.35.211.186:2053
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.162:2087?type=ws&security=tls&path=/&sni=aier.eu.cc#8.35.211.162:2087
+vless://d2d0f796-edb0-427a-af32-ae360679f9e7@162.159.141.147:443?type=ws&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg#162.159.141.147:443
 vless://1c26ed16-45a1-4872-87ec-66225ec915cc@185.245.80.138:8443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#185.245.80.138:8443
 vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@at.nodes.rocketnetwork.ru:443?type=tcp&security=reality&sni=at.nodes.rocketnetwork.ru&fp=chrome&flow=xtls-rprx-vision&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#at.nodes.rocketnetwork.ru:443
 vless://2491c11c-b958-4553-96f7-1aaa7cad8320@154.83.129.121:47653?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=RxvvBDrokkAF9Hbx2xyb5JLOqk3zckOv3W8TbLnrH1w&sid=ab#154.83.129.121:47653
@@ -144,6 +154,7 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576?type=tcp&securi
 vless://7a0ae662-eee7-44c0-8998-d575870bd749@64.188.106.202:38765?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&pbk=fUyUwpKV_0yleQhE_dZF0TuD1lw3BJ-Jo9M6iOaEFEY&sid=d789a31a7a7014#64.188.106.202:38765
 vless://1c61a6c0-9bc7-4cb8-9188-6d86d5989388@72.56.75.169:8443?type=tcp&security=reality&sni=nltw4.lckdwn.ru&fp=chrome&pbk=XEWgLksY3vnV9riMEO7AZ7HR0Ecv3HxXLFglZtcmx00&sid=d5#72.56.75.169:8443
 vless://9357d31a-97f5-492b-9a9d-24dcb3449fb9@94.156.115.109:443?type=tcp&security=reality&sni=tunnel.vk-apps.com&fp=chrome&flow=xtls-rprx-vision&pbk=2XHOm5oJ92noxYHfahYv6dABkpp-bdehIA5grPB1X2c&sid=beba4237#94.156.115.109:443
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@94.131.105.125:8443?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI#94.131.105.125:8443
 hysteria2://7151e6b8-0d8e-4548-a9f2-af52ccc2cdfe@89.23.107.251:4433?sni=nl1.xiaoliyu.cyou&insecure=1#89.23.107.251:4433
 hysteria2://strong-secret-pass-777@94.131.105.125:444?sni=www.microsoft.com&insecure=1&obfs=salamander#94.131.105.125:444
 hysteria2://strong-secret-pass-777@45.120.179.89:444?sni=www.microsoft.com&insecure=1&obfs=salamander#45.120.179.89:444
@@ -152,5 +163,5 @@ hysteria2://strong-secret-pass-777@45.15.171.80:444?sni=www.microsoft.com&insecu
 hysteria2://strong-secret-pass-777@82.117.255.37:444?sni=www.microsoft.com&insecure=1&obfs=salamander#82.117.255.37:444
 hysteria2://strong-secret-pass-777@94.131.105.125:444?sni=www.microsoft.com&insecure=1&obfs=salamander#94.131.105.125:444
 hysteria2://7151e6b8-0d8e-4548-a9f2-af52ccc2cdfe@89.23.107.251:4433?sni=nl1.xiaoliyu.cyou&insecure=1#89.23.107.251:4433
-trojan://t0tjjka7-op10-rhbq-vk1g-22n7l8hdwt01@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://yfcrsn4h-tkiz-0prf-91eg-tgob6p08t9o3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://i88wdxx4-3489-gbbh-hzal-5pspgj8ivi03@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nrkes0eu-0y7e-iyod-t6g2-5vaxd7rrclhc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
