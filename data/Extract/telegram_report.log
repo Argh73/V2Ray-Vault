@@ -1,13 +1,13 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-04-17 12:38:15
+Timestamp: 2026-04-17 16:22:20
 Total Channels: 117
-Successful Scrapes: 67
+Successful Scrapes: 66
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 configV2rayNG: 214 configs
-LonUp_M: 169 configs
-oneclickvpnkeys: 165 configs
+oneclickvpnkeys: 178 configs
+LonUp_M: 171 configs
 FreakConfig: 132 configs
 V2rayNG3: 102 configs
 ViProxys: 100 configs
@@ -22,6 +22,7 @@ yaney_01: 41 configs
 dailyv2ray: 40 configs
 vmess_vless_v2rayng: 39 configs
 OutlineReleasedKey: 33 configs
+v2rayngvpn: 24 configs
 DarkVPNpro: 24 configs
 V2ray_Alpha: 24 configs
 PrivateVPNs: 20 configs
@@ -34,15 +35,14 @@ free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
+proxy_kafee: 18 configs
 freedom_config: 18 configs
-v2rayngvpn: 16 configs
 v2ray_for_free: 14 configs
 An0nymousTeam: 14 configs
 shadowproxy66: 14 configs
-proxy_kafee: 13 configs
+ultrasurf_12: 12 configs
 vpnfail_vless: 12 configs
 CaV2ray: 12 configs
-ultrasurf_12: 11 configs
 configfa: 11 configs
 vpn_ocean: 10 configs
 freev2raym: 9 configs
@@ -70,7 +70,6 @@ AzadNet: 2 configs
 vpnaloo: 2 configs
 v2raymelliii: 2 configs
 FOX_VPN66: 1 configs
-GrizzlyVPN: 1 configs
 v2rayngfreee: 1 configs
 
 --- Failed Channels ---
