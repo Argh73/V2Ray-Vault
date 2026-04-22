@@ -1,6 +1,6 @@
-trojan://p8n001x2-ee7w-pt99-mlqf-v46sy7r1eb20@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/04/22 | 00:09
-trojan://gugw6qnt-lzn5-dwq3-8ykz-g0f4x7nk6jcn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://g7h5iv0u-ab8m-ly5q-dyv4-rzgmg8l5vzxh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://aqrg0n46-ofda-rjru-25d9-b3ampkdivpya@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/04/22 | 04:47
+trojan://vb3iwdvt-34g4-3op4-4iv9-wozcyyrmzvxn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://pwwkst3u-sgcw-jd0p-nxe0-0xkjho2kqbxd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#46.101.196.138:23243
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#149.102.132.186:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#8.209.74.72:20001
@@ -33,16 +33,6 @@ trojan://1234567890@165.22.20.89:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.de
 trojan://1234567890@104.248.132.134:2053?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#104.248.132.134:2053
 trojan://1234567890@51.38.113.88:8443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#51.38.113.88:8443
 trojan://1234567890@134.209.224.221:2096?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#134.209.224.221:2096
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?type=ws&security=tls&sni=sni.my111000.tech#31.43.179.191:2096
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.46:443?type=ws&security=tls&sni=sni.111000.v6.navy&fp=chrome#217.163.76.46:443
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.42:443?type=ws&security=tls&sni=sni.111000.dynv6.net#135.84.67.42:443
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?type=ws&security=tls&sni=sni.111000.dynv6.net#135.84.64.226:443
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.34:443?type=ws&security=tls&sni=sni.111000.dynv6.net#135.84.74.34:443
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.154.211:2096?type=ws&security=tls&sni=sni.111000.indevs.in&fp=chrome#172.64.154.211:2096
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@63.141.128.9:443?type=ws&security=tls&sni=sni.111000.dynv6.net#63.141.128.9:443
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.14:443?type=ws&security=tls&path=/?Telegram🇨🇳@WangCai2=&sni=sni.111000.dynv6.net#135.84.75.14:443
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?type=ws&security=tls&path=/?telegram🇨🇳 @wangcai2=&sni=sni.111000.indevs.in#185.193.31.138:2096
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.138:2096?type=ws&security=tls&sni=sni.111000.indevs.in&fp=chrome#192.65.217.138:2096
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#195.181.173.199:8443
 vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@104.18.13.229:8880?type=ws&security=none#104.18.13.229:8880
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.128.76.191:2096?type=ws&security=tls&sni=sni.my111000.tech#45.128.76.191:2096
@@ -123,5 +113,5 @@ vless://6d524f6e-deea-4f8a-a71d-f32a952e23e5@193.202.10.138:443?type=grpc&securi
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@109.122.198.115:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&sid=6ba85179e30d4fc2#109.122.198.115:443
 hysteria2://V9TUQQMN40@23.27.240.33:23161?insecure=1#23.27.240.33:23161
 hysteria2://hrxvl5n08w@54.169.235.155:23943?insecure=1#54.169.235.155:23943
-trojan://g4nfq42i-vfry-x0gm-gebo-q3jxfpaezcbl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://y2mdjwm1-zr3u-01cv-gdiv-vrwdgyevq1si@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://tp0al8b3-oz0c-wepx-dzgs-av2ww391r180@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://crpl69ik-5s56-vasj-3pg5-d5p4l3vm8zn9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
