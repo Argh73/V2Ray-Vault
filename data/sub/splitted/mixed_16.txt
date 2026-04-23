@@ -1,31 +1,33 @@
-trojan://u3da4bdx-5ic9-svwe-ma2i-gj8bd5s843aq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/04/23 | 00:12
-trojan://k5irnohx-y9qe-lq5e-kiaj-yl9172hh2227@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://uv89qsd4-i9dq-ax1z-ryhu-qw2lqxn6az2c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://1234567890@64.226.74.109:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 64.226.74.109
-vless://ff03e357-b531-4f30-9f47-ba9b57dd384f@94.131.118.117:4443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - WorkTitans B.V. ┇ 94.131.118.117
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#DE 🇩🇪 ┇ VLESS-TCP-RLT - Senko Digital Ltd ┇ 64.188.104.168
-trojan://BxceQaOe@95.40.58.97:50612?sni=t.me%2Fripaojiedian&peer=t.me%2Fripaojiedian&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 95.40.58.97
-vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IE5vbmUiLCJhZGQiOiJjbG91ZGdldHNlcnZpY2UubWNsb3Vkc2VydmljZS5zaXRlIiwicG9ydCI6NDQzLCJpZCI6IjU0MjhkY2MyLTk5NTAtNDQwNC1iOGE1LTlkYWM4MmFjYjIxMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImNsb3VkZ2V0c2VydmljZS5tY2xvdWRzZXJ2aWNlLnNpdGUiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6ImNsb3VkZ2V0c2VydmljZS5tY2xvdWRzZXJ2aWNlLnNpdGUifQ
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#NL 🇳🇱 ┇ VLESS-TCP-RLT - Scaleway S.a.s. ┇ 51.158.206.80
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9WSCBTQVMgXHUyNTA3IDUxLjg5Ljc0LjI0MSIsImFkZCI6IjUxLjg5Ljc0LjI0MSIsInBvcnQiOjUxMTAyLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - LUME Solutions ┇ 77.90.41.197
-vless://02529660-52bf-4896-951a-1857c88d1dba@129.212.143.246:47542?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&sid=7a6d1a#DE 🇩🇪 ┇ VLESS-GRPC-RLT - DIGITALOCEAN-ASN ┇ 129.212.143.246
-vless://14818654-7689-453a-9a1f-4c72f89782d5@nl-amst-node.genadata.online:2040?type=tcp&security=reality&sni=tradingview.com&fp=chrome&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#XX 🏳️ ┇ VLESS-TCP-RLT ┇ None
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctU1YgXHUyNTA3IDEwNy4xNDkuMTE5LjQzIiwiYWRkIjoiMTA3LjE0OS4xMTkuNDMiLCJwb3J0IjozNzAwMCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMDQwMzE4MTQyNTA3IiwidGxzIjoidGxzIn0
-trojan://1234567890@57.129.63.139:2053?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 57.129.63.139
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 151.242.251.147
-vless://3f42b528-59ef-45f9-9ba3-6292ca46f909@wolfb24.servers1mart.ir:2096?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#FR 🇫🇷 ┇ VLESS-TCP-RLT - OVH SAS ┇ 162.19.243.92
-trojan://7575@173.245.59.243:2053?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rosomo9596.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rosomo9596.workers.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 173.245.59.243
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 141.98.101.178
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 217.60.249.112
-trojan://1111@162.159.36.5:2053?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 162.159.36.5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.87.175.92
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?sni=fra4.chasem2026sud.com&peer=fra4.chasem2026sud.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Deutsche Telekom AG ┇ 82.26.155.199
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGemY1dmFYRnM3b0NZM1hiMzNhWjk0NXhraHZGdDJycnhkUkJZOUQzZFFlY05RS0VYeXNCWGIyZVZQekRWYjlpcU0zaUJod0pIRWk1ZVdoekFYSlhFUDJ2VXdXQ3BaWEQ@208.67.105.196:42029#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 208.67.105.196
-hysteria2://dongtaiwang.com@163.172.113.118:40022?sni=www.microsoft.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 163.172.113.118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 193.29.139.227
-vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443?type=tcp&security=reality&sni=readthedocs.org&fp=chrome&flow=xtls-rprx-vision&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&sid=a1590469acbe31#SE 🇸🇪 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 62.182.192.20
-vless://935573d9-db1a-4235-8454-ded612105be6@5.180.82.155:8080?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=-y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw&sid=abc6c826d165#DE 🇩🇪 ┇ VLESS-TCP-RLT - Freakhosting ┇ 5.180.82.155
+trojan://xbb22t4d-54ju-j7l9-vvlv-jxi4vcuzivr9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/04/23 | 04:52
+trojan://3nlycdgu-1fft-ae45-nbzc-j7velkdhymom@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://pjmgdgti-2sp3-041a-f7iw-nsjo1sibvxgi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://589e8847-af73-450d-9e6e-d413a1995e34@ru.githuub.ir:32016?type=tcp&security=reality&sni=google.com&fp=firefox&pbk=zsj7iO3Wo8BiajXZXfo9XCgn30FfOd47iMmKFaQEzlY&sid=2a1dbf3db2f9822e#XX 🏳️ ┇ VLESS-TCP-RLT ┇ None
+trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?sni=jsygouer.weixin-baidu-qq.com&peer=jsygouer.weixin-baidu-qq.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://telegram-id-privatevpns@35.181.218.32:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.218.32
+vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?type=grpc&security=reality&sni=www.microsoft.com&fp=chrome&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA#UA 🇺🇦 ┇ VLESS-GRPC-RLT - Fast Servers (Pty) Ltd ┇ 91.218.122.10
+trojan://humanity@127.0.0.1:40443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ 127.0.0.1
+trojan://humanity@v1.dabache.top:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.66.47.45
+trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:8443?sni=10-bpB-woRKer-pANeL.pAGes.dev&peer=10-bpB-woRKer-pANeL.pAGes.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.4.87:990#KH 🇰🇭 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.4.87
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@1.161.245.168:50099#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Data Communication Business Group ┇ 1.161.245.168
+vless://SVNTEAM@join-svnteam.mobilezahra.com:2020?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=xG-F2y2cFw5f7biQeeMu7wfBbiQLo9o1i_rIdXrZCj0#XX 🏳️ ┇ VLESS-TCP-RLT ┇ None
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVHVydW5jIFNtYXJ0IEJpbGdpc2F5YXIgVGVrbm9sb2ppIFZlIERpcyBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgMTg1LjEwNC4xODkuMzgiLCJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwicG9ydCI6ODAsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIn0
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - Unesty Company ┇ 181.214.99.162
 trojan://1234567890@57.129.63.143:2053?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 57.129.63.143
-trojan://b0rly6bb-4sl5-53bb-msds-wwmlmnkhdy92@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://l2n3r5t8-e9us-9zbo-shnn-c3l2b9gjmdxr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@185.162.11.223:443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&sid=edbc04c389#NL 🇳🇱 ┇ VLESS-TCP-RLT - EUROHOSTER Ltd. ┇ 185.162.11.223
+trojan://POORIARED@172.67.134.185:443?sni=reDfRee8.REDFree8.ir&peer=reDfRee8.REDFree8.ir&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.134.185
+trojan://7964@162.159.33.81:443?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 162.159.33.81
+vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461#LV 🇱🇻 ┇ VLESS-TCP-RLT - Sia Nano IT ┇ 31.170.22.193
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBUb3NlJ2UgU2hhYmFrZWggQXphZCBMdGQgXHUyNTA3IDQ2LjM0LjE2My44OSIsImFkZCI6IjQ2LjM0LjE2My44OSIsInBvcnQiOjQzMjM1LCJpZCI6ImU0OTFlNTI2LWEyOTAtNGQ5OS1iZWE5LWMwZjQ3MTViMzQ1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIn0
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1HUlBDLVRMUyAtIEFTLVZVTFRSIFx1MjUwNyA0NS42My4xMTYuNzUiLCJhZGQiOiI0NS42My4xMTYuNzUiLCJwb3J0IjoyMDg3LCJpZCI6IjAyMzk3OWY1LWIwYzctNGExYS04YTc2LTcwNDkwZDM1MmY2MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiZ3VuIiwiaG9zdCI6ImtrLmJva2RvazIub25saW5lIiwidGxzIjoidGxzIiwic25pIjoia2suYm9rZG9rMi5vbmxpbmUifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Hypercore Ltd ┇ 83.147.216.70
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.210
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IE5vbmUiLCJhZGQiOiIzc2RmZ3ZjeHh4LjkzOC5wcC51YSIsInBvcnQiOjQ0MywiaWQiOiIwMjEyZmFiNS1lOTNjLTQ5MDQtYjdhOC0xODdmZDUzNWYzNTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiIzc2RmZ3ZjeHh4LjkzOC5wcC51YSIsInBhdGgiOiIvUDg3OW10Q29IUXFhV082N3FFYU1JTloxIiwidGxzIjoidGxzIiwic25pIjoiM3NkZmd2Y3h4eC45MzgucHAudWEifQ
+trojan://1111@172.64.147.96:2053?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.64.147.96
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#CO 🇨🇴 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.223.16.41
+trojan://1234567890@57.129.63.158:8443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 57.129.63.158
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#XX 🏳️ ┇ SHADOWSOCKS-TCP-NTLS ┇ None
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@151.242.69.201:443?type=ws&security=tls&path=/?ed=2560&https://t.me/WangCai2🇨🇳&sni=sni.111000.v6.army&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 151.242.69.201
+vless://escovpn_69551ragul@94.177.13.135:442?type=tcp&security=reality&sni=google.com&fp=random&flow=xtls-rprx-vision&pbk=Cu05aaBasClv0QGPrbqbMoRmGqanTvIq-oXsmUbFUEo&sid=60#FI 🇫🇮 ┇ VLESS-TCP-RLT - ASNET ┇ 94.177.13.135
+trojan://0ps2jobp-k3x7-9xeu-ybx5-it834ekgrd94@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://cw7elaer-j1ia-4h6n-6obm-5850wzjgabcu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
