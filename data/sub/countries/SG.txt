@@ -1,8 +1,13 @@
-trojan://du7zf7jx-prf9-k4cs-96qk-mnzlv7sz0rjm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/05/08 | 05:19
-trojan://eef23dyr-9qfu-48pw-z2ul-50ceqd7yurq9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o1x435lp-12dx-n1j3-6a3g-ajjua2v9jb4c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ew2zgtgy-vddh-7fxg-etm8-xf8ctic3huc3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/05/08 | 09:21
+trojan://1e61jzr2-igf0-f3kd-nisp-kkvwzxutrn22@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://fmoa26yp-uzhl-pu69-mg97-y12za5651rdh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://YWVzLTI1Ni1nY206cmxudUszR2t3a2ZN@192.124.176.49:8388#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 192.124.176.49
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?sni=vpn-sg-001.fastervpn.world&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 18.143.139.250
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-003.fastervpn.world:443?sni=vpn-sg-003.fastervpn.world&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 13.214.193.115
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - KAMATERA ┇ 45.130.165.90
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBESUdJVEFMT0NFQU4tQVNOIFx1MjUwNyAxMjguMTk5LjI0My4xNTciLCJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbGliYWJhIFVTIFRlY2hub2xvZ3kgQ28uLCBMdGQuIFx1MjUwNyA0Ny43OS4yMjkuMTQ0IiwiYWRkIjoibm9kZTcub3VyZmFzdC5hc2lhIiwicG9ydCI6NDQzLCJpZCI6IjM2MDQ3MGY0LThjMzgtNDkzNC1iNjkwLTQ0NThjMDgzNDYwNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - KAMATERA ┇ 45.130.165.90
-trojan://3ekz2o5s-wnfo-ih13-0405-5b5j20rn0p8y@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zbepssz2-ogzz-sa8o-djh1-hzh3mahn4bdy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.106.102.56:443?type=ws&security=tls&path=/&sni=gogo8.kmj.qzz.io&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 43.106.102.56
+vless://74988350-8b14-4924-b8a2-c3aac967bf28@sg1.ap221.com:443?type=tcp&security=tls&sni=sg.ap221.com&fp=chrome&flow=xtls-rprx-vision-udp443#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 13.229.38.188
+trojan://ldxya02q-kiy0-frkz-i82b-ni8zhmrxf3j5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://clg77b74-pvwr-2gg4-lqmo-0c3njkxti0iw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
