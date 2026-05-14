@@ -1,18 +1,18 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-05-14 05:25:52
+Timestamp: 2026-05-14 10:10:45
 Total Channels: 117
 Successful Scrapes: 63
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-LonUp_M: 166 configs
+LonUp_M: 165 configs
 oneclickvpnkeys: 142 configs
 V2rayNG3: 128 configs
 ViProxys: 100 configs
 FreakConfig: 82 configs
 filter_breaker: 75 configs
 Outline_Vpn: 71 configs
-V2RAYROZ: 60 configs
+V2RAYROZ: 50 configs
 fastfreeconfig: 50 configs
 freedomofinfor: 45 configs
 v2ngfast: 45 configs
@@ -23,18 +23,18 @@ OutlineReleasedKey: 33 configs
 DarkVPNpro: 24 configs
 PrivateVPNs: 20 configs
 FreeV2rays: 20 configs
+v2nodes: 20 configs
 Farah_VPN: 20 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
 v2rayvpnchannel: 19 configs
 vpnstorefast: 18 configs
-v2nodes: 18 configs
 freedom_config: 18 configs
-v2ray_configs_pool: 16 configs
+proxy_kafee: 15 configs
+v2ray_configs_pool: 15 configs
 v2ray_for_free: 14 configs
 An0nymousTeam: 14 configs
-proxy_kafee: 14 configs
 vpnfail_vless: 12 configs
 CaV2ray: 12 configs
 configfa: 11 configs
@@ -43,8 +43,8 @@ vpn_ocean: 10 configs
 freev2raym: 9 configs
 ArV2ray: 8 configs
 iraniv2ray: 8 configs
-ultrasurf_12: 7 configs
 hopev2ray: 7 configs
+ultrasurf_12: 6 configs
 GrizzlyVPN: 6 configs
 redfree8: 6 configs
 NoForcedHeaven: 5 configs
