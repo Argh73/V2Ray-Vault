@@ -1,20 +1,23 @@
-trojan://2vswuycc-zcfi-y74f-90o0-6g271i0lbkj6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/05/17 | 05:21
-trojan://6ipi3evk-rqp1-5yiv-56cs-4ircn8mq4p4s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://p383ttd4-2s3i-o5wm-o9jq-7xdbjxko0iuz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.107.37
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.240
-hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hyfnjp01.156786.xyz:60000?sni=hyfnjp01.156786.xyz&insecure=0&obfs=salamander#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 18.176.235.157
+trojan://8fi8eyc3-cij1-qlkj-yl1c-rru87byyhvzz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/05/17 | 10:10
+trojan://wrz2384s-p0hz-h25p-k65v-wq3bspf6c7ay@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nhi7gh3p-wh3n-obyp-84l7-itwfzjql2exm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.204
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.240
 vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?type=tcp&security=reality&sni=swdist.apple.com&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&sid=232c6f7b520b89#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 15.168.173.144
-hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hyfnjp03.352343.cc:8080?sni=hyfnjp03.352343.cc&insecure=0#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 52.192.165.45
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us&peer=kuame.missionsec.us&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Klayer LLC ┇ 93.93.246.88
-vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?type=tcp&security=reality&sni=www.yahoo.co.jp&fp=chrome&flow=xtls-rprx-vision&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w#JP 🇯🇵 ┇ VLESS-TCP-RLT - NTT PC Communications, Inc. ┇ 116.80.44.144
-vless://b3209c97-be59-4eec-87a0-cf18e3fe5024@139.162.83.207:74?type=ws&security=none&path=/?ed=2560security=tls&sni=317.hg168.de5.net&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-NTLS - Akamai Connected Cloud ┇ 139.162.83.207
-vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?type=tcp&security=tls&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 138.2.50.155
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.241
-ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.43.183
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEpUIFRFTEVDT00gSU5URVJOQVRJT05BTCBQVEUuTFRELiBcdTI1MDcgMTAzLjEyNy4yNDMuNjAiLCJhZGQiOiIxMDMuMTI3LjI0My42MCIsInBvcnQiOjU1Mzg2LCJpZCI6IjIyZDRlZjljLWIyNjktNGY4Mi05ZjU5LTZjMmMwZDhjZTE2ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii9BQkNERSJ9
-ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E@47.79.144.115:40003#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.79.144.115
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.107.37
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.241
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?sni=vpn-jp-002.fastervpn.world&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 18.181.119.149
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?sni=vpn-jp-004.fastervpn.world&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 3.112.201.184
+ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.43.183
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@172.105.197.52:74?type=ws&security=tls&path=/&sni=dcsrzh.ccwu.cc&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 172.105.197.52
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us&peer=kuame.missionsec.us&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Klayer LLC ┇ 93.93.246.88
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?type=tcp&security=reality&sni=jp.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&sid=f189d91760bb6663#JP 🇯🇵 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 176.97.71.171
-trojan://orzz4z0y-l0ea-lgra-wnq0-hbw9wwee9sme@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://eb6c7ai7-l33b-dh3j-e5ei-kxq1bndomejs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://2219a1b1-9290-4ac5-94fd-6cfc1fb25280@jpvless.yydzx.xyz:12427?type=tcp&security=tls&sni=jpvless.yydzx.xyz&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.95.161.192
+vless://26524cce-d514-4014-a426-365fb266a14d@23.176.40.237:60001?type=ws&security=tls&path=/danfeng?ed=2560fp=firefox&sni=klng2.stream-cdn.sh21.eu.org&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - DDPS ┇ 23.176.40.237
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEpUIFRFTEVDT00gSU5URVJOQVRJT05BTCBQVEUuTFRELiBcdTI1MDcgMTAzLjEyNy4yNDMuNTUiLCJhZGQiOiIxMDMuMTI3LjI0My41NSIsInBvcnQiOjU4MDUxLCJpZCI6IjhlNWI1MjFhLTRhNTYtNGJkNy1iYWYxLWJmY2RmNTVkNmNmMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii9BQkNERSJ9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.147.183.49:29876?type=ws&security=none&path=/&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 141.147.183.49
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.109:443?sni=116.206.92.109&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Nearoute Limited ┇ 116.206.92.109
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@158.101.76.55:21953?type=ws&security=none&path=/158.101.76.55:21953security=tls&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 158.101.76.55
+trojan://hxjcgib3-aoa9-dni1-hazi-gy42vlpb5y5l@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://k0v39ves-xwws-jasz-66zh-12h6pf7h5vhc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
