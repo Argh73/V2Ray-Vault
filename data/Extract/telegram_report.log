@@ -1,12 +1,12 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-06-02 01:59:25
+Timestamp: 2026-06-02 05:44:41
 Total Channels: 117
-Successful Scrapes: 66
+Successful Scrapes: 65
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 LonUp_M: 180 configs
-V2rayNG3: 148 configs
+V2rayNG3: 149 configs
 oneclickvpnkeys: 124 configs
 Outline_Vpn: 109 configs
 ViProxys: 100 configs
@@ -30,15 +30,15 @@ Farah_VPN: 20 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
+v2ray_configs_pool: 19 configs
+freeconfigsplus: 19 configs
 V2RAYROZ: 18 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
 PrivateVPNs: 16 configs
-freeconfigsplus: 16 configs
 v2ray_for_free: 14 configs
 v2rayvpnchannel: 14 configs
 v2Source: 13 configs
-v2ray_configs_pool: 13 configs
 vpnfail_vless: 12 configs
 An0nymousTeam: 12 configs
 CaV2ray: 12 configs
@@ -49,6 +49,7 @@ iraniv2ray: 8 configs
 ArV2ray: 7 configs
 hopev2ray: 7 configs
 redfree8: 6 configs
+configV2rayForFree: 5 configs
 golestan_vpn: 5 configs
 xroVPN: 5 configs
 Network_442: 4 configs
@@ -64,9 +65,7 @@ vpnaloo: 2 configs
 v2raymelliii: 2 configs
 blueshekan: 2 configs
 freeland8: 1 configs
-ShadowsocksM: 1 configs
 VmessProtocol: 1 configs
-configV2rayForFree: 1 configs
 vip_vpn_2022: 1 configs
 GrizzlyVPN: 1 configs
 proxy_kafee: 1 configs
