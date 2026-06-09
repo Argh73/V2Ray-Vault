@@ -1,6 +1,6 @@
-trojan://aknqvt3w-ew9t-rk5q-c0kv-m1jofg47mlbw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/09 | 05:22
-trojan://ml7vmj4s-pext-y33d-78xl-eu2r1orbhqlr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ikkz2kbx-n3r0-zypj-xxvh-7c2whbzxlc84@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://p1i21g89-f1kq-10ti-3hib-0ddo63bxt7bg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/09 | 11:07
+trojan://qsc2c21c-1veq-9pw9-36e2-p6brgtnwxqpl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wyn3p6aq-zxqa-fdj1-riqg-v9q4mury753f@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#49.13.3.249:23997
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#54.36.174.134:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#82.38.31.15:443
@@ -33,6 +33,7 @@ trojan://Masir_Sefid@195.15.253.91:2053?sni=store.steampowered.com&peer=store.st
 trojan://Masir_Sefid@195.15.253.91:1040?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#195.15.253.91:1040
 trojan://Masir_Sefid@195.15.253.91:443?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#195.15.253.91:443
 trojan://Masir_Sefid@195.15.253.91:2083?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#195.15.253.91:2083
+trojan://SoftNetConnect@213.165.45.14:443?sni=www.yahoo.com&peer=www.yahoo.com&security=reality#213.165.45.14:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3QEZyZWFrQ29uZmlnIiwiYWRkIjoiZGU1LnRhc2tmbG93aHViLm9yZyIsInBvcnQiOjIwNTMsImlkIjoiY2E1OGIxNjUtMGY3ZC00OWFhLTlmYWUtYTAxN2U4YTBmODg0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMifQ
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome#77.74.123.169:8443
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?type=ws&security=tls&path=/tsghdws&sni=octopusss4.com#89.116.46.68:443
@@ -83,6 +84,14 @@ vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?type=xhttp&secu
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.162:8443?type=xhttp&security=tls&path=/?ed=80&sni=vi.mojaz-persian-music.ir&fp=chrome#45.130.125.162:8443
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.160:443?type=ws&security=tls&path=/?ed=80&sni=ssj.new-persian-song.ir&fp=chrome#45.130.125.160:443
 vless://98c9f668-1f2f-4a6d-bd7a-606fab0ac035@151.101.108.223:443?type=ws&security=tls&path=/&sni=default.ssl.fastly.net&fp=chrome#151.101.108.223:443
+vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?type=xhttp&security=tls&path=/&sni=mahsa97.manhamunamkeyeruz.ir&fp=ios#45.130.125.158:443
+vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?type=ws&security=tls&path=/?ed=2560&sni=mh.sudonetwork.com&fp=firefox#maincdn.sudonetwork.com:2096
+vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@cdn4.sudonetwork.com:2096?type=ws&security=tls&path=/?ed=2560&sni=mh.sudonetwork.com&fp=firefox#cdn4.sudonetwork.com:2096
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed&sni=vip.mojaz-persian-music.ir&fp=chrome#45.130.125.194:8443
+vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?type=ws&security=none&path=/#snapp.ir:2095
+vless://Telegram-Parsashonam-12@188.114.97.6:443?type=ws&security=tls&path=/&sni=cdn.limoo.blog&fp=chrome#188.114.97.6:443
+vless://Telegram-Parsashonam-12@172.66.47.69:443?type=ws&security=tls&path=/&sni=cdn.limoo.blog&fp=chrome#172.66.47.69:443
+vless://f032fd94-715d-4d37-835f-13959a63df14@18.183.94.154:39611?type=tcp&security=reality&sni=www.icloud.com&fp=firefox&flow=xtls-rprx-vision&pbk=bffq0wpw2vUOczXypqTqoXzYEzwXAZQzhOut1fvFyWQ&sid=d7627055cafc62#18.183.94.154:39611
 hysteria2://%40Masir_Sefid@18.157.222.169:4040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:4040
 hysteria2://%40Masir_Sefid@18.157.222.169:44044?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:44044
 hysteria2://%40Masir_Sefid@18.157.222.169:54040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:54040
@@ -98,5 +107,5 @@ hysteria2://%40Masir_Sefid@18.157.222.169:54040?sni=free.masir-sefid.shop&insecu
 hysteria2://%40Masir_Sefid@18.157.222.169:4040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:4040
 hysteria2://%40Masir_Sefid@18.157.222.169:44044?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:44044
 hysteria2://%40Masir_Sefid@18.157.222.169:54040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:54040
-trojan://36kls48c-538e-ul1d-5cl7-cjf5mtae84s5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://9l8i9pn5-12i2-8akf-1fgl-6vul3y31i8i9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://dd1f0r83-r2m1-a8z0-p66q-s35kjjfnbci0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://e88rdcea-5i5z-udmq-6gnx-090hpk2qn9sn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
