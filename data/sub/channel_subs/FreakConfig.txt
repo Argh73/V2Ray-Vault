@@ -1,6 +1,6 @@
-trojan://i38l46w2-i8lz-r3m4-xijo-31qb5a0cjawt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/09 | 21:21
-trojan://44ttmbue-kdxt-hb72-0bsd-awvpf55le2u7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://lndpchbu-3k8v-igl9-x4pi-nuk7g1c1un5t@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://bm31ccig-fb5j-53be-hwi7-29khivqcspba@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/10 | 00:59
+trojan://wgx05te3-0bps-qjjw-chp7-4neymrp1b29m@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i6m877zc-bqmd-ggvv-lxnb-q74myt5dxspb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://Masir_Sefid@195.15.253.91:2053?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#195.15.253.91:2053
 trojan://Masir_Sefid@195.15.253.91:1040?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#195.15.253.91:1040
 trojan://Masir_Sefid@195.15.253.91:443?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#195.15.253.91:443
@@ -33,6 +33,7 @@ trojan://Masir_Sefid@188.213.130.61:443?sni=store.steampowered.com&peer=store.st
 trojan://Masir_Sefid@84.234.29.189:2083?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#84.234.29.189:2083
 trojan://Masir_Sefid@188.213.130.61:2083?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#188.213.130.61:2083
 trojan://Masir_Sefid@188.213.130.61:1040?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#188.213.130.61:1040
+trojan://Masir_Sefid@188.213.130.212:443?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#188.213.130.212:443
 vless://afb3eb91-6ab7-4c70-874e-716e2481cb7d@blubank.ir:80?type=ws&security=none&path=/#blubank.ir:80
 vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed=2053&sni=vi.new-persian-song.ir&fp=chrome#45.130.125.194:8443
 vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?type=xhttp&security=tls&path=/?ed=80&sni=vh.mojaz-persian-music.ir&fp=chrome#45.130.125.192:8443
@@ -95,11 +96,16 @@ vless://b4a00211-ae46-49bc-8f36-0c4425eb7e86@199.232.78.158:443?type=ws&security
 vless://b4a00211-ae46-49bc-8f36-0c4425eb7e86@151.101.108.223:443?type=ws&security=tls&path=/&sni=default.ssl.fastly.net&fp=chrome#151.101.108.223:443
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.192:8443?type=xhttp&security=tls&path=/?ed=80&sni=vh.mojaz-persian-music.ir&fp=chrome#45.130.125.192:8443
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed=2053&sni=ssd.new-persian-song.ir&fp=chrome#45.130.125.194:8443
+vless://2d11f9a7-5cb9-4a76-acbe-0064305b570a@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed=2053&sni=vi.new-persian-song.ir&fp=chrome#45.130.125.194:8443
+vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?type=xhttp&security=tls&path=/?ed=80&sni=vh.mojaz-persian-music.ir&fp=chrome#45.130.125.192:8443
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed=2053&sni=vo.new-persian-song.ir&fp=chrome#45.130.125.194:8443
+vless://ad6d51ab-2d06-4d41-85b7-da9d703ea4fd@dnn4.avaaaal.ir:2087?type=ws&security=tls&path=/720f09dba195549b424f771551162528/workers/services6/view6/Avaal6/production6/settings&sni=sv333.avaaal.ir&fp=random#dnn4.avaaaal.ir:2087
 vless://f032fd94-715d-4d37-835f-13959a63df14@18.183.94.154:39611?type=tcp&security=reality&sni=www.icloud.com&fp=firefox&flow=xtls-rprx-vision&pbk=bffq0wpw2vUOczXypqTqoXzYEzwXAZQzhOut1fvFyWQ&sid=d7627055cafc62#18.183.94.154:39611
 vless://f032fd94-715d-4d37-835f-13959a63df14@18.183.94.154:39611?type=tcp&security=reality&sni=www.icloud.com&fp=firefox&flow=xtls-rprx-vision&pbk=bffq0wpw2vUOczXypqTqoXzYEzwXAZQzhOut1fvFyWQ&sid=d7627055cafc62#18.183.94.154:39611
 vless://85dca508-15cc-43fc-8c35-8bc87c8a7858@45.128.233.31:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#45.128.233.31:8443
 vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?type=tcp&security=reality&sni=www.icloud.com&fp=firefox&flow=xtls-rprx-vision&pbk=5CqD0ZEtt5W_xA9adU4CxjH4xAV-BdCwhDuthBBnpFM&sid=450d60a09ffb65#3.112.19.64:26902
 vless://85dca508-15cc-43fc-8c35-8bc87c8a7858@45.128.233.31:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#45.128.233.31:8443
+vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?type=tcp&security=reality&sni=finporkzov.com&fp=chrome&flow=xtls-rprx-vision&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&sid=f00f58383241c807#finporkzov.com:443
 hysteria2://%40Masir_Sefid@18.157.222.169:4040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:4040
 hysteria2://%40Masir_Sefid@18.157.222.169:44044?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:44044
 hysteria2://%40Masir_Sefid@18.157.222.169:54040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:54040
@@ -109,5 +115,5 @@ hysteria2://%40Masir_Sefid@18.157.222.169:54040?sni=free.masir-sefid.shop&insecu
 hysteria2://%40Masir_Sefid@18.157.222.169:4040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:4040
 hysteria2://%40Masir_Sefid@18.157.222.169:44044?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:44044
 hysteria2://%40Masir_Sefid@18.157.222.169:54040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#18.157.222.169:54040
-trojan://q0p3n0fx-c5fu-7yqh-dzl5-p0cgv9tx1ov9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://agn46dan-1thd-0dxt-hrid-put7mg1yqvg1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://v8weytg5-qs9q-78pm-c3jh-irq9f2qumtst@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6uxpoj1q-9i2m-0h1l-1ro4-e7oipy4a14ka@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
