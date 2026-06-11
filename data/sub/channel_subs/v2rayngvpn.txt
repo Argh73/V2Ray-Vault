@@ -1,6 +1,6 @@
-trojan://45bohroe-w6ml-oli4-k9gm-dlzunaqu4n5t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/11 | 05:45
-trojan://gg5l7igm-d44u-9hmv-v1hq-nz83ivylqlwg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://gq1if642-4tk7-fmi5-kpm9-c2bjgst3saay@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://b8krzrpl-4azc-fel0-c361-h06qmqx3yc74@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/11 | 11:57
+trojan://y67whdwp-wk9m-j0b7-a74x-8qtlxce8ipyo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vzcw1bok-ospc-y2f0-xn8p-4okpqlfjo44s@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#108.181.58.239:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
 trojan://Masir_Sefid@206.189.58.246:443?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#206.189.58.246:443
@@ -12,6 +12,8 @@ trojan://%53%6f%66%74%4e%65%74%43%6f%6e%6e%65%63%74@167.233.105.87:443?sni=www.y
 trojan://humanity@188.114.97.6:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#188.114.97.6:443
 trojan://mitivpn@188.114.97.6:443?sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site&peer=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site&security=tls#188.114.97.6:443
 trojan://mitivpn@188.114.97.6:443?sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site&peer=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site&security=tls#188.114.97.6:443
+trojan://humanity@216.24.57.1:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#216.24.57.1:443
+trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#18.166.223.23:17005
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGlwcm94eXkiLCJhZGQiOiIxNDAuMjM4LjIuMjUwIiwicG9ydCI6NDQzLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?type=ws&security=tls&path=/&sni=speedtest.net#vxc.galardoxtn.ir:443
 vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?type=ws&security=tls&path=/&sni=speedtest.net#199.232.78.160:443
@@ -43,11 +45,24 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?type=ws&security=non
 vless://6f271143-69a3-402d-9403-dd9627b1a365@www.speedtest.net:2086?type=httpupgrade&security=none&path=/#www.speedtest.net:2086
 vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?type=ws&security=tls&path=/&sni=default.ssl.fastly.net#199.232.78.159:443
 vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed=2053&sni=vo.new-persian-song.ir&fp=chrome#45.130.125.194:8443
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?type=ws&security=none&path=/#speedtest.net:80
+vless://6f271143-69a3-402d-9403-dd9627b1a365@www.speedtest.net:2086?type=httpupgrade&security=none&path=/#www.speedtest.net:2086
+vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?type=ws&security=tls&path=/&sni=default.ssl.fastly.net#199.232.78.159:443
+vless://TIGNAL-CRYPTO@151.101.129.57:80?type=xhttp&security=none&path=/#151.101.129.57:80
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@speedtest.net:80?type=xhttp&security=none&path=/TignaliSWithYou#speedtest.net:80
+vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?type=xhttp&security=tls&path=/?ed=80&sni=vh.mojaz-persian-music.ir&fp=chrome#45.130.125.192:8443
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed&sni=vip.mojaz-persian-music.ir&fp=chrome#45.130.125.194:8443
+vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed&sni=vo.new-persian-song.ir&fp=chrome#45.130.125.194:8443
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?type=xhttp&security=tls&path=/?ed=2053&sni=vo.new-persian-song.ir&fp=chrome#45.130.125.194:8443
+vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.193:8443?type=xhttp&security=tls&path=/?ed=80&sni=ssj.new-persian-song.ir&fp=chrome#45.130.125.193:8443
+vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?type=ws&security=tls&path=/&sni=default.ssl.fastly.net#199.232.78.159:443
 vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?type=tcp&security=reality&sni=www.tesla.com&flow=xtls-rprx-vision&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&sid=7185b14179922a5c#122.248.202.201:45075
 vless://f232a803-ff05-4219-b16f-b4dc8497b938@54.151.254.107:46799?type=tcp&security=reality&sni=www.tesla.com&flow=xtls-rprx-vision&pbk=inxRtKQbaiuz18TGXqdYu0dyO_RplIhR7MDZ6rL42UA&sid=af0d579034a74916#54.151.254.107:46799
 vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?type=tcp&security=reality&sni=www.amd.com&flow=xtls-rprx-vision&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&sid=984d9ea72b9e81#46.137.225.209:32946
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@newyorkcity.instasup.ir:1005?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=aEyXUqZ4doy7Qse745h5IKGo31Jc2YEK3QOVaOuPPns&sid=4f2087146c1f587a#newyorkcity.instasup.ir:1005
 vless://b4dbdbf9-640e-4f66-a885-c5d308a73e79@enns1.vertatech.ir:7005?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=yuhrNGOXd061lVl8AfE9wc7ctTApk-K6XAVnArJpWF8&sid=dd9da58e3c5c641c#enns1.vertatech.ir:7005
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=28a059440d3d5ba1#89.169.39.55:443
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=28a059440d3d5ba1#89.169.39.55:443
 hysteria2://Masir_Sefid@206.189.58.246:443?sni=Api1.masir-sefid-1.my&insecure=0&obfs=salamander#206.189.58.246:443
 hysteria2://Masir_Sefid@206.189.58.246:1040?sni=Api1.masir-sefid-1.my&insecure=0&obfs=salamander#206.189.58.246:1040
 hysteria2://Masir_Sefid@206.189.58.246:2053?sni=Api1.masir-sefid-1.my&insecure=0&obfs=salamander#206.189.58.246:2053
@@ -55,5 +70,5 @@ hysteria2://Masir_Sefid@206.189.58.246:2087?sni=Api1.masir-sefid-1.my&insecure=0
 hysteria2://Masir_Sefid@206.189.58.246:4040?sni=Api1.masir-sefid-1.my&insecure=0&obfs=salamander#206.189.58.246:4040
 hysteria2://Masir_Sefid@206.189.58.246:8443?sni=Api1.masir-sefid-1.my&insecure=0&obfs=salamander#206.189.58.246:8443
 hysteria2://Masir_Sefid@206.189.58.246:54040?sni=Api1.masir-sefid-1.my&insecure=0&obfs=salamander#206.189.58.246:54040
-trojan://xr5kjs4m-jkea-0vcx-r3g6-56rdnq94ru4a@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ndmja63r-spmo-2ivd-llko-slpvltjfvc9o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://2ujl9bvo-6x1j-5zcv-h3h0-0ymmaiezuv3o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ghcuh8p2-3g6d-pr3x-yrcz-ypl55sqxahr0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
