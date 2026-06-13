@@ -1,30 +1,29 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-06-13 05:33:41
+Timestamp: 2026-06-13 11:09:36
 Total Channels: 117
 Successful Scrapes: 65
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-configV2rayNG: 333 configs
 configfa: 201 configs
-LonUp_M: 179 configs
+LonUp_M: 177 configs
 V2rayNG3: 167 configs
+oneclickvpnkeys: 140 configs
 Outline_Vpn: 121 configs
-oneclickvpnkeys: 121 configs
-FreakConfig: 119 configs
+FreakConfig: 120 configs
 ViProxys: 100 configs
-proxy_mtm: 85 configs
+proxy_mtm: 81 configs
 V2ray_Alpha: 74 configs
 v2Source: 56 configs
+v2rayngvpn: 50 configs
 fastfreeconfig: 50 configs
 yaney_01: 41 configs
-v2rayngvpn: 41 configs
 dailyv2ray: 40 configs
 OutlineReleasedKey: 33 configs
 ShadowsocksM: 29 configs
 golestan_vpn: 28 configs
-V2RAYROZ: 26 configs
 DarkVPNpro: 24 configs
+configV2rayNG: 23 configs
 shadowproxy66: 23 configs
 v2ngfast: 23 configs
 hopev2ray: 21 configs
@@ -34,12 +33,13 @@ inikotesla: 20 configs
 v2nodes: 20 configs
 Farah_VPN: 20 configs
 free4allVPN: 19 configs
+V2RAYROZ: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
 freedomofinfor: 17 configs
-ISVvpn: 15 configs
+ISVvpn: 16 configs
 An0nymousTeam: 15 configs
 v2rayvpnchannel: 15 configs
 PrivateVPNs: 14 configs
@@ -48,8 +48,8 @@ Network_442: 12 configs
 vpnfail_vless: 12 configs
 CaV2ray: 12 configs
 vpn_ocean: 10 configs
+proxy_kafee: 10 configs
 VmessProtocol: 9 configs
-proxy_kafee: 9 configs
 freev2raym: 9 configs
 vpnaloo: 8 configs
 vpn_irane: 8 configs
@@ -62,10 +62,10 @@ configV2rayForFree: 4 configs
 proSSH: 4 configs
 v2rayngconfig: 4 configs
 v2rayfree: 4 configs
+freeland8: 3 configs
 ConfigWireguard: 3 configs
 AzadNet: 3 configs
 bypass_filter: 3 configs
-freeland8: 2 configs
 Ahmedhamoomi_Servers: 2 configs
 GrizzlyVPN: 2 configs
 v2rayng_1378: 2 configs
