@@ -1,6 +1,7 @@
-trojan://xkwnwzxh-0v15-takx-4twh-zilfg6050u7h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/14 | 05:43
-trojan://wmqqna14-5lh6-obal-ne8j-dhmzx6ue89wl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://e6c3guxn-73om-bc42-2hi8-4wcnbp01kfae@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://hhxe6xtd-i9uj-02us-cfns-jdbtkvvo4wh6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/14 | 11:37
+trojan://lcoj2dbp-d09h-86il-qc8p-yllhwicerwa8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ktp9q1zq-hda3-0h76-wwol-r2qvjpeabb5t@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#82.38.31.7:8080
 trojan://mitivpn@188.114.97.6:443?sni=global.fastly.com.mitivpn-a.site&peer=global.fastly.com.mitivpn-a.site&security=tls#188.114.97.6:443
 trojan://mitivpn@188.114.97.6:443?sni=www.ssl.global.digi.my.mitivpn.xyz&peer=www.ssl.global.digi.my.mitivpn.xyz&security=tls#188.114.97.6:443
@@ -8,6 +9,20 @@ trojan://humanity@104.18.7.147:443?sni=www.creationlong.org&peer=www.creationlon
 trojan://humanity@104.18.152.97:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#104.18.152.97:443
 trojan://humanity@104.18.7.147:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#104.18.7.147:443
 trojan://humanity@104.18.152.97:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#104.18.152.97:443
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome#77.74.123.168:8443
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?type=ws&security=tls&path=/tsghdws&sni=octopusss4.com&fp=chrome#172.64.146.68:443
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?type=ws&security=none&path=/#167.82.0.1:80
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.147.137:443?type=ws&security=tls&path=/tsghdws&sni=octopusss4.com#172.64.147.137:443
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?type=ws&security=none&path=/#151.101.66.219:80
+vless://6631b0ef-0e81-4632-a6bf-fa4b10a325c5@91.107.190.72:5050?type=ws&security=none&path=/#91.107.190.72:5050
+vless://45d14516-4d2a-49f9-b71f-7bdd1a6cc3a8@62.220.122.147:442?type=tcp&security=none#62.220.122.147:442
+vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?type=tcp&security=none#62.220.122.147:441
+vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?type=tcp&security=none#62.220.122.178:442
+vless://1a6b9b6e-0724-49b0-9bb6-e8cdb27e28b9@62.220.122.178:441?type=tcp&security=none#62.220.122.178:441
+vless://45d14516-4d2a-49f9-b71f-7bdd1a6cc3a8@62.220.122.147:442?type=tcp&security=none#62.220.122.147:442
+vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?type=tcp&security=none#62.220.122.147:441
+vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?type=tcp&security=none#62.220.122.178:442
+vless://1a6b9b6e-0724-49b0-9bb6-e8cdb27e28b9@62.220.122.178:441?type=tcp&security=none#62.220.122.178:441
 vless://1a6b9b6e-0724-49b0-9bb6-e8cdb27e28b9@62.220.122.178:441?type=tcp&security=none#62.220.122.178:441
 vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?type=tcp&security=none#62.220.122.178:442
 vless://45d14516-4d2a-49f9-b71f-7bdd1a6cc3a8@62.220.122.147:442?type=tcp&security=none#62.220.122.147:442
@@ -25,10 +40,12 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?type=tcp&securit
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?type=ws&security=none&path=/#104.16.0.0:8080
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome#77.74.123.163:8443
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#germany-vip.soft26.ir:8443
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#germany-vip.soft26.ir:8443
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#germany-vip.soft26.ir:8443
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@newyorkcity.instasup.ir:1005?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=aEyXUqZ4doy7Qse745h5IKGo31Jc2YEK3QOVaOuPPns&sid=4f2087146c1f587a#newyorkcity.instasup.ir:1005
 vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?type=tcp&security=reality&sni=gateway.icloud.com&fp=firefox&flow=xtls-rprx-vision&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&sid=ed7b9bdfedb9b8e5#tr.go-vpn.club:443
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@newyorkcity.instasup.ir:1005?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=aEyXUqZ4doy7Qse745h5IKGo31Jc2YEK3QOVaOuPPns&sid=4f2087146c1f587a#newyorkcity.instasup.ir:1005
 vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?type=tcp&security=reality&sni=gateway.icloud.com&fp=firefox&flow=xtls-rprx-vision&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&sid=ed7b9bdfedb9b8e5#tr.go-vpn.club:443
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@46.225.155.159:1006?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=2iijxUyJsanFAkX0ctH6H4RTW1N4mQYnIsaP8qrbbS8&sid=0c3a409c2ba7d083#46.225.155.159:1006
-trojan://vpap1zmj-pkey-kzyk-szgc-28nqqdgqy527@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://d3g9lb6r-w9ht-4exz-ixpp-8tn4ruxyp9gr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://54nsdrel-ehsz-345z-qzzn-o8zp3zqc7zs1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5uawo1g6-nzsv-5q9r-d50m-iugnpnio3gif@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

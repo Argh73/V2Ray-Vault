@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-06-14 05:43:46
+Timestamp: 2026-06-14 11:37:45
 Total Channels: 117
 Successful Scrapes: 64
 Failed Scrapes: 0
@@ -8,22 +8,22 @@ Failed Scrapes: 0
 configfa: 201 configs
 LonUp_M: 178 configs
 V2rayNG3: 167 configs
-oneclickvpnkeys: 124 configs
+oneclickvpnkeys: 123 configs
 Outline_Vpn: 121 configs
-FreakConfig: 115 configs
+FreakConfig: 117 configs
 ViProxys: 100 configs
+proxy_mtm: 77 configs
 V2ray_Alpha: 68 configs
-proxy_mtm: 66 configs
 v2Source: 56 configs
 configV2rayNG: 51 configs
 fastfreeconfig: 50 configs
+V2RAYROZ: 46 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
+v2rayngvpn: 33 configs
 OutlineReleasedKey: 33 configs
 golestan_vpn: 33 configs
 ShadowsocksM: 29 configs
-V2RAYROZ: 29 configs
-v2rayngvpn: 25 configs
 v2rayng_1378: 25 configs
 DarkVPNpro: 24 configs
 v2ngfast: 23 configs
@@ -45,9 +45,9 @@ An0nymousTeam: 15 configs
 v2rayvpnchannel: 15 configs
 PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
-proxy_kafee: 13 configs
 vpnfail_vless: 12 configs
 CaV2ray: 12 configs
+proxy_kafee: 12 configs
 VmessProtocol: 11 configs
 vpn_ocean: 10 configs
 freev2raym: 9 configs
