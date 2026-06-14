@@ -1,32 +1,34 @@
-trojan://hk2vb7p2-rz41-qdo6-7ky7-ury86qsf8v25@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/14 | 20:37
-trojan://t9bvw902-068q-btvi-n6vw-g2hrgf2boxk8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://liaabh65-pdqw-lt7u-vp3q-66p1e534y7jp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.214
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS ┇ 82.38.31.194
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.241
-vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?type=tcp&security=reality&sni=swdist.apple.com&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&sid=232c6f7b520b89#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 15.168.173.144
-vless://4de73a98-0f31-4d2c-b845-fcb7a2bbe9bb@134.209.205.173:4000?type=xhttp&security=reality&path=/&sni=zula.ir&fp=chrome&pbk=WvWpvjm0ynTr6YCICH5TmTEKicAq0JNGEZDWZvApgRM&sid=d9ed58fe#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - DIGITALOCEAN-ASN ┇ 134.209.205.173
-vless://8871d6a1-85cf-4588-b6f5-830043781ee9@201.51.2.115:443?type=grpc&security=reality&sni=ubuntu.ubuntuhosting.host&fp=firefox&pbk=dEdb0K8U-uTlYx8OAyuaFFbwiL0eS7ZuVsPAYdZUvyk&sid=06b1be#BR 🇧🇷 ┇ VLESS-GRPC-RLT - V tal ┇ 201.51.2.115
-vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyBcdTI1MDcgTm9uZSIsImFkZCI6ImlyYW5oYW0uZm94bmltLmluZm8iLCJwb3J0Ijo3MDAwLCJpZCI6IjZmNGIxZTkyLTk0NDItNGJmZS1jMDJiLTE4Mzg1ZDk1MjdlYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTE9VREZMQVJFTkVUIFx1MjUwNyAxMDQuMjEuNy4xNjIiLCJhZGQiOiIxMDQuMjEuNy4xNjIiLCJwb3J0IjoyMDg3LCJpZCI6IjUyMGE1ZjQ1LWQzNTQtNDJmNC1hNjU4LTE4ZGJjMzc1NDY0NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9md3MiLCJ0bHMiOiJ0bHMifQ
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?type=tcp&security=reality&sni=France1cxc.chickenkiller.com&fp=chrome&flow=xtls-rprx-vision&pbk=UJSYKOEr3a3V1P_obd9zNBq4Pr3Vbd_a2nHE7-rstRk&sid=6089640857a72237#GB 🇬🇧 ┇ VLESS-TCP-RLT - TMN SA ┇ 217.179.6.84
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6REdLMUN6OW4wa1NrNzBuc0dJWnZycUxxYXd4UWlDMEZoSU5uZm9iQXFGTTQzZzI@55.217.181.14:31348#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DNIC-ASBLK-00721-00726 ┇ 55.217.181.14
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhdGFjYW1wIExpbWl0ZWQgXHUyNTA3IDgyLjE5OC4yNDYuMzciLCJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?type=tcp&security=reality&sni=www.booking.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&sid=a1b2c3d4e5f67890#DE 🇩🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 136.244.93.228
-vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyBOb25lIiwiYWRkIjoiYWRtaW4uYXJ6b25ob3N0LmlyIiwicG9ydCI6MjA4NiwiaWQiOiI3ZDkzZTk5Mi00OGNmLTQyZDQtODRmOC03NTc2OGU4MTVhNGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.87.204
-vless://telegram-id-ArV2ray@185.234.65.232:4423?type=grpc&security=reality&sni=animejs.com&fp=chrome&pbk=D4fo-UBIrSlLx3R8qu3iWSoynAvArdXpn5uZoDEt3Uc&sid=b740#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Pq Hosting Plus S.r.l. ┇ 185.234.65.232
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnYlh4VklHcGpDczVoUHFQ@74.234.78.179:443#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 74.234.78.179
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?type=tcp&security=reality&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#DE 🇩🇪 ┇ VLESS-TCP-RLT ┇ 62.238.32.25
+trojan://4lmj5ddm-88k9-yg7m-fu3j-cfhlfy576a9p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/15 | 00:28
+trojan://4c0qjjr7-eamb-bbd6-ewkz-d5efirrjt4by@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3x6pwdnn-n8b9-2w78-rplc-0647jueeuwdf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://telegram-id-privatevpns@52.47.119.234:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.47.119.234
+vless://039a1658-e86e-475f-a3a4-67cc249acada@144.124.228.113:443?type=tcp&security=reality&sni=nl3.panel11.ru&flow=xtls-rprx-vision&pbk=odHeTqoDcoPA6jeZStmaFPqoFg0ZiWwOKREEB0X-ez4&sid=e069bfaf9ba2069c#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 144.124.228.113
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?type=tcp&security=reality&sni=www.vk.ru&fp=chrome&flow=xtls-rprx-vision&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4&sid=8237eb#RU 🇷🇺 ┇ VLESS-TCP-RLT - AS393942 ┇ 195.96.132.125
+vless://63a16ebb-8687-42ac-972a-5914cafad1d5@94.131.16.12:443?type=tcp&security=reality&sni=google.com&fp=qq&flow=xtls-rprx-vision&pbk=Re4bwcu3tj9zJQlIQDm_kJ1MPvGH5WxUGroE2ZvxeDI&sid=abc431#NL 🇳🇱 ┇ VLESS-TCP-RLT - Green Floid LLC ┇ 94.131.16.12
+vless://b43c0481-77f7-48ad-af5e-91ebbdaccacc@45.195.110.137:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=a1cb4af60a34ff8e#MU 🇲🇺 ┇ VLESS-TCP-RLT - AlfaServi, S.R.L ┇ 45.195.110.137
+trojan://bpb-trojan@104.21.75.193:443?sni=mashdt.pages.dev&peer=mashdt.pages.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.75.193
+vless://4f15bd3e-9630-4693-9ac4-cf2264bc327a@falnur.vulltr.ir:2003?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&sid=2418ed47b875e923#DE 🇩🇪 ┇ VLESS-TCP-RLT - Hetzner Online GmbH ┇ 91.99.215.177
+trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.166.223.23
+vless://c8a930cb-7a41-403f-922a-0b2148a75e05@57.180.22.236:12524?type=tcp&security=reality&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&pbk=snK07S_XyboGtyPOcmLFn4aNuxaRwHBG8w8JH2K0RS4&sid=2895e9532d0c#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 57.180.22.236
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUZtakthYW1TclBxVnkxanRYRVg0@212.192.14.226:41968#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Global Internet Solutions LLC ┇ 212.192.14.226
+vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@panel.panel.pythash.tr:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg&sid=61ad#XX 🏳️ ┇ VLESS-TCP-RLT ┇ None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 193.29.139.227
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Cgi Global Limited ┇ 217.60.249.112
+vless://4649d442-74df-47ef-9ac9-881117598d99@nl.rush-server.com:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - NovoServe B.V. ┇ 89.105.197.203
+trojan://duaR-NjjdGGLeZ%2BW6j%3D3NY46vZW%2BzyMD1z@89.125.95.152:11300?sni=www.toughapp.click&peer=www.toughapp.click&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS ┇ 89.125.95.152
 trojan://humanity@185.18.250.252:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 185.18.250.252
-vmess://eyJ2IjoiMiIsInBzIjoiTVkgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWxpYmFiYSBVUyBUZWNobm9sb2d5IENvLiwgTHRkLiBcdTI1MDcgNDcuMjUwLjE1My4xMzYiLCJhZGQiOiI0Ny4yNTAuMTUzLjEzNiIsInBvcnQiOjI2MTgxLCJpZCI6IjcyNDljM2JlLTg1YWQtNDZmYi1hYjk4LWM0YTA3ZjRhNzI0ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-trojan://Masir_Sefid@84.234.29.238:2083?sni=store.steampowered.com&peer=store.steampowered.com&security=reality#CH 🇨🇭 ┇ TROJAN-TCP-REALITY - Infomaniak Network SA ┇ 84.234.29.238
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OU5RUkZnN1BjeWJrbDlGckR4cWo1@193.17.57.155:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - SHOCK-1 ┇ 193.17.57.155
-vless://d76542c9-916e-41bb-ad0d-fa37971a8b2e@65.109.211.154:443?type=xhttp&security=reality&path=/@custom_config&sni=yahoo.com&fp=chrome&pbk=CM7AaS7XYEohx4ZNbecHqTqhyX9-Q4MQKlHji1xxI2I&sid=4b272f845593#FI 🇫🇮 ┇ VLESS-XHTTP-RLT - Hetzner Online GmbH ┇ 65.109.211.154
-vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?type=tcp&security=reality&sni=www.tesla.com&flow=xtls-rprx-vision&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&sid=7185b14179922a5c#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 122.248.202.201
-vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@185.170.154.202:443?type=tcp&security=reality&sni=nodg.me3op.site&fp=chrome&flow=xtls-rprx-vision&pbk=T6p0Kn_9VfKQfBrDoBEuPoNZYNeY0VFrl6H6bmh3xhk&sid=3fa80f1d8a977c80#DE 🇩🇪 ┇ VLESS-TCP-RLT - Serv.host Group Ltd ┇ 185.170.154.202
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVudGVnaGFsIERhZGVoIEFyYXogU2hvbWFsIENvbXBhbnkgUEpTQyBcdTI1MDcgMTkzLjExMS4yMzUuNzIiLCJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwicG9ydCI6MjIzMDEsImlkIjoiMTY1NjNjNTEtMmRiMi00YjUwLWEzZjEtNTcyYjYzMmM3MzQyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://78d9f9d6-f85a-4d39-9a1e-897b8e2cdf7a@13.54.156.73:45565?type=tcp&security=reality&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=zSlB0DPQHirXQtTzH6vCMDDl2ccUKPtDXFQFDpB-T0A&sid=d24a5d31e3a6dc91#AU 🇦🇺 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.54.156.73
-trojan://humanity@216.24.57.1:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - RENDER ┇ 216.24.57.1
-trojan://cwdecdgs-aalq-4soj-34lc-ytgnznlrulhm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://unvef635-onpl-hq1f-d43j-vtfksa6fi6a1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@uk-gthost-01.com:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=37772edff71b4167#MU 🇲🇺 ┇ VLESS-TCP-RLT ┇ 45.206.0.34
+vless://2703cda8-5cf4-019d-c4bd-6cf0c2261946@122.8.44.3:993?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04#CN 🇨🇳 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 122.8.44.3
+hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898 ┇ 130.61.50.75
+trojan://humanity@199.181.197.36:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 199.181.197.36
+trojan://bpb-trojan@digiclassor.ir:443?sni=10-Bpb-WOrKer-paneL.pagEs.DeV&peer=10-Bpb-WOrKer-paneL.pagEs.DeV&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.64.80.1
+trojan://humanity@162.159.17.189:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 162.159.17.189
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 91.218.143.194
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?sni=se.esimpson.org&insecure=0&obfs=salamander#SE 🇸🇪 ┇ HYSTERIA2-TCP-NTLS - No ACK Group Holding AB ┇ 31.22.91.243
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNUFM0UXhJeVNPMjB5R25GVEdFYnlZVE93ZDJIbEVtY0Mwa3Nxb2d4WnRMeUxZUmw@185.18.54.70:31348#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - Fornex Hosting S.L. ┇ 185.18.54.70
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443?type=tcp&security=reality&sni=google.com&fp=random&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#GB 🇬🇧 ┇ VLESS-TCP-RLT ┇ 2.26.11.151
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Mizban Dadeh Pardis .Ltd ┇ 88.218.18.34
+trojan://humanity@141.193.213.21:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 141.193.213.21
+trojan://8cuyvcwo-odvp-ntok-8fyb-6ft45jjt1nwg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://b4s3908n-6p2j-bdpz-ua1b-ad15zbnr79ev@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
