@@ -1,18 +1,18 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-06-19 06:12:48
+Timestamp: 2026-06-19 12:27:44
 Total Channels: 117
-Successful Scrapes: 65
+Successful Scrapes: 64
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 ShadowsocksM: 180 configs
-LonUp_M: 180 configs
+LonUp_M: 176 configs
 configfa: 172 configs
 V2rayNG3: 167 configs
 V2ray_Alpha: 132 configs
 Outline_Vpn: 124 configs
-oneclickvpnkeys: 122 configs
-FreakConfig: 115 configs
+FreakConfig: 117 configs
+oneclickvpnkeys: 108 configs
 ViProxys: 100 configs
 proxy_mtm: 77 configs
 An0nymousTeam: 73 configs
@@ -21,36 +21,35 @@ fastfreeconfig: 50 configs
 v2rayng_1378: 43 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
-V2RAYROZ: 39 configs
-tehranargo: 35 configs
+tehranargo: 36 configs
+V2RAYROZ: 34 configs
 OutlineReleasedKey: 33 configs
 golestan_vpn: 33 configs
 hopev2ray: 30 configs
+vpnaloo: 26 configs
 v2ngfast: 26 configs
 DarkVPNpro: 24 configs
+configV2rayNG: 23 configs
 v2rayngvpn: 21 configs
 FreeV2rays: 20 configs
 inikotesla: 20 configs
 v2nodes: 20 configs
-vpnaloo: 20 configs
 Farah_VPN: 20 configs
 free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
 freedom_config: 18 configs
-configV2rayNG: 17 configs
 freedomofinfor: 17 configs
 shadowproxy66: 17 configs
+v2raying: 16 configs
 v2rayvpnchannel: 15 configs
-PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
 v2raymelliii: 13 configs
+PrivateVPNs: 12 configs
 vpnfail_vless: 12 configs
 CaV2ray: 12 configs
 vpn_ocean: 10 configs
-v2raying: 10 configs
-proxy_kafee: 10 configs
 freev2raym: 9 configs
 ISVvpn: 8 configs
 iraniv2ray: 8 configs
@@ -60,15 +59,15 @@ ConfigWireguard: 7 configs
 freeconfigsplus: 7 configs
 redfree8: 6 configs
 xroVPN: 5 configs
+proxy_kafee: 5 configs
 configV2rayForFree: 4 configs
-Network_442: 4 configs
 proSSH: 4 configs
 v2rayngconfig: 4 configs
 v2rayfree: 4 configs
 bypass_filter: 3 configs
-freeland8: 2 configs
 Ahmedhamoomi_Servers: 2 configs
 GrizzlyVPN: 2 configs
+freeland8: 1 configs
 ev2rayy: 1 configs
 
 --- Failed Channels ---
