@@ -1,13 +1,19 @@
-trojan://p3y1x6xl-36mp-o6cz-n4s8-qxo9swvh8yu9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/22 | 19:54
-trojan://kkom389h-358a-azly-nxy2-1snmt1halpoz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ab3lscot-9ou2-z63n-zome-2i0yeccv7eeo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://MITIVPN@146.75.121.194:443?sni=fastly.com&peer=fastly.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - FASTLY ┇ 146.75.121.194
-trojan://%4D%69%54%69%56%50%4E@167.82.101.251:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 167.82.101.251
+trojan://kzl52h1f-qtkl-j6kp-9ikd-avxev7c4aihh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/23 | 01:25
+trojan://48cvtuc2-a9zr-kdtu-0rn4-bnqf8pgdzjm7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2hynfre5-8kwo-puk5-7rq2-setdxmeimrrz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://MITIVPN@151.101.69.219:443?sni=speedtest.net&peer=speedtest.net&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.69.219
-trojan://MITIVPN@199.232.173.194:443?sni=fastly.com&peer=fastly.com&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - FASTLY ┇ 199.232.173.194
-trojan://%4D%69%54%69%56%50%4E@140.248.185.253:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 140.248.185.253
-trojan://MITIVPN@151.101.110.219:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.110.219
-trojan://%4D%69%54%69%56%50%4E@151.101.1.194:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.1.194
+trojan://MITIVPN@151.101.242.172:80?security=none#IT 🇮🇹 ┇ TROJAN-TCP-NTLS - FASTLY ┇ 151.101.242.172
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?type=ws&security=none&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.2.219
+trojan://MITIVPN@146.75.121.194:443?sni=fastly.com&peer=fastly.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - FASTLY ┇ 146.75.121.194
 trojan://mitivpn@199.232.78.158:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 199.232.78.158
-trojan://f1d7mfoa-vb7b-st9n-vpko-xx69i4aqmdvv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pciokz2t-qexh-2his-4swt-llbbeecqawls@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?type=ws&security=none&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.197.131
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80?type=ws&security=none&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.130.219
+trojan://MITIVPN@151.101.110.219:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.110.219
+trojan://%4D%69%54%69%56%50%4E@167.82.101.251:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 167.82.101.251
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?type=ws&security=none&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.0.1
+trojan://MITIVPN@151.101.1.194:80?security=none#US 🇺🇸 ┇ TROJAN-TCP-NTLS - FASTLY ┇ 151.101.1.194
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?type=ws&security=none&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.66.219
+trojan://%4D%69%54%69%56%50%4E@140.248.185.253:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 140.248.185.253
+trojan://MITIVPN@199.232.173.194:443?sni=fastly.com&peer=fastly.com&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - FASTLY ┇ 199.232.173.194
+trojan://9s1p6dwy-znvg-zja5-yobn-s1pz24fje9l3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://l9irbfdv-46om-3lh4-o3tb-rjmt0oiej4tf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
