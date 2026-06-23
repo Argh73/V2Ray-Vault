@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-06-23 11:07:32
+Timestamp: 2026-06-23 14:23:13
 Total Channels: 117
-Successful Scrapes: 64
+Successful Scrapes: 65
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -9,26 +9,26 @@ configV2rayNG: 268 configs
 configfa: 224 configs
 V2rayNG3: 182 configs
 ShadowsocksM: 180 configs
-LonUp_M: 178 configs
-oneclickvpnkeys: 142 configs
+LonUp_M: 179 configs
+oneclickvpnkeys: 139 configs
+Outline_Vpn: 129 configs
 proxy_mtm: 128 configs
-Outline_Vpn: 122 configs
+FreakConfig: 106 configs
 ViProxys: 100 configs
-FreakConfig: 85 configs
 An0nymousTeam: 58 configs
 v2Source: 56 configs
-V2RAYROZ: 50 configs
 fastfreeconfig: 50 configs
 v2rayng_1378: 43 configs
 yaney_01: 41 configs
 V2ray_Alpha: 41 configs
 hopev2ray: 41 configs
+tehranargo: 41 configs
 dailyv2ray: 40 configs
 vpnaloo: 37 configs
-shadowproxy66: 37 configs
-tehranargo: 37 configs
 OutlineReleasedKey: 33 configs
-golestan_vpn: 33 configs
+shadowproxy66: 33 configs
+golestan_vpn: 31 configs
+V2RAYROZ: 30 configs
 v2ngfast: 27 configs
 DarkVPNpro: 24 configs
 v2raying: 21 configs
@@ -40,34 +40,35 @@ free4allVPN: 19 configs
 V2rayNG_Outlinee: 19 configs
 FreeVPNHomesConfigs: 19 configs
 vpnstorefast: 18 configs
-ConfigWireguard: 18 configs
 freedom_config: 18 configs
 freedomofinfor: 17 configs
-PrivateVPNs: 14 configs
 v2ray_for_free: 14 configs
-v2rayvpnchannel: 13 configs
+v2rayvpnchannel: 14 configs
+PrivateVPNs: 12 configs
 vpnfail_vless: 12 configs
 CaV2ray: 12 configs
 configV2rayForFree: 11 configs
+VmessProtocol: 10 configs
 vpn_ocean: 10 configs
+ISVvpn: 9 configs
 proxy_kafee: 9 configs
 freev2raym: 9 configs
-VmessProtocol: 8 configs
 Network_442: 8 configs
-ISVvpn: 8 configs
 iraniv2ray: 8 configs
 freeconfigsplus: 7 configs
 ArV2ray: 6 configs
+ConfigWireguard: 6 configs
 redfree8: 6 configs
 xroVPN: 5 configs
 proSSH: 4 configs
 v2rayngconfig: 4 configs
 v2rayfree: 4 configs
-v2raymelliii: 3 configs
+v2raymelliii: 4 configs
 bypass_filter: 3 configs
 freeland8: 2 configs
 Ahmedhamoomi_Servers: 2 configs
 GrizzlyVPN: 2 configs
+viturey: 1 configs
 ev2rayy: 1 configs
 
 --- Failed Channels ---
