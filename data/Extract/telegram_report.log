@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-06-25 05:31:01
+Timestamp: 2026-06-25 11:02:37
 Total Channels: 117
 Successful Scrapes: 65
 Failed Scrapes: 0
@@ -8,14 +8,15 @@ Failed Scrapes: 0
 V2rayNG3: 182 configs
 configfa: 181 configs
 ShadowsocksM: 180 configs
-LonUp_M: 180 configs
+LonUp_M: 179 configs
 Outline_Vpn: 129 configs
+oneclickvpnkeys: 128 configs
 proxy_mtm: 128 configs
-FreakConfig: 114 configs
-oneclickvpnkeys: 110 configs
+configV2rayNG: 117 configs
+FreakConfig: 107 configs
 ViProxys: 100 configs
-configV2rayNG: 79 configs
 v2rayng_1378: 62 configs
+ConfigWireguard: 59 configs
 An0nymousTeam: 58 configs
 v2Source: 51 configs
 fastfreeconfig: 50 configs
@@ -24,12 +25,11 @@ yaney_01: 41 configs
 hopev2ray: 41 configs
 dailyv2ray: 40 configs
 V2RAYROZ: 39 configs
-ConfigWireguard: 34 configs
 OutlineReleasedKey: 33 configs
 golestan_vpn: 33 configs
 tehranargo: 28 configs
-proxy_kafee: 27 configs
 DarkVPNpro: 24 configs
+proxy_kafee: 24 configs
 v2ngfast: 24 configs
 v2raying: 23 configs
 V2ray_Alpha: 21 configs
@@ -60,11 +60,11 @@ freeconfigsplus: 7 configs
 ArV2ray: 6 configs
 redfree8: 6 configs
 xroVPN: 5 configs
+freeland8: 4 configs
 proSSH: 4 configs
 v2rayngconfig: 4 configs
 v2rayfree: 4 configs
 v2raymelliii: 4 configs
-freeland8: 3 configs
 bypass_filter: 3 configs
 Network_442: 2 configs
 Ahmedhamoomi_Servers: 2 configs
