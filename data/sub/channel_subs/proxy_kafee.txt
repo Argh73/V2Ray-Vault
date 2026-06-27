@@ -1,6 +1,6 @@
-trojan://z8xxqq1p-1hcl-f6vr-8ise-mrp4eqpg3sqo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/27 | 20:24
-trojan://77xdqon4-palj-666n-e9w3-j7fdze4lts9y@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qd8cbvpw-khe0-00ur-0ox3-mbsi34s4djmf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://e09x9rr8-77ku-nvbp-d98z-9fk3j2zqtd5a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/28 | 00:18
+trojan://g3o27yn5-2q6j-lgnd-ja7z-imydgw4eih9r@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qohtwylm-qnky-2ekf-kz6h-onsx3up6a8n9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#82.38.31.212:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#82.38.31.206:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#82.38.31.206:8080
@@ -15,6 +15,10 @@ trojan://MiTiVPN@45.131.4.118:443?sni=95r.ir&peer=95r.ir&security=tls#45.131.4.1
 trojan://Mitivpn@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.6:443
 trojan://MITIVPN@164.38.155.135:443?sni=95r.ir&peer=95r.ir&security=tls#164.38.155.135:443
 trojan://MITIVPN@94.140.0.100:443?sni=95r.ir&peer=95r.ir&security=tls#94.140.0.100:443
+trojan://SoftNetConnect@37.156.44.215:8443?sni=play.google.com&peer=play.google.com&security=reality#37.156.44.215:8443
+trojan://SoftNetConnect@37.156.44.215:443?sni=www.yahoo.com&peer=www.yahoo.com&security=reality#37.156.44.215:443
+trojan://SoftNetConnect@37.156.44.215:2087?sni=www.yahoo.com&peer=www.yahoo.com&security=reality#37.156.44.215:2087
+trojan://SoftNetConnect@37.156.44.215:42549?sni=www.speedtest.net&peer=www.speedtest.net&security=tls#37.156.44.215:42549
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?type=grpc&security=none#151.115.167.188:8880
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?type=ws&security=tls&path=/&sni=default.ssl.fastly.net#167.82.101.251:443
 vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&sni=static.lotussec.com&fp=firefox#static.lotussec.com:443
@@ -28,5 +32,6 @@ vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:443?type=tcp&secur
 vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@194.107.126.57:443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#194.107.126.57:443
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.248:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#217.217.247.248:443
 vless://21881488-949f-4f8b-81c5-568b58c4be70@107.181.134.108:32221?type=tcp&security=reality&sni=soft98.ir&fp=chrome&pbk=cqgnkxM2KAppBDFu_ER6h-akGkWw6NqZqIs9tilH3mM&sid=71acdfdc4726#107.181.134.108:32221
-trojan://v7ettev4-c356-ywn3-dm2i-efy9gdohylpg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2ctix8f9-dfvc-j1i2-6x24-qiyhbdfjlynz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.215:2083?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc#37.156.44.215:2083
+trojan://wh5sbll4-y202-vfac-akbj-c5helyf8tg6x@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hxxx3wd3-cjq5-r9cj-87ue-kxu9e9gjcal2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
