@@ -1,6 +1,6 @@
-trojan://4iro9x2u-bhh9-lgp7-awsn-1uzyj5ilx9wb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/28 | 20:26
-trojan://0r14ppui-njkc-iwer-2qy5-dq3in0waobq2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://yu2d83aa-1h9g-adbe-m6gy-b6z7pbiln4va@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://c11pwck4-s3fz-n4nx-chcg-ezie8eq506k7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/29 | 00:21
+trojan://brv3ih1m-1dah-5t9s-ollc-m2wf0hri2e2l@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rq6mssfv-wde1-0jph-8jfe-e4w9xcxdw7ba@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#82.38.31.206:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#82.38.31.211:8080
 trojan://Mitivpn@151.101.110.219:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#151.101.110.219:443
@@ -18,6 +18,10 @@ trojan://SoftNetConnect@37.156.44.215:2087?sni=www.yahoo.com&peer=www.yahoo.com&
 trojan://SoftNetConnect@37.156.44.215:42549?sni=www.speedtest.net&peer=www.speedtest.net&security=tls#37.156.44.215:42549
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?sni=space.byu.id.yxls.eu.cc&peer=space.byu.id.yxls.eu.cc&security=tls#104.16.72.70:443
 trojan://Mitivpn@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.6:443
+trojan://SoftNetConnect@83.228.250.119:8443?sni=play.google.com&peer=play.google.com&security=reality#83.228.250.119:8443
+trojan://SoftNetConnect@83.228.250.119:443?sni=www.yahoo.com&peer=www.yahoo.com&security=reality#83.228.250.119:443
+trojan://SoftNetConnect@83.228.250.119:2087?sni=www.yahoo.com&peer=www.yahoo.com&security=reality#83.228.250.119:2087
+trojan://SoftNetConnect@83.228.250.119:42549?sni=www.speedtest.net&peer=www.speedtest.net&security=tls#83.228.250.119:42549
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?type=xhttp&security=tls&path=/clud?ed=2048&sni=franceix.dtvialon.com&fp=firefox#h1.garletshopino.com:2096
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?type=ws&security=tls&path=/proxyip&sni=nbhhh.mrcool.kdns.fr#104.16.72.70:443
 vless://2947e655-6da6-4f90-b983-4deb8b5bc539@uk.eorqen.ir:8086?type=tcp&security=none#uk.eorqen.ir:8086
@@ -29,5 +33,6 @@ vless://2947e655-6da6-4f90-b983-4deb8b5bc539@us.eorqen.ir:2050?type=tcp&security
 vless://2947e655-6da6-4f90-b983-4deb8b5bc539@italy.lizard2shop.com:2053?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&sid=6ba85179e30d4fc2#italy.lizard2shop.com:2053
 vless://2947e655-6da6-4f90-b983-4deb8b5bc539@103.215.239.85:2050?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=CnLETCV02SjuYQ_NIET-Um0iw2YHQ5Smrs4vdnHaMB8&sid=d2d1dad761fa733c#103.215.239.85:2050
 vless://2947e655-6da6-4f90-b983-4deb8b5bc539@185.8.51.20:2053?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&sid=6ba85179e30d4fc2#185.8.51.20:2053
-trojan://emlwfvp2-sv57-7lhd-c95y-p10dybnb0xqy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kszqityf-n3vf-bzkw-116t-rr6ckdn4ebht@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.250.119:2083?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc#83.228.250.119:2083
+trojan://4nx3ixgk-jt13-old7-198r-3pl63h3fj6gm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://s9k1x37y-tk2o-uf2o-i991-bnf1bi8jigm1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
