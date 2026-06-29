@@ -1,6 +1,6 @@
-trojan://omtlhgpn-735h-m9vk-gfg1-ap4xg4b06rw0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/29 | 12:18
-trojan://38qbae16-uemq-ph3s-rkos-4puvbgt7b2fd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fs4o8azo-nr2u-fjoj-76xu-h97v0xi24nf2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://zyjjnpoc-3acy-odqa-8i9w-yaacpoac3d29@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/29 | 18:55
+trojan://iq129r17-veea-l60y-j6wm-o2bqtz0h67d4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2z2w7uuc-grf4-nbz0-4vbi-7qnjkvcy4os7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQzVOTko1a0Z5Z01HbWVUd01NSVBLQzViLWo4WUJmSA@p4.hoomankh.info:1080#p4.hoomankh.info:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaFZHaXU2cHluZ2NRUWRV@20.166.91.10:443#20.166.91.10:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SkZrbm9iUW90RkZZYUZX@20.166.91.10:443#20.166.91.10:443
@@ -16,6 +16,9 @@ trojan://%4D%69%74%69%76%70%6E@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fast
 trojan://%4D%69%54%69%56%50%4E@199.181.197.176:443?sni=95r.ir&peer=95r.ir&security=tls#199.181.197.176:443
 trojan://humanity@216.24.57.1:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#216.24.57.1:443
 trojan://Mitivpn@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.6:443
+trojan://%4D%69%54%69%56%50%4E@91.193.58.201:443?sni=95r.ir&peer=95r.ir&security=tls#91.193.58.201:443
+trojan://%4D%69%54%69%56%50%4E@45.131.4.118:443?sni=95r.ir&peer=95r.ir&security=tls#45.131.4.118:443
+trojan://%4D%69%54%69%56%50%4E@164.38.155.135:443?sni=95r.ir&peer=95r.ir&security=tls#164.38.155.135:443
 vless://b2c5c367-4530-4ee4-92e7-6ac0d2a97980@cdn8.sudonetwork.com:2096?type=ws&security=tls&path=/?ed=2560&sni=fiterchinakoooon.sudonetwork.com&fp=firefox#cdn8.sudonetwork.com:2096
 vless://b2c5c367-4530-4ee4-92e7-6ac0d2a97980@cdn4.sudonetwork.com:2096?type=ws&security=tls&path=/?ed=2560&sni=fiterchinakoooon.sudonetwork.com&fp=firefox#cdn4.sudonetwork.com:2096
 vless://82e3c8a0-e972-4785-b4a6-cae43969fb05@fr1.nomac.ir:8080?type=tcp&security=none#fr1.nomac.ir:8080
@@ -78,6 +81,14 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=ws&security=tl
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?type=ws&security=tls&path=/sea&sni=imblo.fastcitylab-byte.info#162.159.38.119:443
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?type=ws&security=none&path=/#185.226.140.140:8880
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?type=tcp&security=tls&sni=186.190.211.188#186.190.211.188:443
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=ws&security=tls&path=/LiL?ed&sni=kingcloud.biack.ir&fp=firefox#192.71.82.2:443
+vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&sni=static.lotussec.com&fp=firefox#static.lotussec.com:443
+vless://5e6a66e9-a250-465d-adb5-0b7bd692f48a@199.232.142.79:443?type=xhttp&security=tls&path=/assets&sni=speedtest.net#199.232.142.79:443
+vless://5e6a66e9-a250-465d-adb5-0b7bd692f48a@151.101.56.6:443?type=xhttp&security=tls&path=/assets&sni=speedtest.net#151.101.56.6:443
+vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?type=xhttp&security=tls&path=/v2raylink&sni=germany4.alibaba1405.org&fp=chrome#45.130.125.6:443
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=ws&security=tls&path=/LiL?ed=2560&sni=kingcloud.biack.ir&fp=firefox#192.71.82.2:443
+vless://f3d53bcb-f498-400b-8d84-b035acf340a3@fastly.videobazi.com:443?type=xhttp&security=tls&path=/&sni=default.ssl.fastly.net#fastly.videobazi.com:443
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=ws&security=tls&path=/LiL?ed&sni=kingcloud.biack.ir&fp=chrome#192.71.82.2:443
 vless://1a5d6dea-3769-43b1-a39d-7225cf01b2bd@185.147.127.101:40443?type=tcp&security=reality&sni=deepl.com&flow=xtls-rprx-vision&pbk=a-GLfBU_yhZcBKPODh1zl-Ypj-jm4nYN_fkHBhMGAGs&sid=d56f#185.147.127.101:40443
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@se.faygo.bot:443?type=tcp&security=reality&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#se.faygo.bot:443
 vless://eccc1f9d-985f-4ab0-a15c-9f4df0ef4b6e@karandish.mahkocholo.com:58055?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=eiDyRuMGa0Jyb2Ff4w1Pb7zTri5h38R2w0kZj0uksF4&sid=374b32ed91f8f023#karandish.mahkocholo.com:58055
@@ -128,5 +139,6 @@ hysteria2://rQRuZ8nFbC@185.250.41.245:443?insecure=1&obfs=salamander#185.250.41.
 hysteria2://V2RayyNgvpn@65.109.177.191:443?sni=www.oracle.com&insecure=1&obfs=salamander#65.109.177.191:443
 hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?sni=gettestin.xxee.ru&insecure=0&obfs=salamander#103.251.167.168:443
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&obfs=salamander#130.49.161.70:443
-trojan://ftu83vrd-uwse-cjxk-eof7-umxdm54uxd5f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8a3wp3h9-u2kx-n9et-1sey-aup4bu6bi2t6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&obfs=salamander#130.49.161.70:443
+trojan://vgojhyow-aza6-0yct-wsro-ffi5mmnbca5x@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bpeuci45-aim6-mcpt-g8u0-34hyzmjvctxc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
