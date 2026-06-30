@@ -1,13 +1,10 @@
-trojan://lq8h2820-5rzb-qovt-0n8p-6c7hlw2im2s9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/06/30 | 21:17
-trojan://ra5anuso-kuse-u4u4-h399-xctt8e94gurr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fw86qrl1-keqo-espp-y04x-g629hv0j05op@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://tzqboecz-6qui-0qle-djmg-siy0ytgnna83@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/01 | 00:53
+trojan://8w78t3lh-j9hr-8gde-bgy4-6kj4lonr49ln@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://q9vfzzbl-29o9-hq0h-7p1u-mgep0y3safqc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQzVOTko1a0Z5Z01HbWVUd01NSVBLQzViLWo4WUJmSA@p4.hoomankh.info:1080#p4.hoomankh.info:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaFZHaXU2cHluZ2NRUWRV@20.166.91.10:443#20.166.91.10:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SkZrbm9iUW90RkZZYUZX@20.166.91.10:443#20.166.91.10:443
 ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#61.171.92.202:1001
-trojan://%4D%69%54%69%56%50%4E@167.82.101.251:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#167.82.101.251:443
-trojan://%4D%69%54%69%56%50%4E@140.248.185.253:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#140.248.185.253:443
-trojan://%4D%69%54%69%56%50%4E@151.101.1.194:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#151.101.1.194:443
 trojan://MITIVPN@151.101.69.219:443?sni=speedtest.net&peer=speedtest.net&security=tls#151.101.69.219:443
 trojan://MITIVPN@151.101.110.219:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#151.101.110.219:443
 trojan://SoftNetConnect@37.156.44.157:42549?sni=www.speedtest.net&peer=www.speedtest.net&security=tls#37.156.44.157:42549
@@ -19,11 +16,6 @@ trojan://Mitivpn@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fastly.com&securit
 trojan://%4D%69%54%69%56%50%4E@91.193.58.201:443?sni=95r.ir&peer=95r.ir&security=tls#91.193.58.201:443
 trojan://%4D%69%54%69%56%50%4E@45.131.4.118:443?sni=95r.ir&peer=95r.ir&security=tls#45.131.4.118:443
 trojan://%4D%69%54%69%56%50%4E@164.38.155.135:443?sni=95r.ir&peer=95r.ir&security=tls#164.38.155.135:443
-vless://0d27ab04-4523-4ae0-94b0-3e14c2089756@104.19.229.21:443?type=ws&security=tls&path=/&sni=hadi.getfreecp.com&fp=chrome#104.19.229.21:443
-vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.120:443?type=xhttp&security=tls&path=/api&sni=relay-production-9e5f.up.railway.app&fp=chrome#66.33.23.120:443
-vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s4.meoshop.ir:2053?type=xhttp&security=tls&path=/&sni=baba.meoshop.ir&fp=chrome#s4.meoshop.ir:2053
-vless://3538a8ff-3acb-417e-892e-c652b231f35a@45.130.125.221:2083?type=ws&security=tls&path=/&sni=CDN.Softarg.ir&fp=chrome#45.130.125.221:2083
-vless://d1817585-47da-44fe-88d4-93f86ec3ac4b@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=sparkling-fog-7b4c.mobin8568768.workers.dev&fp=chrome#www.speedtest.net:8443
 vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?type=ws&security=tls&path=/ws?ed=2048&fp=chrome#94.140.0.255:443
 vless://cd154774-0cb1-aaf5-538d-5003c7249d70@sweet-night-d458.panelgfw3.workers.dev:443?type=ws&security=tls&path=/sync&sni=sweet-night-d458.panelgfw3.workers.dev&fp=chrome#sweet-night-d458.panelgfw3.workers.dev:443
 vless://ed007a44-5601-49d1-860a-c2182391a9e6@flae2.faradl.ir:2087?type=tcp&security=none#flae2.faradl.ir:2087
@@ -88,8 +80,6 @@ vless://527561c6-bed1-44c5-8404-f322fbf7ced2@fsxhh.fastshop1.com:443?type=xhttp&
 vless://9994201f-3760-4de3-7682-05284e8f5424@s2.zynavo.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=cdn.zynavo.ir&fp=chrome#s2.zynavo.ir:2087
 vless://15421ec9-f4bd-4f77-9f91-3718909f54bd@167.82.101.210:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=firefox#167.82.101.210:443
 vless://c5997b46-9a9b-030f-fada-60efaff29de5@rvg-production-8dd9.up.railway.app:443?type=ws&security=tls&path=/ws/c5997b46-9a9b-030f-fada-60efaff29de5&sni=rvg-production-8dd9.up.railway.app&fp=chrome#rvg-production-8dd9.up.railway.app:443
-vless://eccc1f9d-985f-4ab0-a15c-9f4df0ef4b6e@karandish.mahkocholo.com:58055?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=eiDyRuMGa0Jyb2Ff4w1Pb7zTri5h38R2w0kZj0uksF4&sid=374b32ed91f8f023#karandish.mahkocholo.com:58055
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9#194.164.217.139:448
 vless://c0548e90-3bad-4b5b-a327-63e52f50d550@ir.dashping2.ir:7102?type=tcp&security=reality&sni=www.varzesh3.com&fp=chrome&flow=xtls-rprx-vision&pbk=ma0HA8aGdLr9094twVoeOmIr_MrukDQXOWUMMHLx2Ww&sid=0e#ir.dashping2.ir:7102
 vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@app.mohammadaz2a.ir:39600?type=xhttp&security=reality&path=/static/javascripts/remoteEntry.js&sni=play.google.com&fp=chrome&pbk=d42ZxYE57ip00pyGRuCufoy7fImR27Rv3XAMrQQNVXE&sid=0f#app.mohammadaz2a.ir:39600
 vless://c9d13457-0578-4414-a830-f29244a6f711@201.51.1.108:40443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=G2WGTXVVeC2YzXaWI9gSHKjiNU3PEvN7QinuOPE1lDs&sid=132b#201.51.1.108:40443
@@ -140,5 +130,5 @@ hysteria2://V2RayyNgvpn@65.109.177.191:443?sni=www.oracle.com&insecure=1&obfs=sa
 hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?sni=gettestin.xxee.ru&insecure=0&obfs=salamander#103.251.167.168:443
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&obfs=salamander#130.49.161.70:443
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&obfs=salamander#130.49.161.70:443
-trojan://ztdfpvmr-s4r8-l7ob-iaed-nm8rk2o4zshd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zarxez8g-2akv-ab3z-gr7a-6l773nowbffe@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://lqncklso-oeo7-9gdq-r35l-hw3f7ibexte1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://tl9vm49s-2be5-dd9j-yw9e-jx3cxxloznzi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
