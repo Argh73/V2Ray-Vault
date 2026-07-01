@@ -1,18 +1,7 @@
-trojan://0bcuj27x-vkqp-n1lk-gs3k-0ak71gxmbcrs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/01 | 14:55
-trojan://clrlx39x-x1c7-tewz-klx4-k3ygkj51tig8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://egeaybv7-ezq0-0pr9-ijff-w0wvjqkbnf9g@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://Mitivpn@151.101.110.219:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#151.101.110.219:443
-trojan://humanity@45.80.111.7:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#45.80.111.7:443
+trojan://ax7yhqzt-fw3p-mntp-351d-mhjsa3gmzl5i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/01 | 17:32
+trojan://emmgyual-sqx4-z6db-553t-e12p79xq3us7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i2c7s0w4-t6rl-oomr-bgr9-2nydbfh470a1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.163:443?sni=tjsp.hhxaf.cc.cd&peer=tjsp.hhxaf.cc.cd&security=tls#104.18.42.163:443
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?type=tcp&security=tls&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision#85.234.114.53:443
-vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?type=tcp&security=none#91.107.160.130:33819
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?type=grpc&security=none#151.115.164.110:8880
-vless://fc7f5780-4c4e-11f1-a3f8-b58432c62d9c@jsv-ir2.randino.ir:2?type=tcp&security=none#jsv-ir2.randino.ir:2
-vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?type=httpupgrade&security=none&path=/#108.162.194.165:2086
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=ws&security=tls&path=/LiL?ed=2560&sni=kingcloud.biack.ir&fp=firefox#192.71.82.2:443
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?type=tcp&security=tls&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision#85.234.114.53:22231
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=ws&security=tls&path=/LiL?ed&sni=kingcloud.biack.ir&fp=chrome#192.71.82.2:443
-vless://2860e569-4c06-4950-af3e-3b72d892cdf2@faranse.duravex.net:8443?type=ws&security=none&path=/#faranse.duravex.net:8443
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=ws&security=tls&path=/LiL?ed&sni=kingcloud.biack.ir&fp=chrome#192.71.82.2:443
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:443?type=ws&security=tls&path=/fp&sni=t1s1.rittbo.kdns.fr#108.162.196.3:443
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:2096?type=xhttp&security=tls&path=/adycon&sni=YsbW8la9.trIVanoRA.iNFo&fp=firefox#push.sukario.ir:2096
@@ -23,10 +12,5 @@ vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:443?type=xhttp&secu
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:2096?type=xhttp&security=tls&path=/adycon&sni=Ori81JnB.BigILIjorDaN.InFo&fp=firefox#push.sukario.ir:2096
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:8443?type=xhttp&security=tls&path=/adycon&sni=WjfmeBzR.TRIvAnoRA.iNfO&fp=firefox#push.sukario.ir:8443
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@push.sukario.ir:8443?type=xhttp&security=tls&path=/adycon&sni=cHzoZ6DR.biGILiJOrDAN.InFo&fp=firefox#push.sukario.ir:8443
-vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:4227?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=L5dWvFThmaEvNqnz8xbBkyT10TWINOZbn-BAdKtXNzk&sid=0c26b2e657586df6#5.75.207.247:4227
-vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:443?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&sid=f5#5.75.207.247:443
-vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:2886?type=tcp&security=reality&sni=www.oracle.com&fp=chrome&flow=xtls-rprx-vision&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&sid=e19da077d7#5.75.207.247:2886
-vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:443?type=tcp&security=reality&sni=www.nvidia.com&fp=random&flow=xtls-rprx-vision&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&sid=f5#5.75.207.247:443
-vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:2886?type=tcp&security=reality&sni=www.oracle.com&fp=chrome&flow=xtls-rprx-vision&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&sid=e19da077d7#5.75.207.247:2886
-trojan://862bvitj-074h-yfp9-kn1r-e1jq7f0sknz6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://agztny3r-nih2-enjc-ep4u-ytirflvtitw4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://wltncjmc-ifpt-fye0-bqej-i8nvy2yocf2b@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://tbftcur9-hyre-ex7r-r612-0x8kt3a8xfiy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
