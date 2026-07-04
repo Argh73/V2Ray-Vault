@@ -1,6 +1,6 @@
-trojan://sk9f8u3b-a1aq-584b-3gqd-yt6ltcm33me1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/04 | 13:28
-trojan://8plq76rx-2fki-7c6c-7te2-wct9ga1nqgdz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ywpky9bc-gobq-1yl4-lrpl-9ewqrdpyqbiq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8ylzvduj-bvy9-xkzz-msce-vyfhn3fr6gjz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/04 | 16:25
+trojan://5pz5ay6z-r8op-lwpl-k7zw-iijpbya816kt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nd24f3n7-i9oi-9gfy-hqrs-zhjfyecqx8dc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#61.171.92.202:1001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowc2FiVVY1X0gwUkgyaUpGRXRqSTJuSjAyVTNTaVFSOA@bot.sobhanpor.ir:1080#bot.sobhanpor.ir:1080
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#103.106.229.69:9090
@@ -25,14 +25,6 @@ trojan://%4D%69%54%69%56%50%4E@www.speedtest.net:443?sni=germany.App-Cloud.ir&pe
 trojan://%4D%69%54%69%56%50%4E@104.16.72.101:443?sni=N--l.App-Cloud.ir&peer=N--l.App-Cloud.ir&security=tls#104.16.72.101:443
 trojan://%4D%69%54%69%56%50%4E@188.114.98.193:443?sni=Ge.App-Cloud.ir&peer=Ge.App-Cloud.ir&security=tls#188.114.98.193:443
 trojan://%4D%69%54%69%56%50%4E@51.91.254.99:443?sni=F--l.App-Cloud.ir&peer=F--l.App-Cloud.ir&security=tls#51.91.254.99:443
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?type=ws&security=tls&path=/LiL?ed=2560&sni=kingcloud.biack.ir&fp=firefox#192.71.82.2:443
-vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@ipw.ygdfw.com:443?type=xhttp&security=tls&path=/meti&sni=lIVe-1OdGy1GQ.bEuIZ.COM&fp=chrome#ipw.ygdfw.com:443
-vless://fa2ef309-e9ea-4eee-8e76-b0425ddb0d83@212.100.171.94:443?type=tcp&security=none#212.100.171.94:443
-vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@ipw.ygdfw.com:443?type=xhttp&security=tls&path=/meti&sni=sMaRt-LeASWEb.BEuIz.com&fp=chrome#ipw.ygdfw.com:443
-vless://2c0e0bfd-bd2d-40ea-a524-a9f9aec36ea6@ip2.iranphlox.ir:2086?type=xhttp&security=none&path=/#ip2.iranphlox.ir:2086
-vless://2c17aa06-0dcd-424c-a597-bf1e8bdd519a@xcdn.accuracycloud.ir:2053?type=xhttp&security=tls&path=/drlimit?ed=2048&sni=Mashhad.Mobailhay.ir&fp=chrome#xcdn.accuracycloud.ir:2053
-vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?type=ws&security=tls&path=/&sni=default.ssl.fastly.net#167.82.101.251:443
-vless://2c0e0bfd-bd2d-40ea-a524-a9f9aec36ea6@fastly.videobazi.com:443?type=xhttp&security=tls&path=/&sni=default.ssl.fastly.net#fastly.videobazi.com:443
 vless://73fc635f-e51c-4cf8-b659-6b99482618f9@support.fastcmd.top:443?type=ws&security=tls&path=/&sni=pass.pccmd.ir&fp=chrome#support.fastcmd.top:443
 vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&sni=static.lotussec.com&fp=firefox#static.lotussec.com:443
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?type=xhttp&security=tls&path=/v2raylink&sni=germany4.alibaba1405.org&fp=chrome#45.130.125.6:443
@@ -132,10 +124,9 @@ vless://b8a31a41-9493-e84a-b2ab-2758121434f2@sisi.sannest.ir:8443?type=tcp&secur
 vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@tr.iranfastspeed.com.tr:59492?type=tcp&security=reality&sni=www.google.com:443&fp=chrome&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&sid=0b1eccc239d0#tr.iranfastspeed.com.tr:59492
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?type=tcp&security=reality&sni=prod.de-node-01.security-sbrf.ru&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1#31.77.161.2:8443
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?type=tcp&security=reality&sni=prod.de-node-01.security-sbrf.ru&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1#31.77.161.2:8443
-hysteria2://V2RayyNgvpn@65.109.177.191:443?sni=www.oracle.com&insecure=1&obfs=salamander#65.109.177.191:443
 hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?sni=gettestin.xxee.ru&insecure=0&obfs=salamander#103.251.167.168:443
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&obfs=salamander#130.49.161.70:443
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&obfs=salamander#130.49.161.70:443
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=1&obfs=salamander#130.49.161.70:443
-trojan://q0fm6cja-ivgd-cyxa-m1qr-vl3usmdgrecm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://f2zuiq1o-58tt-n9ra-cq0m-qffyuiduq98f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://jxmi1ihe-dhhm-j904-so1f-hdxgxa90f5zt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://kkilxi0v-gq4j-8xd3-8dwu-34yud04f603j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
