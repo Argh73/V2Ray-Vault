@@ -1,15 +1,13 @@
-trojan://3t4xd7ar-au41-2qjn-in6y-g85qsvcoeq9f@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/05 | 20:23
-trojan://60mgrqb1-erdk-o277-sl8o-19aahp406l2y@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4006wa68-htcn-69mf-s9eu-r3j53yn2gk0k@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://humanity@141.193.213.21:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#141.193.213.21:443
+trojan://zh1szp2k-1o9y-egol-0ege-cb6gh4w0n26y@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/06 | 00:15
+trojan://enq47p8c-ahsu-cnbp-6xd6-477xm22wa4a8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jsk4h6yt-072s-wjw6-v100-21m7gbufks83@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://MITIVPN@104.16.72.41:443?sni=De.App-Cloud.ir&peer=De.App-Cloud.ir&security=tls#104.16.72.41:443
 trojan://MiTiVPN@91.193.58.201:443?sni=Fl.App-Cloud.ir&peer=Fl.App-Cloud.ir&security=tls#91.193.58.201:443
 trojan://MITIVPN@104.26.15.137:443?sni=us-a.App-Cloud.ir&peer=us-a.App-Cloud.ir&security=tls#104.26.15.137:443
 trojan://MiTiVPN@104.21.5.75:443?sni=sw-W.App-Cloud.ir&peer=sw-W.App-Cloud.ir&security=tls#104.21.5.75:443
+trojan://MITIVPN@104.26.15.137:443?sni=us-a.App-Cloud.ir&peer=us-a.App-Cloud.ir&security=tls#104.26.15.137:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODM1XHVkYzAyXHVkODM1XHVkYzIxXHVkODM1XHVkYzFhXHVkODM1XHVkYzI3XHVkODM1XHVkYzI3XHVkODM1XHVkYzFlXHVkODM1XHVkYzI1OiBASVNWdnBuLS0xIiwiYWRkIjoibmx0LnJlYXRhLmlyIiwicG9ydCI6MTAyMCwiaWQiOiI2MjQ0YzQxYS1mNGMxLTQ3MzMtYTY1NC1jMzhmNzcyOWIxM2MiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODM1XHVkYzAyXHVkODM1XHVkYzIxXHVkODM1XHVkYzFhXHVkODM1XHVkYzI3XHVkODM1XHVkYzI3XHVkODM1XHVkYzFlXHVkODM1XHVkYzI1OiBASVNWdnBuLS0zIiwiYWRkIjoic3B0LnJlYXRhLmlyIiwicG9ydCI6MTA1MCwiaWQiOiJiNWIxODNiNi1hNGYwLTQxYWQtYTAxNS1iYTlmMDAwYWQ3ZWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?type=grpc&security=tls&sni=gb7.univesalsrv.com&fp=firefox#gb7.univesalsrv.com:443
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.166.243:443?type=ws&security=tls&path=/&sni=vpn47.cc.cd&fp=chrome#188.166.166.243:443
 vless://82a668b4-0b07-43b1-9457-e4e55e0eba64@fbi.gov:8880?type=xhttp&security=none#fbi.gov:8880
 vless://82a668b4-0b07-43b1-9457-e4e55e0eba64@www.speedtest.net:2095?type=httpupgrade&security=none&path=/#www.speedtest.net:2095
 vless://3b715892-8610-4fdc-9086-647b36af5443@ip2.iranphlox.ir:2086?type=xhttp&security=none&path=/?ed=2082#ip2.iranphlox.ir:2086
@@ -25,5 +23,5 @@ vless://36f3e1f3-cf30-4868-9e25-65e26795f1f2@telewebion.ir.marandcity.com:443?ty
 vless://36f3e1f3-cf30-4868-9e25-65e26795f1f2@torob.ir.marandcity.com:443?type=tcp&security=reality&sni=www.yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915#torob.ir.marandcity.com:443
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@mnzxc.foot8all.ir:56625?type=grpc&security=reality&sni=icloud.com&fp=firefox&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2619d1af5cad99b0#mnzxc.foot8all.ir:56625
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@polja.foot8all.ir:50567?type=tcp&security=reality&sni=play.google.com&fp=firefox&flow=xtls-rprx-vision&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9e3f5e25c17d2615#polja.foot8all.ir:50567
-trojan://q8nnqzsd-3l8o-h3ua-4wsd-am55ouhw9wr9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hjsh0kac-q1zd-a385-oua3-a6o5nx05gabp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://dkw3g3zh-j4wq-894v-2xf2-9dtkrawtdgsy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7fgqo12p-zhkw-eksl-9gu3-8kz3fgxgxlbs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
