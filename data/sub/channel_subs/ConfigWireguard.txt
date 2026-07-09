@@ -1,6 +1,6 @@
-trojan://6emg7v9c-dxwo-hh9g-9di7-7edy995hlmze@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/09 | 10:58
-trojan://xsqq7ti8-9ljo-mg4d-ywh2-xdpcs1gwkiya@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ir3y5n67-0m6v-bq2a-2uye-7ptr75bq6ymo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://73w5ph2h-ehde-x838-uepw-b1xkxg22yrfm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/09 | 14:19
+trojan://quxttazo-rnbp-cgx1-xe2h-mpslbofijtx7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wgr14825-wri8-2qyq-80r0-ikqhn7kguupu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#67.219.106.119:26286
 trojan://MiTiVPN@104.17.25.173:8443?sni=fl-o--7-m.App-Cloud.ir&peer=fl-o--7-m.App-Cloud.ir&security=tls#104.17.25.173:8443
 trojan://MITIVPN@104.26.14.137:2096?sni=de-ms.App-Cloud.ir&peer=de-ms.App-Cloud.ir&security=tls#104.26.14.137:2096
@@ -16,6 +16,10 @@ trojan://humanity@104.18.152.225:443?sni=www.ignitelimit.com&peer=www.ignitelimi
 trojan://humanity@104.18.152.155:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#104.18.152.155:443
 trojan://humanity@104.18.152.108:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#104.18.152.108:443
 trojan://humanity@104.18.152.73:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#104.18.152.73:443
+trojan://v2TkL6FH3h@104.16.72.50:443?sni=sm.farxmode.ir&peer=sm.farxmode.ir&security=tls#104.16.72.50:443
+trojan://zBfIAxaXtz@104.16.72.50:443?sni=sn.farxmode.ir&peer=sn.farxmode.ir&security=tls#104.16.72.50:443
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?sni=space.byu.id.yxls.eu.cc&peer=space.byu.id.yxls.eu.cc&security=tls#104.16.72.2:443
+trojan://humanity@104.16.72.2:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#104.16.72.2:443
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?type=ws&security=tls&path=/poiuyws&sni=amoosamiii.net#141.193.213.21:443
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?type=ws&security=tls&path=/poiuyws&sni=amoosamiii.net&fp=chrome#104.16.72.41:443
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?type=ws&security=tls&path=/poiuyws&sni=amoosamiii.net&fp=chrome#104.16.72.41:443
@@ -31,6 +35,12 @@ vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?type=ws&security
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?type=ws&security=tls&path=/poiuyws&sni=amoosamiii.net#104.16.72.41:443
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?type=ws&security=tls&path=/poiuyws&sni=amoosamiii.net&fp=chrome#104.16.72.41:443
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.2:443?type=ws&security=tls&path=/proxyip=51.38.44.17:443&sni=nbhhh.mrcool.kdns.fr#104.16.72.2:443
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?type=ws&security=tls&path=/cbasur&sni=hhvl.hhapp.kdns.fr#104.16.72.50:443
+vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@104.16.72.50:443?type=ws&security=tls&path=/&sni=fm3.pages.dev&fp=chrome#104.16.72.50:443
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.50:443?type=ws&security=tls&path=/fp&sni=t1s1.rittbo.kdns.fr#104.16.72.50:443
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.2:443?type=ws&security=tls&path=/proxyip&sni=nbhhh.mrcool.kdns.fr#104.16.72.2:443
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.2:443?type=ws&security=tls&path=/&sni=server-ir-7.ariyuz.org#104.16.72.2:443
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?type=ws&security=tls&path=/sg-amz&sni=support.zoom.us.yxls.eu.cc&fp=chrome#104.16.72.2:443
 vless://cc3e6e36-b329-435b-bb71-192fb5c718ae@check02.allenshop66244.ir:8443?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#check02.allenshop66244.ir:8443
-trojan://qtrgqyen-5i6y-wlu6-2mod-1pq5nxdikzjv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vtd6qtlq-kx6g-4mmr-5ffv-9j322z0vgo3w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://6zhgkwee-tl5m-acgo-a62h-tjs36se53jsz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://h8qdmt5k-m1qh-9k6q-ws3n-u51ehrp39ev9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
