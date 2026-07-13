@@ -1,6 +1,6 @@
-trojan://21ikc1zp-ovl6-5k6q-e14x-4tr5qpz5t561@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/13 | 14:18
-trojan://dbvxyq8m-f1tc-iceq-u7n3-g1aaswmzkxbh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zi1oq1hx-gnlk-j5uq-mf1u-df5d9hctvysf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4hkruime-iy81-qnux-afwr-86kbtv70pmry@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/13 | 17:27
+trojan://ojzblmtr-i1fo-9ojy-fq9d-iwbj0x9vijkx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://8rlzhd8d-66ph-7c8t-cflz-a3w5t5v4okuv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#82.38.31.29:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#82.38.31.57:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5YmtxbWNobDN6cGpvaXNl@france.radanjami.org:33577#france.radanjami.org:33577
@@ -110,6 +110,11 @@ vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@172.67.181.75:443?type=ws&security=
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?type=xhttp&security=none&path=/#89.106.64.15:7000
 vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?type=xhttp&security=none&path=/#173.199.117.62:3
 vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?type=xhttp&security=tls&path=/BetForward&sni=cdn.zynavo.ir&fp=chrome#s2.zynavo.ir:2087
+vless://3c8fe0d4-7163-41ef-8e70-d1b729b6ded7@172.67.211.21:2083?type=ws&security=tls&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&sni=zeus-panel-mpi7t1.zeus-r4q5bk.workers.dev&fp=ios#172.67.211.21:2083
+vless://3c8fe0d4-7163-41ef-8e70-d1b729b6ded7@172.67.211.21:2087?type=ws&security=tls&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&sni=zeus-panel-mpi7t1.zeus-r4q5bk.workers.dev&fp=ios#172.67.211.21:2087
+vless://3c8fe0d4-7163-41ef-8e70-d1b729b6ded7@172.67.149.158:443?type=ws&security=tls&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&sni=zeus-panel-mpi7t1.zeus-r4q5bk.workers.dev&fp=ios#172.67.149.158:443
+vless://c4086a36-0f42-4075-a233-fede47ec8102@simplefv.asan-ps.ir:443?type=xhttp&security=tls&path=/NEWS&sni=speedtest.net&fp=chrome#simplefv.asan-ps.ir:443
+vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?type=ws&security=tls&path=/ws/f1f47653-d57b-5917-fa47-c80823a8b7f3&sni=rvg-production-8249.up.railway.app&fp=chrome#rvg-production-8249.up.railway.app:443
 vless://36ca976b-042a-4d24-b249-694620114a4a@195.216.168.140:443?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=6tOeGXJPV8kC0THoo8-IkihKVwL2KNLVAwg95CZTBRo&sid=72f4c62b#195.216.168.140:443
 vless://36ca976b-042a-4d24-b249-694620114a4a@195.216.168.140:443?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=6tOeGXJPV8kC0THoo8-IkihKVwL2KNLVAwg95CZTBRo&sid=72f4c62b#195.216.168.140:443
 vless://c8af99ed-612c-43ef-901f-cae5ec212e30@be-google.mobileemdad.top:443?type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#be-google.mobileemdad.top:443
@@ -136,6 +141,7 @@ vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.49:443?type=tcp&security
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.145:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#66.234.150.145:443
 vless://1d483092-65d3-464c-8baa-cb1ca5236282@upload.ansooyefilter.ir:8443?type=tcp&security=reality&sni=search.led.samsung.com&fp=random&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&sid=8ed95b#upload.ansooyefilter.ir:8443
 vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@185.83.127.82:443?type=grpc&security=reality&sni=play.google.com&fp=firefox&pbk=h9aR_LyBrt2_zfbJYMZAGqfjk4zumCVuwOXzrFJEK1A&sid=5b3aa0bdbe8d6a0e#185.83.127.82:443
+vless://36ca976b-042a-4d24-b249-694620114a4a@195.216.168.140:443?type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=6tOeGXJPV8kC0THoo8-IkihKVwL2KNLVAwg95CZTBRo&sid=72f4c62b#195.216.168.140:443
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?sni=qg.easyiran.org&insecure=0&obfs=salamander#qg.easyiran.org:56845
-trojan://ofri9y7z-je1k-b3ai-fzyh-tn4muo8ad9rn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jkfzp0os-6j8n-jw88-zi76-k6lmnakl7u0v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://268jtzoh-70yu-652a-fg48-txk3q97fhj7w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://evrcsaw0-10zv-2p3w-0f7p-4jc413jt73ze@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
