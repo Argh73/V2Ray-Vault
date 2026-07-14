@@ -1,12 +1,15 @@
-trojan://akd8o6sq-j39x-0ukg-ndfm-4eadilf1avic@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/14 | 20:30
-trojan://zbt2m2wq-zdna-qwo6-xy96-rguw93u69pgf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2jddef3w-gp95-njyj-zrwu-qug8taayc7qt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0vpwz70f-jqdz-5y1a-dg3l-uh63up5lq4bw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/15 | 00:19
+trojan://4ecbsdbs-sovj-bn4f-nyzr-wus4rmpov4tu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://89ishrxa-tssz-hz6x-39ai-y34jt04w08ty@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://humanity@162.159.38.119:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#162.159.38.119:443
 trojan://humanity@162.159.38.119:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#162.159.38.119:443
 trojan://%4D%49%54%49%56%50%4E@162.159.38.62:443?sni=Win-use-Cv-o.Maqror.ir&peer=Win-use-Cv-o.Maqror.ir&security=tls#162.159.38.62:443
 trojan://itX52H4tiA@151.101.34.144:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#151.101.34.144:443
 trojan://%4D%69%54%69%56%50%4E@89.116.250.135:443?sni=Win-Nll--l.App-Cloud.Ir&peer=Win-Nll--l.App-Cloud.Ir&security=tls#89.116.250.135:443
 trojan://itX52H4tiA@151.101.34.144:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#151.101.34.144:443
+trojan://%4D%69%54%69%56%50%4E@89.116.250.135:443?sni=Win-Nll--l.App-Cloud.Ir&peer=Win-Nll--l.App-Cloud.Ir&security=tls#89.116.250.135:443
+trojan://%4D%69%54%69%56%50%4E@151.101.1.194:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.1.194:443
+trojan://4aFbwy5BHa@151.101.34.144:443?sni=global.fastly.com&peer=global.fastly.com&security=tls#151.101.34.144:443
 vmess://eyJ2IjoiMiIsInBzIjoidGVsZWdyYW0gQG10bXZwbiIsImFkZCI6Ijk0LjEwMy4xNjcuMTE2IiwicG9ydCI6ODAsImlkIjoiZDFiMGMxMDMtYTdmZi00YmQ2LTg4N2QtYTczZDZlYmYxZjUwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://11dda7fb-aef6-430f-8dff-6ddffe0a966b@kakoolnewse.up.railway.app:443?type=ws&security=tls&path=/kakoolnews&sni=kakoolnewse.up.railway.app&fp=chrome#kakoolnewse.up.railway.app:443
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?type=ws&security=tls&path=/GOrbEh&sni=rubifen.adaspoloandco.com&fp=chrome#173.245.59.1:443
@@ -45,6 +48,13 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?type=ws&security
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?type=ws&security=tls&path=/GOrbEh&sni=rubifen.adaspoloandco.com&fp=chrome#104.26.14.85:443
 vless://891710f4-45f3-41b1-99a6-6f1510f83c10@199.232.22.39:443?type=ws&security=tls&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&sni=ssl.fastly.com#199.232.22.39:443
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?type=ws&security=tls&path=/GOrbEh#TELEGRAM-mtmvpn?ed=512&sni=rubifen.adaspoloandco.com&fp=chrome#173.245.59.1:443
+vless://2e622f08-444a-46d0-8dac-6f9709f4d172@check-host.net:8880?type=httpupgrade&security=none&path=/#check-host.net:8880
+vless://891710f4-45f3-41b1-99a6-6f1510f83c10@199.232.22.39:443?type=ws&security=tls&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&sni=ssl.fastly.com#199.232.22.39:443
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?type=ws&security=tls&path=/vip1&sni=speedtest.net&fp=chrome#199.232.9.94:443
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?type=ws&security=tls&path=/GOrbEh#TELEGRAM-mtmvpn?ed=512&sni=rubifen.adaspoloandco.com&fp=chrome#173.245.59.1:443
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?type=tcp&security=tls&sni=186.190.211.188#186.190.211.188:443
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?type=ws&security=tls&path=/download.php#TELEGRAM-PROXY_MTM?ed=2048&sni=chopin.adaspoloandco.com&fp=chrome#104.26.14.85:8443
+vless://891710f4-45f3-41b1-99a6-6f1510f83c10@1.tls.fastly.veraspeed.ir:443?type=ws&security=tls&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&sni=ssl.fastly.com#1.tls.fastly.veraspeed.ir:443
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#83.168.71.216:443
 vless://3f176170-afe0-4847-91f9-64e05d004eec@netherland.panelbaz.com:5000?type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#netherland.panelbaz.com:5000
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#83.168.71.216:443
@@ -67,5 +77,5 @@ hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?sni=assets.gateway-stream.com&insecure=0&obfs=salamander#assets.gateway-stream.com:52021
 hysteria2://CakZRUUlundefinedS@91.107.152.188:40460?sni=www.amd.com&insecure=1&obfs=salamander#91.107.152.188:40460
 hysteria2://JxCHTtg2gX@91.107.152.188:40460?sni=www.amd.com&insecure=1&obfs=salamander#91.107.152.188:40460
-trojan://3tofwip1-psdo-0y3s-us7f-tgjuz4x19wu4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://apa6tuxl-owwp-vykn-vbwb-gwlvqcdhl323@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://sgndnjwx-r00t-73em-e2kz-rhmskxbab2vx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://y8ihnjhp-ba3r-e7fq-r37l-kbw7njop1iok@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
