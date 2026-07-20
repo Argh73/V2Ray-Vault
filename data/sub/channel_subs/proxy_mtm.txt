@@ -1,6 +1,6 @@
-trojan://9y0azyes-gc9t-7ts3-p1gj-dbm6uzprfx0s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/20 | 17:13
-trojan://2rdzscoc-mxz5-f4a9-9bvl-76dhg6gjcd2u@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://7blvzn5z-qhdj-io3d-looo-s8f9ruf3g051@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://39ys7doe-tlvl-l5bl-mkqk-swpjc5kgkpfg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/07/20 | 20:47
+trojan://nuy3myof-310p-qcww-b58g-iyaunrik62kc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://j1tlpckg-6goj-1h5n-j0gc-l286mx53aipf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#128.251.12.23:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#82.38.31.28:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#128.251.12.23:443
@@ -50,6 +50,8 @@ vless://1a0509ce-31e5-c439-40d8-c80500000000@104.17.148.22:443?type=ws&security=
 vless://cca3e5cc-a62b-4877-b2d2-446da5167265@chatgpt.com:2053?type=ws&security=tls&path=/&sni=fredomiran.com#chatgpt.com:2053
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.94.156:22222?type=tcp&security=none#15.224.94.156:22222
 vless://0cd992ae-db91-4287-9ab1-791a91edd659@litev6.abalahrar.ir:2082?type=tcp&security=none#litev6.abalahrar.ir:2082
+vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@199.232.222.178:443?type=ws&security=tls&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&sni=ssl.fastly.com&fp=firefox#199.232.222.178:443
+vless://0cd992ae-db91-4287-9ab1-791a91edd659@litev6.abalahrar.ir:2082?type=tcp&security=none#litev6.abalahrar.ir:2082
 vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.206.227:2566?type=tcp&security=reality&sni=play.google.com&fp=firefox&flow=xtls-rprx-vision&pbk=cs2uxkfzvnJXO3dyLiC1ihoFPwQQlbJknOhNPF0OGyY&sid=b220cebe89a795#87.199.206.227:2566
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?type=grpc&security=reality&sni=media.oneokgames.com&fp=firefox&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&sid=dbdbeaf4aa6e1a5c#media.oneokgames.com:443
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?type=grpc&security=reality&sni=main.oneoker.com&fp=firefox&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&sid=a9b0c08836bad3c5#main.oneoker.com:443
@@ -95,7 +97,8 @@ vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@images.onetimeok.com:443?type=grpc&
 vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&sid=80ba#147.45.136.213:40443
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@edge1.oneokgames.com:443?type=grpc&security=reality&sni=edge1.oneokgames.com&fp=firefox&pbk=0ffnN7CdnOgEEFJ3AY1lnuTtsOPDL059UaTTxGxDjTA&sid=66ffd800ba2ec7c3#edge1.oneokgames.com:443
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@get.onetimeok.com:443?type=grpc&security=reality&sni=get.onetimeok.com&fp=firefox&pbk=CQhnOxCj9UuA67kiDGGOcXB1G_XayWfHyhmlWGeG4Uw&sid=cfb882e7dcf03ef2#get.onetimeok.com:443
+vless://9e4e5d64-11a3-48bc-8622-1d39bd1c2573@app.he-happ.com:443?type=grpc&security=reality&sni=app.he-happ.com&pbk=0DJvjVOtuyfSDnioOJJzHKMsYGgUD95Sw153xEJrBgo&sid=db8389179a5852d4#app.he-happ.com:443
 hysteria2://UUoAsk2eM4@91.107.174.32:25810?sni=www.amd.com&insecure=1&obfs=salamander#91.107.174.32:25810
 hysteria2://p0IbtS8wCZ@91.107.174.32:25810?sni=www.amd.com&insecure=1&obfs=salamander#91.107.174.32:25810
-trojan://3v89ow2g-izhm-26oa-pher-ljmxr4skpb6h@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://p0z4a5au-2o0e-kjwy-bhk0-w4k5elddy0nh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://vhcce83y-v4yu-b7js-rpn2-svn8rpmttgfy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5xeile79-km3a-a3jw-hkrp-gsx5wna73a3x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
