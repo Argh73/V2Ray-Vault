@@ -1,30 +1,30 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-07-26 16:23:07
+Timestamp: 2026-07-26 20:14:05
 Total Channels: 117
-Successful Scrapes: 66
+Successful Scrapes: 65
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-configV2rayNG: 269 configs
-orange_vpns: 251 configs
+configV2rayNG: 255 configs
+orange_vpns: 253 configs
 Farah_VPN: 200 configs
 V2rayNG3: 193 configs
-LonUp_M: 180 configs
-FreakConfig: 145 configs
-oneclickvpnkeys: 127 configs
+LonUp_M: 179 configs
+oneclickvpnkeys: 142 configs
+FreakConfig: 128 configs
 configfa: 116 configs
 proxy_mtm: 102 configs
 ViProxys: 100 configs
-ShadowsocksM: 94 configs
 Outline_Vpn: 90 configs
+ShadowsocksM: 88 configs
 v2rayng_1378: 85 configs
 shadowproxy66: 61 configs
 hopev2ray: 59 configs
-proxy_kafee: 56 configs
 v2Source: 53 configs
 fastfreeconfig: 50 configs
-vpnaloo: 46 configs
 V2ray_Alpha: 46 configs
+proxy_kafee: 46 configs
+vpnaloo: 42 configs
 yaney_01: 41 configs
 dailyv2ray: 40 configs
 OutlineReleasedKey: 33 configs
@@ -32,8 +32,8 @@ golestan_vpn: 33 configs
 v2raying: 30 configs
 ISVvpn: 29 configs
 V2RAYROZ: 28 configs
-Network_442: 27 configs
 ConfigWireguard: 27 configs
+Network_442: 24 configs
 FreeV2rays: 20 configs
 v2nodes: 20 configs
 tehranargo: 20 configs
@@ -44,18 +44,17 @@ vpnstorefast: 18 configs
 freedom_config: 18 configs
 v2ngfast: 18 configs
 freedomofinfor: 17 configs
+PrivateVPNs: 16 configs
 v2rayvpnchannel: 16 configs
 freeland8: 15 configs
 v2ray_for_free: 14 configs
 DarkVPNpro: 14 configs
 VmessProtocol: 13 configs
-v2raymelliii: 13 configs
-PrivateVPNs: 12 configs
 vpnfail_vless: 12 configs
 CaV2ray: 12 configs
 viturey: 11 configs
 vpn_ocean: 10 configs
-ultrasurf_12: 10 configs
+v2raymelliii: 10 configs
 freev2raym: 9 configs
 iraniv2ray: 8 configs
 redfree8: 6 configs
@@ -66,9 +65,9 @@ v2rayngconfig: 4 configs
 v2rayfree: 4 configs
 freeconfigsplus: 3 configs
 bypass_filter: 3 configs
-configV2rayForFree: 2 configs
 Ahmedhamoomi_Servers: 2 configs
 GrizzlyVPN: 2 configs
+configV2rayForFree: 1 configs
 Ln2Ray: 1 configs
 ev2rayy: 1 configs
 
