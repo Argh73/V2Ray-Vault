@@ -1,7 +1,6 @@
-trojan://2y2vqg95-oxwk-xg3t-d5n8-o9zkf7f9hhk2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/01 | 16:20
-trojan://oqi9u9yk-ctf6-dp6c-5utp-12fz9y2wf5q8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mvx4dt9r-mfns-9cfl-ylzg-zikh4s34p5dd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.18:9011#217.30.10.18:9011
+trojan://63vkoz83-5xzk-vgi0-vf78-2ynsyru1eqma@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/01 | 20:16
+trojan://a83k5qmf-fqx4-ljcu-5meb-svrgpvxt7sjc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jmzsva04-1mti-rfk7-h1b8-p3vesee4qn5r@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGemY1dmFYRnM3b0NZM1hiMzNhWjk0NXhraHZGdDJycnhkUkJZOUQzZFFlY05RS0VYeXNCWGIyZVZQekRWYjlpcU0zaUJod0pIRWk1ZVdoekFYSlhFUDJ2VXdXQ3BaWEQ@208.67.105.196:42029#208.67.105.196:42029
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#151.242.251.153:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#151.242.251.147:8080
@@ -40,6 +39,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiQE91dGxpbmVSZWxlYXNlZEtleSIsImFkZCI6ImFwamhkZ2d5eC5j
 vmess://eyJ2IjoiMiIsInBzIjoiQE91dGxpbmVSZWxlYXNlZEtleSIsImFkZCI6IjEwNC4xNy43Ny43NyIsInBvcnQiOjg0NDMsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIn0
 vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.211:448?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d#205.237.109.211:448
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwabxe.cvewfjg.shop:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&sid=7a76f3c4b9dd#jdwabxe.cvewfjg.shop:443
+vless://7216b4e8-e935-4d68-b959-73d145accdee@154.222.9.240:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a#154.222.9.240:443
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa4.api3-max.ru:443?sni=wopa4.api3-max.ru&insecure=0#wopa4.api3-max.ru:443
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?sni=wopa5.api3-max.ru&insecure=0#wopa5.api3-max.ru:443
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443?sni=taga3.api3-max.ru&insecure=0#taga3.api3-max.ru:443
@@ -54,5 +54,7 @@ hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?sni
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa1.api3-max.ru:443?insecure=0#wopa1.api3-max.ru:443
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?insecure=0#fr2.h2corp.org:443
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa1.api3-max.ru:443?sni=wopa1.api3-max.ru&insecure=0#wopa1.api3-max.ru:443
-trojan://n2w87by7-6yci-btta-v4y3-iyej79kw9p5a@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xafp3e1t-ngbn-i40s-0wap-uflpp5r9n7sp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa4.api3-max.ru:443?sni=wopa4.api3-max.ru&insecure=0#wopa4.api3-max.ru:443
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443?sni=taga3.api3-max.ru&insecure=0#taga3.api3-max.ru:443
+trojan://zrdv958m-g1k5-kw0z-uifz-66bqrxmfrrxt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vo50wb2c-riqc-ximi-s5xi-zqyorwxpnuw3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
