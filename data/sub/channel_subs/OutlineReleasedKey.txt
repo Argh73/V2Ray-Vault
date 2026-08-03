@@ -1,11 +1,6 @@
-trojan://bjya8isj-hh6k-v4jf-ceov-8jz54n3k8jh9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/03 | 10:21
-trojan://yysl1vfr-6qwc-x1ql-6qpn-9ccmkjl68naa@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://g16n4dfe-fdnb-x8ud-b2ch-re2wlra3z9ay@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#193.29.139.188:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#95.163.176.37:8506
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#149.22.87.204:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#193.29.139.227:8080
+trojan://u4p65oq9-vq43-ch7w-46cr-04j32lk8hhs9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/03 | 14:41
+trojan://45jrp2sb-bjsi-md31-7j4o-2ldiqk9ihwic@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jef84j5g-nja4-97zy-ixnz-t0a1265nplyb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#149.22.87.240:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#149.22.87.241:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.68:443#149.34.244.68:443
@@ -25,6 +20,7 @@ trojan://humanity@185.18.250.252:443?sni=www.calmlunch.com&peer=www.calmlunch.co
 trojan://humanity@188.114.96.3:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#188.114.96.3:443
 trojan://humanity@www.ignitelimit.com:443?security=tls#www.ignitelimit.com:443
 trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#165.215.250.14:443
+trojan://humanity@172.64.152.23:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#172.64.152.23:443
 vmess://eyJ2IjoiMiIsInBzIjoiQE91dGxpbmVSZWxlYXNlZEtleSIsImFkZCI6ImFwamhkZ2d5eC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDEyNjA0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDk2Nzg1IiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQE91dGxpbmVSZWxlYXNlZEtleSIsImFkZCI6IjEwNC4xNy43Ny43NyIsInBvcnQiOjg0NDMsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIn0
 vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.211:448?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d#205.237.109.211:448
@@ -57,5 +53,7 @@ hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443?sni=azer-te
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site&insecure=0#swe-one.quiet-rogue.site:443
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ger.leontunel.ru:443?sni=ger.leontunel.ru&insecure=0#ger.leontunel.ru:443
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443?sni=wopa7.api3-max.ru&insecure=0#107.181.134.90:443
-trojan://y844ar5m-1lvz-g9wy-8a78-nxq5emsjsm0l@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xw3owo4o-j3ni-ijfx-xc2f-bs2yayi2hplc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8443?sni=hopp-us.yyuyy.com&insecure=0#23.95.75.151:8443
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@popa.leontunel.ru:443?insecure=0#popa.leontunel.ru:443
+trojan://wuovgqv4-3g28-a63i-1n9p-t6yi70we26e0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ynwmy38n-1rc4-uzks-gt0x-qe0uko8vjc2i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
