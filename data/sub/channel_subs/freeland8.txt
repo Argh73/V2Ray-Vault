@@ -1,7 +1,6 @@
-trojan://s511wo6c-7e2d-5hl4-5py8-bsvwndr5cqv3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/08 | 19:49
-trojan://nl8gmfeh-v1h2-9zrp-remd-ixmewsxxs6zl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://feusywmz-dpaq-wiej-kd1x-ws20jzd0ru4k@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?sni=titandarkness.mooo.com&peer=titandarkness.mooo.com&security=tls#177.3.208.169:443
+trojan://1z0t5yzm-3nw0-bam3-hm45-3x3y20knfvtt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/08 | 23:46
+trojan://9srin8xw-7mak-9ica-hzsv-rolzycx0zb5v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://5i8xfcvq-x6ba-hgv2-tizq-19v960c0e621@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://humanity@104.18.152.159:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#104.18.152.159:443
 trojan://humanity@104.18.152.133:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#104.18.152.133:443
 trojan://humanity@104.16.174.117:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#104.16.174.117:443
@@ -38,8 +37,6 @@ vless://63dcf750-bda8-49e3-bbfd-e904a8e40458@164.90.216.233:18961?type=tcp&secur
 vless://281431be-05d7-4752-a524-861b40a5eff8@199.232.245.94:443?type=xhttp&security=tls&path=/&sni=global.fastly.com&fp=chrome#199.232.245.94:443
 vless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?type=tcp&security=none#164.90.185.67:59653
 vless://6fcc0657-e780-4a31-a614-0287b5c5807b@69.46.46.67:443?type=ws&security=tls&path=/ws/vless/6fcc0657-e780-4a31-a614-0287b5c5807b?ed=2048&sni=web-production-0d497.up.railway.app&fp=ios#69.46.46.67:443
-vless://4d9868fb-bb94-419d-8c01-420cf7e3feaa@www.parvian.ir:443?type=tcp&security=reality&sni=cdn-apple.com&fp=firefox&flow=xtls-rprx-vision&pbk=8iZthEek8HsCb3m2YY1jPGOS-WlCC_6VeROra4WuCw0&sid=74d37a95022cc957#www.parvian.ir:443
-vless://1633b472-dfce-48e7-a89d-de502494f9f3@usa-oss.lorqino.ir:9145?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&sid=5e06032a9c448538#usa-oss.lorqino.ir:9145
 vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?type=grpc&security=reality&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#170.168.97.5:8443
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#169.40.42.173:443
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?type=tcp&security=reality&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#169.40.42.179:443
@@ -49,5 +46,5 @@ vless://8f60c053-e103-4c95-b912-b1037a029ebe@direct.com.fastserverippanel.online
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?type=tcp&security=reality&sni=3.oncloudnineservicestreang.com&fp=chrome&flow=xtls-rprx-vision&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&sid=1991780b928b292d#159.195.45.129:443
 vless://50390a4c-1fb6-483a-944f-10a68f568b15@188.132.174.194:2083?type=xhttp&security=reality&path=/?ed=1024&sni=www.cloudflare.com&fp=chrome&pbk=Qr7fcupqLwgziNyksmY1vY5xc7Kfv6EvvYxX8ODdcWw&sid=cc879f3e2aa3#188.132.174.194:2083
 vless://dd8b69d3-5ef6-418c-a94c-2f4f37d88a7f@185.246.223.158:443?type=tcp&security=reality&sni=germanag.online&fp=chrome&flow=xtls-rprx-vision&pbk=dGF9csm2FGTtmgL5ZOxfU_wOMVilKOVq60lwD7F-MVw#185.246.223.158:443
-trojan://a0tgead4-y9pb-twqn-hv7a-ywrfz44zqa7l@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://g18umshp-2zvj-3vqf-46vs-iwzzbtmewg0c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://esxjj1im-agud-psj8-4of3-1dbn8yzlk76y@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://sncc8zij-5h8h-87z8-hibd-tl1wret8y99d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
