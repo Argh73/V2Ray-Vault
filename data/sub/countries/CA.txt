@@ -1,11 +1,15 @@
-trojan://muf9qzkz-e94s-wjvs-ykny-1gtr2orywm6c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/19 | 07:55
-trojan://h0giynob-422k-u1hp-uds4-5uhhx91f614z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://77ml9jo5-gelw-aauu-r3xp-shc3mfqte1oc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://3775ad6e-d281-8bc5-36e9-9c5324a69393@147.182.156.111:1161?type=http&security=none&path=/&fp=chrome#CA 🇨🇦 ┇ VLESS-HTTP-NTLS - DIGITALOCEAN-ASN ┇ 147.182.156.111
-ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw@166.88.130.218:50118#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 166.88.130.218
+trojan://72pa1aap-79ej-k8ca-r1vj-qs30vxq1ohq1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/19 | 11:52
+trojan://jckbz4ab-7gbd-jfdr-l4k8-6zrx1zyounp6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://arwyjbqn-jf2b-tt08-xr72-xa2p96eyhs20@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - OVH SAS ┇ 51.222.12.127
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3#CA 🇨🇦 ┇ VLESS-TCP-RLT - OVH SAS ┇ 158.69.112.254
-trojan://fg20mtCFHy@137.184.172.41:1921?sni=sfecv.southbyte.xyz&peer=sfecv.southbyte.xyz&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 137.184.172.41
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - OVH SAS ┇ 142.4.216.225
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - OVH SAS ┇ 15.235.75.71
-trojan://ph4ng0dm-tlt3-n037-eikq-k3gz01xa22yy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://f773696c-ypt7-18ej-618n-5463u6rbs1gf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 149.22.95.183
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - OVH SAS ┇ 142.4.216.225
+vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1HTE9CQUxURUxFSE9TVCBcdTI1MDcgMTU4LjUxLjEyMS42MyIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InNlcmlidXMub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJpYnVzLm9yZyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLUdMT0JBTFRFTEVIT1NUIFx1MjUwNyAxMzQuMTk1LjE5Ni4yMTEiLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
+vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDIxNi4xMjguMTc2LjE2NiIsImFkZCI6IjIxNi4xMjguMTc2LjE2NiIsInBvcnQiOjI4ODA5LCJpZCI6ImViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9lYmNhNTU5Yy1hNGExLTQwNjItOTQ1My02NDEyZDhmZjUyNTUifQ
+vless://3775ad6e-d281-8bc5-36e9-9c5324a69393@147.182.156.111:1161?type=http&security=none&path=/&fp=chrome#CA 🇨🇦 ┇ VLESS-HTTP-NTLS - DIGITALOCEAN-ASN ┇ 147.182.156.111
+vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLUdMT0JBTFRFTEVIT1NUIFx1MjUwNyAyMy4xNjIuMjAwLjE5OCIsImFkZCI6IjIzLjE2Mi4yMDAuMTk4IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
+trojan://0lwfmgjq-9yf7-9h4m-ik5y-6dxhfgqsok7m@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nkdnzu1g-pn7m-z45g-jjme-y0kcuzqrrpqp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
