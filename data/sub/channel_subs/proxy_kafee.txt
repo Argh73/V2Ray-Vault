@@ -1,6 +1,6 @@
-trojan://32f9cccs-xzf2-e86m-ruba-q4xfvdu4u6rd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/23 | 15:45
-trojan://nufxpj52-q4yv-6jwj-dl6j-0qqqfj46pnw7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6lxwa4vo-9g7a-suf6-h4jv-jwya9cip81kq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://abcg0o7p-atta-6d9p-65x7-ct8rp8iawbsq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/23 | 19:41
+trojan://mu8b0nrs-e6gu-conm-uvtf-s7sg667s2k8o@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qzjjahli-0dyg-4qc5-cirr-2ujwx41zks11@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c62313f5-7661-41f8-bcd6-7ea9a3adebe4@frzn.borna-otbos.ir:2095?type=grpc&security=none#frzn.borna-otbos.ir:2095
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?type=xhttp&security=tls&path=/kavir&sni=dey.lnmarketplace.net&fp=chrome#dey.lnmarketplace.net:443
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?type=tcp&security=tls&sni=deproxy2.lckdwn.ru&fp=firefox#87.120.84.32:33843
@@ -19,6 +19,8 @@ vless://1ab3d304-568e-4d0b-b347-24038012fc10@104.17.92.85:443?type=xhttp&securit
 vless://1ab3d304-568e-4d0b-b347-24038012fc10@bia2-daily-configs.dodfun.ir:53300?type=xhttp&security=tls&path=/news/2026/08/16/3672011/man-hanged-for-running-over-police-officers-during-winter-unrest-in-iran&sni=daaailycoooonfigs.dodfun.ir&fp=chrome#bia2-daily-configs.dodfun.ir:53300
 vless://1ab3d304-568e-4d0b-b347-24038012fc10@172.67.156.192:443?type=xhttp&security=tls&path=/engineering/465426-self-healing-roman-concrete-featured&sni=daaailycoooonfigs.dodfun.ir&fp=chrome#172.67.156.192:443
 vless://1ab3d304-568e-4d0b-b347-24038012fc10@104.17.220.135:443?type=xhttp&security=tls&path=/engineering/465426-self-healing-roman-concrete-featured&sni=daaailycoooonfigs.dodfun.ir&fp=chrome#104.17.220.135:443
+vless://e76dc9ca-b09f-07d0-bd4f-316ee0dce041@94.26.249.216:52006?type=tcp&security=tls&sni=clode.fastaichat.ru&fp=chrome&flow=xtls-rprx-vision#94.26.249.216:52006
+vless://e76dc9ca-b09f-07d0-bd4f-316ee0dce041@94.26.249.216:52006?type=tcp&security=tls&sni=clode.fastaichat.ru&fp=chrome&flow=xtls-rprx-vision#94.26.249.216:52006
 vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244?type=tcp&security=reality&sni=axisvpn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&sid=6ba85179e30d4fc2#72.35.246.31:1244
 vless://cdc86ade-9bc3-41eb-a7b9-879130378820@118.26.59.85:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=-Ngz1wsLiTc5fP1MdkFMS2oor1jRoFLAYD8oOgybGFw&sid=e6d2c443d8f7702a#118.26.59.85:443
 vless://be154d71-04ca-4389-8a89-d14219b25cd7@162.128.87.50:443?type=tcp&security=reality&sni=www.bing.com&fp=firefox&flow=xtls-rprx-vision&pbk=kwZBG2HBA1WN4eZW1GK0D9OVC4TPEs5J-ZeeBA2bVBw&sid=08f1620e7ad50ca8#162.128.87.50:443
@@ -33,5 +35,9 @@ vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?type=tcp&securit
 vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@82.26.94.13:443?type=tcp&security=reality&sni=mywebsite.whit3.net&fp=firefox&flow=xtls-rprx-vision&pbk=FYKh5rWtirmY23OjNuhNlQFJb7DI5J79E7T-gkyYNHo&sid=80bfd8cae4850bc9#82.26.94.13:443
 vless://86ff5721-87f2-4682-9bc2-b1b34a8ca91f@128.1.12.97:443?type=tcp&security=reality&sni=www.bing.com&flow=xtls-rprx-vision&pbk=4vnK2LLhfy9-plqFrSE3Di9fqTXlajXtll7NoYZYQ28&sid=05ac92984da91336#128.1.12.97:443
 vless://1ab3d304-568e-4d0b-b347-24038012fc10@bia2-daily-configs.dodfun.ir:8443?type=xhttp&security=reality&path=/news/2026/08/16/3672011/man-hanged-for-running-over-police-officers-during-winter-unrest-in-iran&sni=www.samsung.com&fp=chrome&pbk=U4O9djn3DP1YkX_rpIhOV4fep-kdnUBPX2YcapN1zzY&sid=56#bia2-daily-configs.dodfun.ir:8443
-trojan://1qncxndy-rqrt-ymtv-z06a-hpdtk2t3sxbw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://fjq9y9fi-t6pj-w9ii-rh14-if1fuar50g6d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#45.195.111.108:443
+vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#45.195.111.108:443
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@31.76.119.117:443?type=tcp&security=reality&sni=de.orpheous.ru&fp=chrome&flow=xtls-rprx-vision&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4#31.76.119.117:443
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&obfs=salamander#130.49.161.70:443
+trojan://37lp994c-tzth-wsfk-5wp7-0n4jo3oyljax@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ickdowk9-81ur-iarp-8nbd-9032m00ll8lr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
