@@ -1,6 +1,6 @@
-trojan://jmsqnxqb-rici-s6vn-qv2z-s0lb2sgbj5gt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/28 | 19:15
-trojan://ckkn33x2-3xnf-fa81-7pn1-4pbdyi6nnpi8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://de3jdtg6-htw8-4lmi-k2hz-c1vrzfbbnz9t@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://rxb12rku-yxs9-m95u-niy0-7vj4w6lsstkx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/08/29 | 03:43
+trojan://1s9rvbmf-4gyc-pxjw-n1ys-h919wtodcrz0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://1cqfm2a0-v9b8-xfwb-5h19-xzqn32n11h9w@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#173.244.56.9:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#173.244.56.6:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo@23.150.248.20:8388#23.150.248.20:8388
@@ -14,6 +14,11 @@ trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?sni=www.micro
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?sni=www.microsoft.com&peer=www.microsoft.com&security=tls#us01.duotg.top:59385
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?sni=www.microsoft.com&peer=www.microsoft.com&security=tls#us01.duotg.top:27732
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?sni=www.microsoft.com&peer=www.microsoft.com&security=tls#us01.duotg.top:54657
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:59385?sni=us01.duotg.top&peer=us01.duotg.top&security=tls#107.150.105.84:59385
+trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls#14.1.28.76:50740
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:43022?sni=www.microsoft.com&peer=www.microsoft.com&security=tls#us01.duotg.top:43022
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?sni=us01.duotg.top&peer=us01.duotg.top&security=tls#107.150.105.84:54657
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:38261?sni=www.microsoft.com&peer=www.microsoft.com&security=tls#107.150.105.84:38261
 vless://042adee0-9b4f-43f5-a915-a627313f28c0@www.homaxcorp.com.homaxcorp.com:2055?type=ws&security=none&path=/#www.homaxcorp.com.homaxcorp.com:2055
 vless://505826d0-10c7-4bb9-a405-e151ea515935@us01hk.lockdwn.com:443?type=ws&security=none&path=/#us01hk.lockdwn.com:443
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.154:62145?type=tcp&security=none#157.137.222.154:62145
@@ -48,6 +53,9 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?type=ws&security
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?type=grpc&security=tls&sni=laoye.in-gect.fun#laoye.in-gect.fun:2083
 vless://5181e3af-4a0c-47d7-8beb-7e4fa4786cdd@201.24.51.241:4100?type=ws&security=none&path=/v1#201.24.51.241:4100
 vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?type=tcp&security=tls&sni=lizca2.footballfantasyforum.com#lizca2.footballfantasyforum.com:443
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?type=grpc&security=tls&sni=laoye.in-gect.fun#89.36.161.222:2083
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?type=ws&security=none&path=/#support.cloudflare.com:2095
+vless://2808bf00-f7af-4b8b-85cb-6bb5cfa4cba6@158.23.49.45:8443?type=tcp&security=tls&sni=mexicotrash.duckdns.org#158.23.49.45:8443
 vless://10b93dba-7b48-46fe-98b5-fef94e2520cd@89.124.251.61:443?type=tcp&security=reality&sni=d.tranzit-net.ru&flow=xtls-rprx-vision&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k#89.124.251.61:443
 vless://85cc845e-644c-4148-8288-f0c03c83c1ec@85.192.49.141:443?type=tcp&security=reality&sni=fi.quattro-tech.ru&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#85.192.49.141:443
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc#47.253.226.114:443
@@ -96,6 +104,9 @@ vless://43a13764-23dd-4e01-8b79-cde8a16e13ce@204.48.20.223:30906?type=tcp&securi
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?type=tcp&security=reality&sni=www.paypal.com&flow=xtls-rprx-vision&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY#147.182.212.232:56565
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=tcp&security=reality&sni=vk.ru&flow=xtls-rprx-vision&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e#laoye.in-gect.fun:2053
 vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&security=reality&sni=google.com&flow=xtls-rprx-vision&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e#130.107.73.148:41373
+vless://719b9354-45e2-4718-8709-d965b64554db@2.24.124.64:443?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=zpXR6Y36C8qUCIVk2p_j8C9KGeBk5xisLw66j3WFOls&sid=9f1fc5a631ef3126#2.24.124.64:443
+vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&sid=0c#188.127.247.129:443
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#169.40.42.184:443
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?sni=www.bing.com&insecure=1#140.238.213.114:50160
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443?sni=cabinet.wwwinternetvideo.click&insecure=1#faq.wwwinternetvideo.click:443
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?sni=t.me&insecure=1#vpn-ca-001.fastervpn.world:443
@@ -120,5 +131,5 @@ hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?sni=hys26.wba-pn.ru&insecure=0#hys26.
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.231:8080?sni=hopp-legend-se.roxa.org&insecure=0#103.246.248.231:8080
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@usa0003rlbhy01.tcp-reset-club.net:443?sni=usa0003rlbhy01.tcp-reset-club.net&insecure=0#usa0003rlbhy01.tcp-reset-club.net:443
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click&insecure=1#go.wwwinternetvideo.click:443
-trojan://8z6uo0l3-74jz-yv4f-arbt-52pvc4upkbyh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://1cfws6o0-81i4-ol04-lk4e-j42rpakhi6wa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://nxt29o3k-nhgf-4i3t-eqqy-f5f74ooy3ce2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jrndqdlm-0iy6-f54p-bknl-dpu5luiluhcb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
