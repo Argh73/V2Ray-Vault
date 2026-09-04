@@ -1,6 +1,6 @@
-trojan://d8jx9lc5-qdte-75rg-y5cr-rzw6qz7htz54@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/04 | 05:08
-trojan://k166w0qj-ihud-nk8x-1deg-kiiplzuf56yd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8f5i4v9g-dkp8-fyd5-3pbh-e20p5rqleyog@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://a316h3ts-52wz-yoo3-pxxq-jzfm0b984mzy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/04 | 11:48
+trojan://pz3pw69j-dyhm-roez-43qh-sc82vmgrjsq0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://l0vpor9v-xri4-0iej-svvt-xn49hnu49kpb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://MiTiVPN@151.101.56.7:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.7:443
 trojan://humanity@188.42.145.180:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#188.42.145.180:443
 trojan://MiTiVPN@151.101.56.7:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.7:443
@@ -22,8 +22,6 @@ trojan://humanity@188.42.145.180:443?sni=www.volumeroot.com&peer=www.volumeroot.
 trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
 trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
 vmess://eyJ2IjoiMiIsInBzIjoiQFYyUkFZUk9aIFx1ZDgzZVx1ZGQ4YiIsImFkZCI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQFYyUkFZUk9aIFx1ZDgzZVx1ZGQ4YiIsImFkZCI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?type=xhttp&security=tls&path=/api/v1/&sni=deu683.lackerdeu.org&fp=firefox#185.136.12.190:443
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?type=ws&security=none&path=/5021201ef53f#157.22.133.130:2087
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?type=ws&security=none&path=/5021201ef53f#157.22.133.130:2087
 vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?type=ws&security=none&path=/29c8fed7ca22#163.8.195.241:2087
@@ -47,7 +45,6 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&security=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&security=none&path=/http#162.19.228.119:80
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&security=none&path=/http#162.19.228.119:80
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?type=tcp&security=none#aml6.mechanicir.ir:38479
-vless://fae272a6-a184-4c91-83ed-771abdcff404@mn2.levikogjgfdd.ir:2053?type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&sid=7af95330630a7327#mn2.levikogjgfdd.ir:2053
 vless://6379673b-197f-4944-ba81-a45c66aefe9c@31.77.220.163:15443?type=tcp&security=reality&sni=max.ru&fp=firefox&flow=xtls-rprx-vision&pbk=cpoZcpYNYSvFXGGB21tByHUoNd7-FYrJ0UP7ZDfSFCs&sid=a1b2c3d4#31.77.220.163:15443
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b#57.131.38.163:2053
 vless://6379673b-197f-4944-ba81-a45c66aefe9c@31.77.220.163:15443?type=tcp&security=reality&sni=max.ru&fp=firefox&flow=xtls-rprx-vision&pbk=cpoZcpYNYSvFXGGB21tByHUoNd7-FYrJ0UP7ZDfSFCs&sid=a1b2c3d4#31.77.220.163:15443
@@ -58,5 +55,5 @@ vless://8997dde9-498b-48f2-ae64-89cdad2cfcdf@31.58.144.31:18149?type=tcp&securit
 vless://1a89d654-5a5b-476c-8157-6691a8f85687@okm.corerelay.ir:2096?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Yef9_YrfRICUYUYnwCwDy3w9vzs7ljBmlOsPU9OVa1k&sid=8ce5e1dbeceab54a#okm.corerelay.ir:2096
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@itl4.mechanicir.ir:10694?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#itl4.mechanicir.ir:10694
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
-trojan://qmc490ax-y4nt-fo9r-0rjs-3zcjg7bck7il@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pstftp0e-mr5j-3mcg-nlty-dgdtlagyw7h9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://x0tce4ol-ajfa-unyo-0oiq-k4dzme848jwy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0onzwxpz-pkig-7blm-5gg2-6pqgul22pfhq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
