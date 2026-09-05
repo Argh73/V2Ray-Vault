@@ -1,6 +1,6 @@
-trojan://0jy43b1e-hhlc-a7j3-gdv6-r3wffeixq26t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/05 | 17:36
-trojan://qmef7nu8-wmk4-l9yz-jlzp-43z7mwtq41la@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://yxsr958i-dcl3-dtjg-mjqb-djpy12qfyza2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://6certs6w-2my1-feh0-tsoe-ci2o1dmdwbg0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/05 | 21:17
+trojan://h4y5i49b-jgq8-9ekw-c59b-rucr8e2rai5m@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jfr65fgk-l6xb-wpqm-dm5d-q6zndv4lond9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#20.107.193.38:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#20.107.193.38:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#20.107.193.38:443
@@ -9,16 +9,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#20.1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#20.107.193.38:443
 trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
 trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
-trojan://humanity@188.42.145.180:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#188.42.145.180:443
-trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
-trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
-trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
-trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
-trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
-trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&security=none&path=/http#162.19.228.119:80
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&security=none&path=/http#162.19.228.119:80
-vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?type=tcp&security=none#aml6.mechanicir.ir:38479
+trojan://MiTiVPN@151.101.56.7:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.7:443
+trojan://MiTiVPN@151.101.56.7:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.7:443
 vless://a3558ef4-b843-4b05-8456-495815234c95@199.232.78.159:80?type=ws&security=none&path=/#199.232.78.159:80
 vless://a3558ef4-b843-4b05-8456-495815234c95@199.232.78.159:80?type=ws&security=none&path=/#199.232.78.159:80
 vless://a3558ef4-b843-4b05-8456-495815234c95@199.232.78.159:80?type=ws&security=none&path=/#199.232.78.159:80
@@ -37,10 +29,12 @@ vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?type=ws&secu
 vless://02c05088-fcb4-4366-b8d3-98d68c7bdb98@37.221.110.245:2085?type=grpc&security=none#37.221.110.245:2085
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?type=tcp&security=none#138.124.123.127:2086
 vless://a3558ef4-b843-4b05-8456-495815234c95@199.232.78.159:80?type=ws&security=none&path=/#199.232.78.159:80
-vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@itl4.mechanicir.ir:10694?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#itl4.mechanicir.ir:10694
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#15.204.97.206:23576
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
+vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?type=ws&security=none&path=/4de527ea5ed9#45.95.184.120:2087
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?type=ws&security=none&path=/5021201ef53f#157.22.133.130:2087
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?type=ws&security=none&path=/fp#172.64.150.28:2082
+vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?type=ws&security=none&path=/4de527ea5ed9#45.95.184.120:2087
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?type=ws&security=none&path=/5021201ef53f#157.22.133.130:2087
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?type=ws&security=none&path=/fp#172.64.150.28:2082
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#15.204.97.206:23576
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
 vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@ww10.levikogjgfdd.ir:55861?type=tcp&security=reality&sni=www.intel.com&flow=xtls-rprx-vision&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&sid=7551ed1b#ww10.levikogjgfdd.ir:55861
@@ -52,5 +46,7 @@ vless://5d8cf280-e0f4-4539-b35c-7ff90659c0d0@72.56.75.54:443?type=tcp&security=r
 vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@ww10.levikogjgfdd.ir:55861?type=tcp&security=reality&sni=www.intel.com&flow=xtls-rprx-vision&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&sid=7551ed1b#ww10.levikogjgfdd.ir:55861
 vless://a3558ef4-b843-4b05-8456-495815234c95@de13.bexait.ir:2434?type=tcp&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#de13.bexait.ir:2434
 vless://5d8cf280-e0f4-4539-b35c-7ff90659c0d0@72.56.75.54:443?type=tcp&security=reality&sni=app2.jarvesitw.ru&flow=xtls-rprx-vision&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&sid=c481d750#72.56.75.54:443
-trojan://60sfpv0r-s79o-0etx-2hqw-4kji4wqpele7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qmqmvts6-ace1-y1vm-fd1r-32qtnuw981se@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://5d8cf280-e0f4-4539-b35c-7ff90659c0d0@72.56.75.54:443?type=tcp&security=reality&sni=app2.jarvesitw.ru&flow=xtls-rprx-vision&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&sid=c481d750#72.56.75.54:443
+vless://5d8cf280-e0f4-4539-b35c-7ff90659c0d0@72.56.75.54:443?type=tcp&security=reality&sni=app2.jarvesitw.ru&flow=xtls-rprx-vision&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&sid=c481d750#72.56.75.54:443
+trojan://hterku9m-bh98-1q2e-yp0q-exnfr5wgnb86@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://r368igmh-azs3-oyou-813k-251soha11qua@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
