@@ -1,16 +1,16 @@
 --- Telegram Scrape Report ---
-Timestamp: 2026-09-07 01:19:44
+Timestamp: 2026-09-07 05:01:43
 Total Channels: 117
 Successful Scrapes: 67
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-orange_vpns: 216 configs
-configV2rayNG: 205 configs
+configV2rayNG: 225 configs
+orange_vpns: 212 configs
 Farah_VPN: 200 configs
 V2rayNG3: 196 configs
 proxy_mtm: 185 configs
-LonUp_M: 174 configs
+LonUp_M: 175 configs
 Outline_Vpn: 131 configs
 V2ray_Alpha: 117 configs
 FreakConfig: 109 configs
