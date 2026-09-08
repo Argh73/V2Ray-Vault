@@ -1,6 +1,6 @@
-trojan://fyccjewb-djrq-j30x-kiq6-nd2oaef0tq1d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/08 | 22:34
-trojan://o7qhwe3m-9n64-c3kt-h03j-6tszx004r8la@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4lydp8m6-scjr-eyka-qmhz-azinyi975ppr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0xk9qgdn-0xiy-njuq-cx47-xkf64fzz2gdm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/09 | 01:37
+trojan://3xns8udw-g5s7-ru43-3v2l-xutecrjq9hbi@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://f012fo78-i96a-w8v5-nkv4-ih9e80qszdot@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNXpTUXljMXBsZERWdnNZYVNOcjVjTWdLVWdsNmV5T1BRTkp4Qys5UXBvPQ@e1.cover20.ir:51570#e1.cover20.ir:51570
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RlFGYmdEME5DZzY4cUlaYm5GSDQ2TWx3UVBiemw4NA@5.75.203.195:1080#5.75.203.195:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RlFGYmdEME5DZzY4cUlaYm5GSDQ2TWx3UVBiemw4NA@5.75.203.195:1080#5.75.203.195:1080
@@ -32,7 +32,6 @@ trojan://u78pf9hiyifswgg9@185.204.170.125:252?sni=185.204.170.125&peer=185.204.1
 trojan://%68%75%6D%61%6E%69%74%79@188.114.97.7:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#188.114.97.7:443
 trojan://%68%75%6D%61%6E%69%74%79@172.67.149.60:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#172.67.149.60:443
 vmess://eyJ2IjoiMiIsInBzIjoiTVRNVlBOIDYiLCJhZGQiOiIxODUuMjA0LjE3MC4xMjUiLCJwb3J0IjoxLCJpZCI6ImQzMWI4MzRhLTA5MjgtNGU2Ny04M2U4LTVjYmMwMTg4YzhjYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InhodHRwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMTg1LjIwNC4xNzAuMTI1IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiIxODUuMjA0LjE3MC4xMjUifQ
-vless://de43a9ca-6cc0-441e-981d-53208760cd90@49.13.36.171:23746?type=tcp&security=none#49.13.36.171:23746
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?type=ws&security=tls&path=/cdn/v3/live&sni=cf6.rumedia-cdn.com&fp=chrome#94.156.232.254:443
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?type=tcp&security=tls#v5p.sabermusic.ir:443
 vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.217.240:443?type=ws&security=tls&path=/proxyip=bpb.yousef.isegaro.com&sni=web-socket.tgdaosheng.ggff.net&fp=unsafe#172.67.217.240:443
@@ -110,15 +109,12 @@ vless://c75775e9-cf53-47b6-9d1d-29c3a46633fd@darsadgir.ir:2087?type=xhttp&securi
 vless://9b18ccef-b9e0-41d1-8990-9d970569e142@104.21.33.59:443?type=ws&security=tls&path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&sni=web-socket.tgdaosheng.ggff.net&fp=unsafe#104.21.33.59:443
 vless://c75775e9-cf53-47b6-9d1d-29c3a46633fd@xnforo.ir:2087?type=xhttp&security=tls&path=/GoRbEh&sni=ratatouille.rahmatokaduie.ir#xnforo.ir:2087
 vless://602ba9cb-2071-4559-a0b6-47b6e7b56272@199.232.78.159:443?type=ws&security=tls&path=/&sni=ssl.fastly.com#199.232.78.159:443
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?type=grpc&security=reality&sni=rs5.univesalsrv.com&fp=firefox&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d#rs5.univesalsrv.com:443
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&flow=xtls-rprx-vision&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#78.159.250.214:443
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?type=grpc&security=reality&sni=rs2.univesalsrv.com&fp=firefox&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323#rs2.univesalsrv.com:443
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?type=grpc&security=reality&sni=rs5.univesalsrv.com&fp=firefox&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d#150.40.126.24:443
-vless://9c3d8e77-82ca-48d5-9981-dfce97b20ab1@194.110.207.146:443?type=tcp&security=reality&sni=kibi-institut.de&fp=firefox&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#194.110.207.146:443
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?type=grpc&security=reality&sni=rs1.univesalsrv.com&fp=firefox&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7#rs1.univesalsrv.com:443
-vless://20000024-8788-9182-f000-a35f2e23a020@185.243.218.182:322?type=tcp&security=reality&sni=wyrebyte.com&fp=qq&flow=xtls-rprx-vision&pbk=T7JiblULt3JN3iWxcGPD9E912LAneFSPA3J05PD9MjA&sid=2757df499273bcb2#185.243.218.182:322
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?type=grpc&security=reality&sni=bg3.univesalsrv.com&fp=firefox&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a#bg3.univesalsrv.com:443
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?type=grpc&security=reality&sni=md2.univesalsrv.com&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb#89.35.14.31:443
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.217.240:443?type=ws&security=tls&path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&sni=web-socket.tgdaosheng.ggff.net#172.67.217.240:443
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@188.114.97.7:443?type=ws&security=tls&path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&sni=web-socket.tgdaosheng.ggff.net&fp=unsafe#188.114.97.7:443
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.149.60:443?type=ws&security=tls&path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&sni=web-socket.tgdaosheng.ggff.net&fp=unsafe#172.67.149.60:443
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@104.21.56.202:443?type=ws&security=tls&path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&sni=web-socket.tgdaosheng.ggff.net#104.21.56.202:443
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.64.150.28:443?type=ws&security=tls&path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&sni=web-socket.tgdaosheng.ggff.net&fp=unsafe#172.64.150.28:443
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.241.225:443?type=ws&security=tls&path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&sni=web-socket.tgdaosheng.ggff.net&fp=unsafe#172.67.241.225:443
 vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?type=xhttp&security=reality&path=/&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#80.76.43.245:443
 vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@193.160.71.247:443?type=tcp&security=reality&sni=edge-uk2.mystatic-cdn.ru&flow=xtls-rprx-vision&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1#193.160.71.247:443
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?type=tcp&security=reality&sni=api-as.data-media-social.org&fp=chrome&flow=xtls-rprx-vision&pbk=D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc&sid=f3a9d2b1c7d4f608#api-as.data-media-social.org:443
@@ -197,5 +193,5 @@ vless://21fa7f13-e329-4127-b154-a6bdd8fb7382@66.33.22.241:57327?type=tcp&securit
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?sni=nl1.sferavpn.pro&insecure=0&obfs=salamander#2.27.249.79:443
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?sni=nl1.sferavpn.pro&insecure=0&obfs=salamander#2.27.249.79:443
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?sni=nl1.sferavpn.pro&insecure=0&obfs=salamander#2.27.249.79:443
-trojan://6u7s8lv7-aac9-tm0i-i9bp-hodfnyum8a61@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://fosr9mh5-p5q3-23t2-nhrt-6vpa4rs0kl6l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://kf5r7726-2da6-l45h-agcg-dqayemx4an2o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://gl60vi2n-gknm-iu73-vscw-wb9nke2kqiiv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
