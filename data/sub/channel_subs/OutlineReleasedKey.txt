@@ -1,8 +1,6 @@
-trojan://12csvejy-y151-c73n-qnw2-xk7cr84x5664@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/11 | 11:53
-trojan://obbsnfsp-nkdw-9yfi-swxg-5bklx8wmcvhs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://oygr2di5-o49j-711a-e39f-d4dnf8v5ybsb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.175.119.181:443#18.175.119.181:443
-ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ@185.135.86.175:9007#185.135.86.175:9007
+trojan://aaqldl6p-4ugs-9tl8-ajm9-eqgxsvv88ng2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/11 | 18:53
+trojan://1fxjw0hc-7m7l-kynw-hsge-092bhz5bsyzm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wqs95088-tc18-znvx-cdwn-de0cr8ts4rwe@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.178.132.176:443#35.178.132.176:443
 ss://YWVzLTI1Ni1jZmI6SEFWQWRFM25YaHFBNW5IcA@185.135.86.175:9017#185.135.86.175:9017
 ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg@217.30.10.44:9095#217.30.10.44:9095
@@ -12,6 +10,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#51.77.22
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.75.103.206:443#54.75.103.206:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#82.38.31.42:8080
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#37.19.198.243:443
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#51.38.71.51:2083
 trojan://humanity@172.64.150.28:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#172.64.150.28:443
 trojan://humanity@213.182.199.137:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#213.182.199.137:443
 trojan://humanity@104.21.33.59:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#104.21.33.59:443
@@ -27,8 +26,7 @@ vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:2087?t
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?type=tcp&security=tls&sni=pl6.moritech.net&fp=firefox&flow=xtls-rprx-vision#144.31.5.64:443
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?type=ws&security=tls&path=/GOrbEh&sni=rubifen.adaspoloandco.com#rubifen.adaspoloandco.com:443
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?type=tcp&security=tls&sni=estproxy4.lockdwn.com#94.183.170.135:8443
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b#57.131.38.163:2053
-vless://bf645ffe-a3cc-4480-8e4c-9bcd1af41052@170.101.109.37:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=qq&flow=xtls-rprx-vision&pbk=rTnh7Y8RsSA5HSvFf-pWT49x8va6U6XHMRgNiMuwB0A&sid=ab88d256#170.101.109.37:443
+vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@darsadgir.ir:443?type=xhttp&security=tls&path=/ChOpIn&sni=chopin.paxr.ir#darsadgir.ir:443
 vless://d7430ae7-320c-4658-808b-3006d0627d82@popos.ubuntuhosting.host:443?type=grpc&security=reality&sni=popos.ubuntuhosting.host&fp=edge&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#popos.ubuntuhosting.host:443
 vless://eb85f61f-acb3-4689-8b7c-d8ad2a6aa43f@5.175.161.47:8443?type=grpc&security=reality&sni=gateway.icloud.com&pbk=6hrP_JlRUK40WwXk9ZL0FpB19bTR0RnrUGYX5SaZkCE&sid=0501b478da6a4950#5.175.161.47:8443
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?type=tcp&security=reality&sni=fuck.rkn&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#51.158.206.80:23576
@@ -37,8 +35,6 @@ vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@brightharbor.download:443?type=tcp&
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b#57.131.38.163:2053
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@fr-1.starsping.com:443?type=xhttp&security=reality&path=/&sni=play.google.com&fp=safari&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&sid=a88550765b9956ee#fr-1.starsping.com:443
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@brightharbor.download:443?type=tcp&security=reality&sni=localhost&flow=xtls-rprx-vision&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#brightharbor.download:443
-hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.15:8443?sni=hopp-us.yyuyy.com&insecure=1#82.38.60.15:8443
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click&insecure=0#45.192.12.93:443
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443?sni=hopp-legend-se.roxa.org&insecure=0#222.167.212.81:8443
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.6:8443?sni=hopp-germany-new.ddnsguru.com&insecure=0#162.249.126.6:8443
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1#admin.wwwinternetvideo.click:443
@@ -51,5 +47,6 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?sni=hopp-ger
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz&insecure=1#hy2.561891.xyz:44356
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.6:8443?sni=hopp-germany-new.ddnsguru.com&insecure=0#162.249.126.6:8443
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click&insecure=1#admin.wwwinternetvideo.click:443
-trojan://esy9zjac-6jiy-6xrj-yggg-oqggmsnwjzok@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://1rb0jhx8-96q6-r6z8-zy2f-8f677k8c3ggb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.176:8080?sni=hopp-romania-new.roxa.org&insecure=0#85.204.107.176:8080
+trojan://ns58zrqh-y9uk-viq2-lbkw-y29kx6xckoqa@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://acj3ty6l-03fo-evdm-4fs8-w71h67u5l317@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
