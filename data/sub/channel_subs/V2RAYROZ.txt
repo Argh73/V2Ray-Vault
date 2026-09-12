@@ -1,6 +1,9 @@
-trojan://xsfqh5lx-shth-iuxg-bjq3-pnoocw0ej8ew@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/12 | 18:01
-trojan://ic2kbtlz-clz8-urk5-cixk-sulpru6ymp1a@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ezkm2fom-ihem-07zu-v8we-rr71uabfr9t1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0p7zug3y-kky2-fxd4-awqm-4ygwsc34e72i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/12 | 21:27
+trojan://u5j9r2y6-vucu-gk3t-yx3x-7l75iadc5msk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ipac6m0q-bvox-vqip-jb98-7a3jzuupnc6w@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443#20.164.211.25:443
+trojan://MiTiVPN@167.82.76.27:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#167.82.76.27:443
+trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
 trojan://MiTiVPN@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.6:443
 trojan://MiTiVPN@167.82.76.27:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#167.82.76.27:443
 trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
@@ -15,6 +18,9 @@ vless://bfb3f06c-e33f-41ac-b101-012c8325a689@206.1.96.228:8082?type=tcp&security
 vless://bfb3f06c-e33f-41ac-b101-012c8325a689@206.1.96.228:8082?type=tcp&security=none#206.1.96.228:8082
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?type=ws&security=tls&path=/api/connect&sni=wstg.datasynctrue.online#91.210.169.181:443
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?type=ws&security=tls&path=/api/connect&sni=wstg.datasynctrue.online#91.210.169.181:443
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#83.168.71.216:443
+vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@cz.cloudtechone.org:443?type=tcp&security=reality&sni=cz.cloudtechone.org&fp=firefox&flow=xtls-rprx-vision&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&sid=f93c9d5127e622e4#cz.cloudtechone.org:443
+vless://1046683b-e4c6-4b5d-a32f-b19a56eade15@49.12.45.2:443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=I_9XlI6n-7ZTND49cztVVeQMPjstFEY6IzwhxOj8HH8&sid=5f23c3d33634905e#49.12.45.2:443
 vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@104.167.24.235:18443?type=grpc&security=reality&sni=gp1.steptofsvo.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd#104.167.24.235:18443
 vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@104.167.24.235:18443?type=grpc&security=reality&sni=gp1.steptofsvo.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd#104.167.24.235:18443
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
@@ -34,5 +40,14 @@ vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp
 vless://7c1edf38-3a67-4fba-be28-c31907d41ba8@uhta.gosgenarchive.com:443?type=xhttp&security=reality&sni=uhta.gosgenarchive.com&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#uhta.gosgenarchive.com:443
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
-trojan://0oemlf0e-vyec-avke-yjvi-hbs7k4jqdbfq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://btorph9c-iwsb-7uxk-opqk-kx9px2hq4kav@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?type=tcp&security=reality&sni=play.google.com&fp=random&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#51.38.70.192:443
+vless://45bbee73-a96e-4275-adea-6c298cd4412a@xray1-direct-mci1-fs-ce.freesocks.work:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI#xray1-direct-mci1-fs-ce.freesocks.work:443
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
+vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?type=tcp&security=reality&sni=play.google.com&fp=random&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#51.38.70.192:443
+vless://45bbee73-a96e-4275-adea-6c298cd4412a@xray1-direct-mci1-fs-ce.freesocks.work:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI#xray1-direct-mci1-fs-ce.freesocks.work:443
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
+vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?type=tcp&security=reality&sni=play.google.com&fp=random&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#51.38.70.192:443
+vless://45bbee73-a96e-4275-adea-6c298cd4412a@xray1-direct-mci1-fs-ce.freesocks.work:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI#xray1-direct-mci1-fs-ce.freesocks.work:443
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
+trojan://z5z9rvcw-zgk8-g9gt-hfue-fw8sj09tin17@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jivu2vr3-gvbc-4j3s-o2al-8xkfqugurize@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
