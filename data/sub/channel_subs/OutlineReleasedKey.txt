@@ -1,7 +1,6 @@
-trojan://242oqcbu-pb7a-i80q-fb7d-91ez6oyld7y4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/13 | 12:06
-trojan://qw6yamen-efem-mp3h-pkxd-5jsfzqmfeh88@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://5rx1zse2-1li3-q7ph-8j12-3tkgp7yfyaki@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg@217.30.10.44:9095#217.30.10.44:9095
+trojan://sxda4fhu-56x0-x7bz-vxs1-ve7q3ris385i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/13 | 18:41
+trojan://5vpjrj6p-dqnm-yfp8-8cvt-v0pjjel4v6vw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://24tzl0yb-u5hw-a9tj-k7v9-rxi669uqtgbi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#144.31.243.2:16015
 ss://YWVzLTI1Ni1jZmI6anQyZWtCTmM5SHVWdG0yYQ@217.30.10.44:9052#217.30.10.44:9052
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#51.77.225.200:8388
@@ -12,14 +11,12 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWx
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#51.222.200.165:5000
 ss://YWVzLTI1Ni1jZmI6UzJ6RHl5UGNtWk4yaDhFQw@217.30.10.44:9076#217.30.10.44:9076
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#37.19.198.160:443
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#185.164.175.81:19999
 trojan://humanity@213.182.199.137:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#213.182.199.137:443
 trojan://humanity@104.21.33.59:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#104.21.33.59:443
 trojan://humanity@104.21.33.59:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#104.21.33.59:443
 trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#8.47.69.0:443
 trojan://humanity@213.182.199.137:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#213.182.199.137:443
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2095?type=ws&security=none&path=/?ed=2560security=tls#162.159.38.127:2095
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083?type=grpc&security=none#82.24.203.92:2083
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?type=ws&security=none&path=/#89.36.161.222:2096
 vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@94.183.209.58:443?type=ws&security=none&path=/#94.183.209.58:443
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.39.218:80?type=ws&security=none&path=/?ed=2560security=tls#104.18.39.218:80
 vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:2087?type=grpc&security=tls&sni=italic.dearhossein-taktaz.ir&fp=chrome#italic.dearhossein-taktaz.ir:2087
@@ -28,6 +25,7 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?type=
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?type=tcp&security=tls&sni=estproxy4.lockdwn.com#94.183.170.135:8443
 vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@darsadgir.ir:443?type=xhttp&security=tls&path=/ChOpIn&sni=chopin.paxr.ir#darsadgir.ir:443
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?type=ws&security=none&path=/#85.17.145.65:12068
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&security=none#66.90.105.210:2083
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?type=tcp&security=reality&sni=fuck.rkn&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#51.158.206.80:23576
 vless://bf645ffe-a3cc-4480-8e4c-9bcd1af41052@170.101.109.37:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=rTnh7Y8RsSA5HSvFf-pWT49x8va6U6XHMRgNiMuwB0A&sid=ab88d256#170.101.109.37:443
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@brightharbor.download:443?type=tcp&security=reality&sni=localhost&fp=firefox&flow=xtls-rprx-vision&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#brightharbor.download:443
@@ -39,8 +37,7 @@ vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?type=tcp&securit
 vless://43c23116-1115-4af4-a0f0-56f02841a605@185.254.205.79:19842?type=tcp&security=reality&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&pbk=sfOfuQeJBlKfDnPL_EMWUxMIiFAN8BNKjtWDUvlsjzM&sid=25ebc9e0a912#185.254.205.79:19842
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?type=tcp&security=reality&sni=deepl.com&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sid=aae8#194.55.189.249:40443
 vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?type=tcp&security=reality&sni=at.quattro-tech.ru&fp=chrome&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#152.53.1.40:443
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443?sni=grape-turbo-fr.roxa.org&insecure=1#46.229.243.140:8443
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click&insecure=0#45.192.12.93:443
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&sni=fuck.rkn&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#62.210.91.2:23576
 hysteria2://0db4a6c709ca4a46153af8a401b7138a@se.allgoodvpn.su:8443?sni=se.allgoodvpn.su&insecure=0#se.allgoodvpn.su:8443
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?sni=che01plrhy01.tcp-reset-club.net&insecure=0#che01plrhy01.tcp-reset-club.net:443
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?sni=hopp-germany-new.ddnsguru.com&insecure=0#162.249.126.2:8443
@@ -52,5 +49,6 @@ hysteria2://29ffde49-e1d6-4dcd-a135-352920f9f0b8@se-node.rumedia-cdn.com:25443?s
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.183:8443?sni=hopp-romania-new.roxa.org&insecure=0#85.204.107.183:8443
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8080?sni=hopp-romania-new.roxa.org&insecure=0#85.204.107.173:8080
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?sni=hopp-legend-se.roxa.org&insecure=0#138.124.0.168:8080
-trojan://6fvzyg2z-yjjx-7p5h-muev-2tdwewl48xl8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://p3h7uchz-ju6b-903d-gwtt-l0dlzx3zf6md@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.170:8443?sni=hopp-romania-new.roxa.org&insecure=1#85.204.107.170:8443
+trojan://31p4r5s6-qvqv-tydc-k4tc-vfas1eeb18yj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ivkzd9wo-q566-o58d-7bhq-8beyrt8cm3qa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
