@@ -1,6 +1,6 @@
-trojan://4oq5zg9b-xyiv-jq4y-0lnu-w7n1rfiu4ui0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/14 | 05:28
-trojan://7jf80cqb-2g0x-spq6-uigw-jxwjlyrmsgwc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://n0ao0k1n-n9gt-pawd-d986-9aao6vleaxtj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://o9fhsu8n-3g18-kyba-9x7f-c4cp7aoiep7v@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/14 | 12:50
+trojan://ax0mmxx4-pctl-1ykr-ywjq-imsxyjujra0z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2k8isad9-mllr-m1c7-zp55-yq2mrl6cmqg1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://humanity@78.47.146.151:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#78.47.146.151:443
 trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#8.47.69.0:443
 trojan://humanity@188.42.145.180:443?sni=www.volumeroot.com&peer=www.volumeroot.com&security=tls#188.42.145.180:443
@@ -8,6 +8,7 @@ trojan://humanity@188.42.145.180:443?sni=www.volumeroot.com&peer=www.volumeroot.
 trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#8.47.69.0:443
 trojan://JCY6NydkBA@91.107.249.32:30141?sni=play.google.com&peer=play.google.com&security=reality#91.107.249.32:30141
 trojan://JCY6NydkBA@91.107.249.32:30141?sni=play.google.com&peer=play.google.com&security=reality#91.107.249.32:30141
+trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#8.47.69.0:443
 vless://65696a8e-bf49-4ece-836f-75def52bfe7d@prisonvpnc-production-e707.up.railway.app:443?type=ws&security=tls&path=/ws/65696a8e-bf49-4ece-836f-75def52bfe7d&sni=prisonvpnc-production-e707.up.railway.app&fp=chrome#prisonvpnc-production-e707.up.railway.app:443
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?type=ws&security=tls&path=/vws/&sni=bab-6.site#81.95.4.189:443
 vless://65696a8e-bf49-4ece-836f-75def52bfe7d@prisonvpnc-production-e707.up.railway.app:443?type=ws&security=tls&path=/ws/65696a8e-bf49-4ece-836f-75def52bfe7d&sni=prisonvpnc-production-e707.up.railway.app&fp=chrome#prisonvpnc-production-e707.up.railway.app:443
@@ -20,6 +21,7 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-2.moritech.net:443?type=tcp
 vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect6.nyxserver.ir:8446?type=tcp&security=tls&fp=chrome#connect6.nyxserver.ir:8446
 vless://559684e7-f2e8-454f-b142-beddf53c0468@prisonvpnc-production-e707.up.railway.app:443?type=ws&security=tls&path=/ws/559684e7-f2e8-454f-b142-beddf53c0468&sni=prisonvpnc-production-e707.up.railway.app&fp=chrome#prisonvpnc-production-e707.up.railway.app:443
 vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect6.nyxserver.ir:8446?type=tcp&security=tls&fp=chrome#connect6.nyxserver.ir:8446
+vless://0d4fd99b-06ae-4ee2-fee2-fda93a9434f1@a2.arshia-nova.ir:443?type=ws&security=tls&path=/&sni=ssl.fastly.com&fp=firefox#a2.arshia-nova.ir:443
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@45.74.178.209:32306?type=tcp&security=reality&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=SXkGZe1mcU3mqQHdr-8izIYr1YQvsAYf_jgFnO85kW0&sid=c03b6ff9e11d0a5d#45.74.178.209:32306
 vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@185.141.227.155:20002?type=tcp&security=reality&sni=pool.dataroute.biz&fp=chrome&flow=xtls-rprx-vision&pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4#185.141.227.155:20002
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=ios&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
@@ -41,5 +43,15 @@ vless://19765095-98d7-47de-8172-599cf7668a7e@158.94.216.134:53341?type=tcp&secur
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.99.8:443?type=xhttp&security=reality&path=/&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28#170.168.99.8:443
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?type=xhttp&security=reality&path=/&sni=download.intel.com&fp=chrome&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA#89.47.55.9:443
 vless://3de1313f-e378-4a2a-8aa6-a4a522439e1a@158.94.216.134:53341?type=tcp&security=reality&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=eSSad_b1os9tgoQHJD2qjRfD873Md_c0iaWSVBqM9DI&sid=9dc0c499daa85792#158.94.216.134:53341
-trojan://pe0pznhm-dqsg-k0an-g06c-hc7tfko9odc3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://aonkymmz-xrq1-14n8-72rh-wlitcpk5gofd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@150.241.75.198:443?type=tcp&security=reality&sni=lv1.hat.onl&fp=firefox&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44#150.241.75.198:443
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.76.7.238:443?type=tcp&security=reality&sni=cz2.hat.onl&fp=firefox&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44#31.76.7.238:443
+vless://1251856f-1e0a-4c5f-99d3-c2d123edc755@144.31.90.226:443?type=tcp&security=reality&sni=fih2.spliceflowtech.com&fp=firefox&flow=xtls-rprx-vision&pbk=KoIVRyzLxMxYPukmZ7G7u9fe9dtu7Ir_zQ3OCIz_pWc&sid=f1c3e7a9d4b06285#144.31.90.226:443
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.76.60.110:443?type=tcp&security=reality&sni=uk1.hat.onl&fp=firefox&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44#31.76.60.110:443
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@64.188.80.82:443?type=tcp&security=reality&sni=fi1.hat.onl&fp=firefox&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44#64.188.80.82:443
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@103.227.84.162:443?type=tcp&security=reality&sni=de3.hat.onl&fp=chrome&flow=xtls-rprx-vision&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&sid=e8d6c07aa30b81fa#103.227.84.162:443
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@95.85.228.65:443?type=tcp&security=reality&sni=nl1.hat.onl&fp=firefox&flow=xtls-rprx-vision&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876#95.85.228.65:443
+vless://5934cc4f-c17b-41c0-9280-c75eb222f4b7@node-usa.usel.pro:8443?type=xhttp&security=reality&path=/assets/api&sni=magoo.cykotix.com&fp=chrome&pbk=O_13gTb5W88d_u8W22JYm15-Ns6eAFg7wSAWpPVFgHQ#node-usa.usel.pro:8443
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?type=grpc&security=reality&sni=files.noneok.com&fp=firefox&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sid=d3b394558cfe0266#files.noneok.com:443
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#195.133.73.65:443
+trojan://hzhu5rof-c7he-t7x6-4shl-wa21bfk6pbon@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vy546y7t-tfdb-e659-ex36-ztirmkfahzss@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

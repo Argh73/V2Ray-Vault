@@ -1,6 +1,6 @@
-trojan://w5juismr-ggnj-uj2w-i82c-pk17y5m11bfu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/14 | 05:28
-trojan://n10w0fn0-ao5y-7yr3-k3f8-e7peorz42gk1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://iizxnsv8-2to7-zi36-fqp3-1im3otsud93p@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://30raw75f-pgyz-is3z-d42t-fjttfp52ab6y@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/14 | 12:50
+trojan://7fd5moup-trem-10i5-sjvl-02nio78f2hz3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://w3uwt1jf-h5sz-5yax-ydai-oklaxs8k4wip@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#switcher-nick-croquet.freesocks.work:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#switcher-nick-croquet.freesocks.work:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#switcher-nick-croquet.freesocks.work:443
@@ -21,6 +21,9 @@ trojan://MiTiVPN@199.232.78.101:443?sni=ssl.fastly.com&peer=ssl.fastly.com&secur
 trojan://humanity@216.24.57.7:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#216.24.57.7:443
 trojan://jL4WNmAca4@91.107.249.32:30141?sni=play.google.com&peer=play.google.com&security=reality#91.107.249.32:30141
 trojan://humanity@130.250.137.171:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#130.250.137.171:443
+trojan://MiTiVPN@199.232.78.101:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.101:443
+trojan://MiTiVPN@151.101.56.101:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.101:443
+trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
 trojan://MiTiVPN@199.232.78.101:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.101:443
 trojan://MiTiVPN@151.101.56.101:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.101:443
 trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
@@ -102,6 +105,10 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.13.100:22224?type=tcp&securi
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.13.100:22223?type=tcp&security=none#15.236.13.100:22223
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.13.100:22222?type=tcp&security=none#15.236.13.100:22222
 vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?type=grpc&security=none#104.143.223.217:2085
+vless://0d4fd99b-06ae-4ee2-fee2-fda93a9434f1@a2.arshia-nova.ir:443?type=ws&security=tls&path=/&sni=ssl.fastly.com&fp=firefox#a2.arshia-nova.ir:443
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?type=xhttp&security=tls&path=/kavir&sni=dey.lnmarketplace.net&fp=firefox#dey.lnmarketplace.net:443
+vless://XpnTeam-23@199.232.78.170:443?type=ws&security=tls&path=/&sni=ssl.fastly.com&fp=chrome#199.232.78.170:443
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.22.53:22222?type=tcp&security=none#35.181.22.53:22222
 vless://0d4fd99b-06ae-4ee2-fee2-fda93a9434f1@a2.arshia-nova.ir:443?type=ws&security=tls&path=/&sni=ssl.fastly.com&fp=firefox#a2.arshia-nova.ir:443
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?type=xhttp&security=tls&path=/kavir&sni=dey.lnmarketplace.net&fp=firefox#dey.lnmarketplace.net:443
 vless://XpnTeam-23@199.232.78.170:443?type=ws&security=tls&path=/&sni=ssl.fastly.com&fp=chrome#199.232.78.170:443
@@ -211,8 +218,12 @@ vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:8443?type=grpc&securi
 vless://a71ad164-3b29-4dbe-aa66-24d095ca7b6d@app-ss-97.deep-aispb-analytics.com:443?type=tcp&security=reality&sni=assets-ss-97.deep-aispb-analytics.com&fp=randomized&flow=xtls-rprx-vision&pbk=ie82DDS-JoUrtvRfEWWOdcp2cEqs6v0-t2QFw3v7qiE&sid=e3f7fec3cfb3a806#app-ss-97.deep-aispb-analytics.com:443
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?type=xhttp&security=reality&path=/&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28#170.168.99.8:443
 vless://624208cf-54e0-4341-823b-1bee6595fce9@s98.cdn.tbotapi.ru:443?type=tcp&security=reality&sni=s98.cdn.tbotapi.ru&fp=firefox&flow=xtls-rprx-vision&pbk=bBTka5j8aqNSD5hl8X0YUhwYH04IrPIaeKUFkijUllg#s98.cdn.tbotapi.ru:443
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:8443?type=grpc&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk#104.245.242.8:8443
+vless://a71ad164-3b29-4dbe-aa66-24d095ca7b6d@app-ss-97.deep-aispb-analytics.com:443?type=tcp&security=reality&sni=assets-ss-97.deep-aispb-analytics.com&fp=randomized&flow=xtls-rprx-vision&pbk=ie82DDS-JoUrtvRfEWWOdcp2cEqs6v0-t2QFw3v7qiE&sid=e3f7fec3cfb3a806#app-ss-97.deep-aispb-analytics.com:443
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?type=xhttp&security=reality&path=/&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28#170.168.99.8:443
+vless://624208cf-54e0-4341-823b-1bee6595fce9@s98.cdn.tbotapi.ru:443?type=tcp&security=reality&sni=s98.cdn.tbotapi.ru&fp=firefox&flow=xtls-rprx-vision&pbk=bBTka5j8aqNSD5hl8X0YUhwYH04IrPIaeKUFkijUllg#s98.cdn.tbotapi.ru:443
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&insecure=0&obfs=salamander#162.249.125.133:443
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?sni=ru1.sferavpn.pro&insecure=0&obfs=salamander#144.31.49.138:443
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?sni=nl1.sferavpn.pro&insecure=0&obfs=salamander#2.27.249.79:443
-trojan://rgsxnx1g-6f96-lpko-xjm4-xys9psjycf3m@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://gfn98fok-qtxv-y6wf-bbr2-q607kihhmyd5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://kxlwxk6j-l5xz-kkme-1seh-wqth2unw8yh8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://uf8j741g-w4ct-9ky1-6ys7-q8k6wuhxnxab@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
