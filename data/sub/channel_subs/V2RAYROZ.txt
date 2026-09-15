@@ -1,6 +1,6 @@
-trojan://is6k1kzk-2j9e-bu1l-x4hx-qb8elxmynz9f@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/15 | 05:36
-trojan://vo3e4alh-53jh-qfza-w3vz-2dawh4e3od8h@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://sic017qe-0dvs-rt6j-y2i5-lbkrwnx1n3rb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://pzfkpso5-5rgy-wepq-0fy8-vlu0cudqj8h6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/15 | 12:32
+trojan://kyntkv5p-ctrh-e3fr-tswl-r5uspudymnge@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jvat9c9n-o026-1sj9-s90e-1g70zbxgupl0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUEFaWE9Vcm9hcmRIVTly@98.71.73.147:443#98.71.73.147:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUEFaWE9Vcm9hcmRIVTly@98.71.73.147:443#98.71.73.147:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUEFaWE9Vcm9hcmRIVTly@98.71.73.147:443#98.71.73.147:443
@@ -34,6 +34,12 @@ vless://Channel%3Atelegram%3ATurboConfigs@61.245.11.28:9090?type=tcp&security=no
 vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@140.82.34.114:25585?type=tcp&security=none#140.82.34.114:25585
 vless://Channel%3Atelegram%3ATurboConfigs@61.245.11.28:9090?type=tcp&security=none#61.245.11.28:9090
 vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@140.82.34.114:25585?type=tcp&security=none#140.82.34.114:25585
+vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?type=tcp&security=reality&sni=play.google.com&fp=random&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#51.38.70.192:443
+vless://45bbee73-a96e-4275-adea-6c298cd4412a@xray1-direct-mci1-fs-ce.freesocks.work:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI#xray1-direct-mci1-fs-ce.freesocks.work:443
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
+vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?type=tcp&security=reality&sni=play.google.com&fp=random&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#51.38.70.192:443
+vless://45bbee73-a96e-4275-adea-6c298cd4412a@xray1-direct-mci1-fs-ce.freesocks.work:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI#xray1-direct-mci1-fs-ce.freesocks.work:443
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:8443?type=grpc&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk#104.245.242.8:8443
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:8443?type=grpc&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk#104.245.242.8:8443
 vless://a71ad164-3b29-4dbe-aa66-24d095ca7b6d@app-ss-97.deep-aispb-analytics.com:443?type=tcp&security=reality&sni=assets-ss-97.deep-aispb-analytics.com&fp=randomized&flow=xtls-rprx-vision&pbk=ie82DDS-JoUrtvRfEWWOdcp2cEqs6v0-t2QFw3v7qiE&sid=e3f7fec3cfb3a806#app-ss-97.deep-aispb-analytics.com:443
@@ -44,5 +50,5 @@ vless://fa87edcc-4751-4d28-b53b-3abf7bee7ece@lp.mtcmicserver.ir:8080?type=grpc&s
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-1.starsping.com:443?type=xhttp&security=reality&path=/&sni=play.google.com&fp=edge&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&sid=a88550765b9956ee#de-1.starsping.com:443
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-1.starsping.com:443?type=xhttp&security=reality&path=/&sni=play.google.com&fp=edge&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&sid=a88550765b9956ee#de-1.starsping.com:443
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-1.starsping.com:443?type=xhttp&security=reality&path=/&sni=play.google.com&fp=edge&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&sid=a88550765b9956ee#de-1.starsping.com:443
-trojan://jqpo45ta-gllv-jvco-k6gi-a9cbdb4a98su@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://oao2yurs-ikip-4l2o-hnj4-vv2aozyklam2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8nxxegx6-na61-b17j-eaqa-vgn4l910ykrh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://473nxj5o-7dfx-kwg4-qajb-a5ulwb5tknq4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

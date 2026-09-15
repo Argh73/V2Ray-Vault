@@ -1,6 +1,6 @@
-trojan://rc1gsezx-4hlx-y7f0-w9n8-8y5plpggmwu9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/15 | 05:36
-trojan://ctkfqt8l-xtz1-ops6-o11i-gvm61yqor9jr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6hi9qhz9-euk3-z6da-75bj-g3cjlq9gyq30@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://yfwyp90w-ni74-tlry-u9v9-q2i6zj9dtrwg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/15 | 12:32
+trojan://c4dps12v-ag65-esn0-ojdr-n55u9dhi7yog@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bruhpfgr-z2n0-3zve-l6sw-tworad3ctkak@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://MiTiVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
 trojan://MiTiVPN@151.101.56.7:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.7:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzMwXHVkODM1XHVkZGRkXHVkODM1XHVkZGZjXHVkODM1XHVkZGY2XHVkODM1XHVkZGZiIFx1MjdhMCBAdjJyYXltZWxsaWlpXHUyNzMwIiwiYWRkIjoiU25hcHAuaXIiLCJwb3J0IjoyMDgyLCJpZCI6IjhhMjc3MzU2LWRiZDItNDQ5Mi1iOTYxLWM3NjBiN2NmM2RkMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvbmV3In0
@@ -21,7 +21,8 @@ vless://88b44962-7f99-4846-9113-6b0624b5a6a4@151.101.56.6:443?type=ws&security=t
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?type=ws&security=tls&path=/&sni=ssl.fastly.com&fp=firefox#k2.cloud--vpn.site:443
 vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?type=tcp&security=none#140.82.34.114:25585
 vless://Channel%3Atelegram%3ATurboConfigs@61.245.11.28:9090?type=tcp&security=none#61.245.11.28:9090
-vless://b9cfac77-f765-4a35-8d20-77f4831f4f77@176.65.151.67:25188?type=grpc&security=none#176.65.151.67:25188
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.133:443?type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&sni=static.lotussec.com&fp=firefox#179.61.138.133:443
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&fp=chrome#static.lotussec.com:443
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?type=tcp&security=reality&sni=apiv13.betust.net&fp=firefox&flow=xtls-rprx-vision&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5#sv13.betust.net:443
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#195.133.73.65:443
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=ios&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
@@ -30,5 +31,5 @@ vless://624208cf-54e0-4341-823b-1bee6595fce9@upload.tbotapi.ru:443?type=tcp&secu
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#195.133.73.65:443
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?type=tcp&security=reality&sni=anyfile2file.com&fp=chrome&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#195.133.73.65:443
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=ios&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
-trojan://8ac8o5kx-oshn-pwca-ifyx-0ef6gortby11@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3n4j8v7l-r0bs-z65d-k2s6-eii2pd6j52ab@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8vu4433u-h74e-us03-334v-kc9ma45ry100@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://l9o4opfs-cxgj-xmu0-wiov-i5sc2m3yj75f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
