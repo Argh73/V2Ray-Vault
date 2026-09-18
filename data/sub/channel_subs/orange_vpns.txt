@@ -1,6 +1,6 @@
-trojan://t9csn2lp-3sbq-hwq6-z3b0-8qmewlceq5uy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/18 | 05:19
-trojan://rinc4tf7-m9gf-g5pb-9ivv-jm02mbdrmiko@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://sexrbip9-zmbf-8764-466y-rn8f9jjeh28r@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://q5vs18nc-3vmb-0qle-tnj0-w5r64ppem7h6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/18 | 12:04
+trojan://5qy78bvi-scv3-jzgb-ian6-riaewcr7smnd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qyprhjkg-xad6-2bkt-s7nz-36b18pg9u05x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWUdsV1lnZ0I0QWtrNkhQ@4.168.198.18:443#4.168.198.18:443
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmFDdHBlTWlldEdzSlk1MGg2akRXNnc9PQ@dopr.rehan-iogsar.ir:4680#dopr.rehan-iogsar.ir:4680
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MFlmZjY3anhkM3pYWTln@20.87.3.84:443#20.87.3.84:443
@@ -103,6 +103,8 @@ vless://Tel%3Aarchivd_android@65.109.193.102:9090?type=tcp&security=none#65.109.
 vless://ea36bacb-7d11-4c2c-8998-f3ffd4cafd66@gamitgr.vpxpp.ir:1819?type=tcp&security=none#gamitgr.vpxpp.ir:1819
 vless://b905f8bd-6f72-4aa0-b51a-3762c7cfaf99@49.13.19.156:28116?type=tcp&security=none#49.13.19.156:28116
 vless://a9bfa128-03b1-4a86-ac0a-3ad127e4c1c0@66.33.22.226:26040?type=ws&security=none&path=/#66.33.22.226:26040
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22223?type=tcp&security=none#13.37.81.71:22223
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?type=tcp&security=none#158.101.216.158:62145
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22223?type=tcp&security=none#13.37.81.71:22223
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?type=tcp&security=none#158.101.216.158:62145
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@195.123.226.22:443?type=tcp&security=reality&sni=bg1.hat.onl&fp=firefox&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44#195.123.226.22:443
@@ -212,6 +214,17 @@ vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?type=xhttp&securi
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.6:443?type=xhttp&security=reality&path=/&sni=www.hp.com&fp=chrome&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo#104.245.240.6:443
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?type=xhttp&security=reality&path=/&sni=cdn.steamstatic.com&fp=chrome&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0#104.245.240.4:443
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?type=xhttp&security=reality&path=/&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28#104.245.240.4:443
+vless://777b9611-546c-483f-83a1-d24adb875dd8@145.63.128.156:25482?type=tcp&security=reality&sni=play-apps-features.googleusercontent.com&fp=firefox&pbk=U3BOgDBpBXBP4PXKdRY9hLyudaEIT3Da2gR5LNQFtRk&sid=c0da#145.63.128.156:25482
+vless://ebf554d3-3b67-5392-758d-e118fb10f02c@209.38.34.152:8039?type=tcp&security=reality&sni=play-apps-features.googleusercontent.com&fp=ios&flow=xtls-rprx-vision&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459#209.38.34.152:8039
+vless://25fbd2b5-3263-4bae-a7e5-a2bd4b679424@188.137.251.183:51053?type=tcp&security=reality&sni=play-apps-features.googleusercontent.com&fp=firefox&pbk=uRsgB9Pp5QwwMS7cmv6KSUVSS0Iz0QAXrI6qQaZUTAI&sid=4feec2#188.137.251.183:51053
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.6:443?type=xhttp&security=reality&path=/&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#104.245.240.6:443
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@45.88.13.5:8443?type=grpc&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk#45.88.13.5:8443
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@130.49.77.6:443?type=xhttp&security=reality&path=/&sni=download.nvidia.com&fp=chrome&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM#130.49.77.6:443
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@130.49.77.6:8443?type=grpc&security=reality&sni=www.philips.com&fp=chrome&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ#130.49.77.6:8443
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?type=xhttp&security=reality&path=/&sni=download.nvidia.com&fp=chrome&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU#104.245.240.4:443
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.6:443?type=xhttp&security=reality&path=/&sni=www.hp.com&fp=chrome&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo#104.245.240.6:443
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?type=xhttp&security=reality&path=/&sni=cdn.steamstatic.com&fp=chrome&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0#104.245.240.4:443
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?type=xhttp&security=reality&path=/&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28#104.245.240.4:443
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&insecure=0&obfs=salamander#2.27.59.206:443
-trojan://r14rikfj-pvl4-ck7x-nzc2-irknepe3pwtu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://busrfa1x-i3m6-lez8-p8ax-zlsnxr4ssoq3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://b9ps9f3o-66o7-8e0j-mbhe-w6kgod0dq7tw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://9zia600z-a3zc-mf4h-1npu-cy2prrcoe8mr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
