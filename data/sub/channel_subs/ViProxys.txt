@@ -1,6 +1,6 @@
-trojan://5rpyrmlr-9wor-3mbe-eoa2-ew31hc3v66kz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/22 | 02:25
-trojan://7bsid0p3-23di-og2w-vnu7-e5o17mkonh9i@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://867glux8-1dvl-i9ie-ozwa-ok0stu9lb38k@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://bnr5e7zp-2dsh-21q7-eum9-0vqhjf5y1jdz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/22 | 05:35
+trojan://fsowt2x7-20kz-907m-jdea-93gee15z9a5y@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://sgdmic92-e4i8-jzhc-mn1p-kbeumr7syp0g@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#188.114.98.0:443
 trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#188.114.96.3:443
 trojan://Telegram_healer_config@188.114.96.3:443?sni=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&peer=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&security=tls#188.114.96.3:443
@@ -11,8 +11,7 @@ trojan://MITIVPN@openai.com:443?sni=UsAba-bUbks.App-CloUd.IR&peer=UsAba-bUbks.Ap
 trojan://humanity@www.speedtest.net:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#www.speedtest.net:443
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMTcyLjY0LjgwLjEiLCJwb3J0Ijo4NDQzLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiNzguMTM1Ljc3LjkxIiwicG9ydCI6MjUwMjAsImlkIjoibml0cm9fdGVlYW1AIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.89.41:443?type=ws&security=tls&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&sni=cfvvv-ev1.pages.dev#104.21.89.41:443
-vless://b2593749-691c-428c-9481-14979cba3446@162.159.192.125:443?type=ws&security=tls&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&sni=xi.tbv.ccwu.cc#162.159.192.125:443
+vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiODkuNDEuMTcyLjEwNiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?type=ws&security=tls&path=/?TELEGRAM---?ed=512&sni=cfvvv-ev1.pages.dev#188.114.97.6:443
 vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?type=ws&security=tls&path=/?TELEGRAM--@mtmvpn--?ed=512&sni=cfvvv-ev1.pages.dev#188.114.97.6:443
 vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?type=ws&security=tls&path=/?TELEGRAM--V2ray_confiig?ed=2560&sni=cfvvv-ev1.pages.dev#188.114.97.6:443
@@ -80,5 +79,9 @@ vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:443?type=ws&secur
 vless://f7ed4770-81f4-47a1-9490-8b8cd684c97e@www.visa.com.sg:8880?type=ws&security=none&path=/pyip=ProxyIP.KR.CMLiussss.net#www.visa.com.sg:8880
 vless://530868e7-d788-4595-b2d6-6a40c098164d@themeforest.net:8880?type=ws&security=none&path=/pyip=ProxyIP.JP.CMLiussss.net&fp=chrome#themeforest.net:8880
 vless://3b715892-8610-4fdc-9086-647b36af5443@html.iranpood.com:2086?type=xhttp&security=none&path=/?ed=2082#html.iranpood.com:2086
-trojan://8xlbln0y-1517-xz8q-posx-1nuno5a1o6vd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://j6jb12qx-haaa-5htc-rbw4-o8f923yw2td2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://bd8c736e-cae1-43d7-b573-9672e6ca4989@188.114.97.6:443?type=ws&security=tls&path=/vl/zXLTmz3hE3szn64f?ed=2560&sni=l0n0qgkdttu061g57fhqzbet333s4t.ade-1004.workers.dev&fp=unsafe#188.114.97.6:443
+vless://8ccb3a94-9e3c-45d0-a280-850faea6bbff@openai.com:443?type=ws&security=tls&path=/vl/EpnESUGGdoM40CHmsDT?ed#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=2560&sni=fdjl8sdmc774ru70b3a45lv4w8.akbar1sale6.workers.dev&fp=chrome#openai.com:443
+vless://737678dc-cc15-4643-85a4-ca9359df1aa4@patient-moon-c61f.ggfsa55.workers.dev:443?type=ws&security=tls&path=/&sni=patient-moon-c61f.ggfsa55.workers.dev&fp=chrome#patient-moon-c61f.ggfsa55.workers.dev:443
+vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443?type=ws&security=tls&path=/&sni=ssl.fastly.com&fp=firefox#k2.cloud--vpn.site:443
+trojan://2ywvcfow-fgtd-gd16-8nwa-o4trvmbyavak@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://c1837rau-03r5-urnf-utlk-1np92j0en5sk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
