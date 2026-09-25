@@ -1,6 +1,6 @@
-trojan://exzu9z05-2bwt-4ivr-cn7a-v2pkxi9yk4gh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/25 | 23:24
-trojan://4dipm6kx-o2mt-7fh6-o370-ox5gh6ja74j3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kobh6k9w-kc6q-7w1a-i4a2-n9z8jtgukf9q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://9iak6b4e-wz0b-bjg8-7w2l-fixj73f8lzcq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/26 | 02:24
+trojan://e95yn8sz-ywkf-h9e0-ghv5-e8860sp0chan@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://b5ijuchy-8rh6-tv4h-0rm7-yddypnikc379@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3bVZZZmQ5VXhJNUw1N3p1dHBKTHh1b3RES0J2aHJrMU04RW51VDZxbE4wPQ@94.130.68.139:2052#94.130.68.139:2052
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#188.41.249.20:1080
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#185.226.172.8:8008
@@ -28,10 +28,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiOTMuMTE0Ljk4LjIyMSIsInBvcnQi
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMTg4LjExNC45Ni4xOSIsInBvcnQiOjgwLCJpZCI6ImFlZDg4ZTc5LTU3NjItNGQyZi04NmZhLWY0MzhmMzJhNzY1NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMTg4LjExNC45Ni4xOSIsInBvcnQiOjgwLCJpZCI6ImFlZDg4ZTc5LTU3NjItNGQyZi04NmZhLWY0MzhmMzJhNzY1NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMTAzLjIxNS4yMTguMTU4IiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://b7483fbf-94f6-4d6c-add6-ec3df4fb8015@172.67.216.37:8443?type=ws&security=tls&path=/assets&sni=swz.yandex-api.store&fp=safari#172.67.216.37:8443
-vless://51ff8dc9-6bc3-4d09-bf45-5def89e910eb@188.114.97.3:2052?type=httpupgrade&security=none&path=/wss#188.114.97.3:2052
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.108:2096?type=ws&security=tls&path=/free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=chrome#91.193.58.108:2096
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?type=ws&security=none&path=/#support.cloudflare.com:2095
 vless://c6e7caaf-6161-4f65-a991-dd4db004e6d8@psc-6.weedly.top:2095?type=httpupgrade&security=none&path=/#psc-6.weedly.top:2095
 vless://c6e7caaf-6161-4f65-a991-dd4db004e6d8@psc-4.weedly.top:2095?type=httpupgrade&security=none&path=/#psc-4.weedly.top:2095
 vless://c6e7caaf-6161-4f65-a991-dd4db004e6d8@4bfefcc22a8cef60.ironly4l.ir:8080?type=ws&security=none&path=/#4bfefcc22a8cef60.ironly4l.ir:8080
@@ -91,7 +87,11 @@ vless://52aa2c5e-91f7-438a-928e-c0d90fd11498@104.24.216.16:8443?type=ws&security
 vless://52aa2c5e-91f7-438a-928e-c0d90fd11498@104.24.216.16:8443?type=ws&security=tls&path=/ws23&sni=chatgpt.mahjoubsteelgroup.com&fp=random#104.24.216.16:8443
 vless://39557015-2182-4f6c-ac6e-94500cf48bcd@141.101.113.244:2087?type=grpc&security=tls&sni=suyu.ispeeshow.org#141.101.113.244:2087
 vless://6a732af1-21d7-4314-ba02-7bacdb7c0003@93.114.98.221:8443?type=tcp&security=none&path=/#93.114.98.221:8443
-vless://9b4792ad-187a-4775-bf4f-9b17b0a774ce@194.41.112.152:8443?type=tcp&security=reality&sni=mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=TNsQJHoX2M2u07a6oEPb3tY9U08Aph4Qvdk76dAZdio&sid=82ed5803a8047a3e#194.41.112.152:8443
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.21.70.21:8080?type=ws&security=none&path=/?ed=2560security=tls#104.21.70.21:8080
+vless://8e8e2034-33eb-4ccc-938f-ba86d877c449@188.114.97.6:443?type=ws&security=tls&path=/pyip=ProxyIP.SG.CMLiussss.net&sni=icy-hall-8013.386-58c.workers.dev#188.114.97.6:443
+vless://83b4af70-376e-427c-8c11-a025bec6b085@188.114.97.6:443?type=ws&security=tls&path=/cdn/99294c014f2c7791?ed=2056&sni=fserver-worker-001.mapleridgeway.top&fp=unsafe#188.114.97.6:443
+vless://4b87c68d-762f-4969-9680-36bfb9daa858@172.67.221.237:2052?type=httpupgrade&security=none&path=/wss#172.67.221.237:2052
+vless://52aa2c5e-91f7-438a-928e-c0d90fd11498@104.24.216.16:8443?type=ws&security=tls&path=/ws23&sni=chatgpt.mahjoubsteelgroup.com&fp=random#104.24.216.16:8443
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?type=grpc&security=reality&sni=rs4.univesalsrv.com&fp=firefox&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f#150.40.126.22:443
 vless://c68071d5-6896-4bf8-b6ee-7c9aa7a9debf@87.120.106.11:8443?type=tcp&security=reality&sni=ai.android&fp=edge&flow=xtls-rprx-vision&pbk=8EpTbZeAhD-q8jmfctC_lCDZL9a15T0wvJdbVw6xxAA&sid=d5524175c1fb9c50#87.120.106.11:8443
 vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@131.123.42.16:443?type=tcp&security=reality&sni=bolgarka.drop0chka.work&fp=firefox&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#131.123.42.16:443
@@ -100,5 +100,5 @@ vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@bolgarka.drop0chka.work:443?type=tc
 vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@hapatronik.vodniki.monster:443?type=tcp&security=reality&fp=random&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#hapatronik.vodniki.monster:443
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?type=grpc&security=reality&sni=rs1.univesalsrv.com&fp=firefox&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7#150.40.126.18:443
 vless://33e40dec-442b-46b2-b9b3-be1848ce7df8@206.1.98.86:18443?type=grpc&security=reality&sni=www.bing.com&fp=chrome&pbk=bYVNm1Huc5MMhVUBDAO5O7O7mjZXjxESWUQzVPIoqjM&sid=ca#206.1.98.86:18443
-trojan://nb0ncvoa-liej-j0qw-shbj-mli90uunptse@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://b4v92gvw-08fm-bj1q-ijjm-yz8if1kcs6cg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://qsmhy5d9-el6k-2von-t9ts-x9ulcy06j0wk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://10veimp6-7euf-vd31-uo8k-tqsr8a8j0ksu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
