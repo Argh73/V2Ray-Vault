@@ -1,6 +1,6 @@
-trojan://exz6hnsi-zyzy-9eti-2bba-3q5j5kprjsol@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/25 | 12:40
-trojan://ozhsmpx7-8q8b-vn2i-r29u-92dbpwtx5xkm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hn24vf0i-3bmv-cr4g-ar9e-gw52nlujli7m@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://53qtpvxq-9hlb-zydx-5n1g-mu78ydh0ullw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/25 | 19:32
+trojan://vxxcgyn8-icyx-b38p-ubhd-k8q5vc9cw45b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://8xhrqj88-me34-pnys-v6gt-lm8e0ama1unh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcnMyZTlh@54.36.174.140:443#54.36.174.140:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#156.146.38.170:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#132.243.175.144:8388
@@ -13,8 +13,10 @@ trojan://MiTIVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&secur
 trojan://MiTIVPN@199.232.78.101:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.101:443
 trojan://19a98e32a1149952a988e1e915306e07@87.58.220.77:8443?sni=yandex.ru&peer=yandex.ru&security=reality#87.58.220.77:8443
 trojan://MItIVPN@199.232.78.160:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.160:443
+trojan://MiTiVPN@151.101.56.7:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#151.101.56.7:443
 vmess://eyJ2IjoiMiIsInBzIjoiQE91dGxpbmVSZWxlYXNlZEtleSIsImFkZCI6ImtlbnRzcGFyay5vcmciLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJrZW50c3Bhcmsub3JnIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIiwic25pIjoia2VudHNwYXJrLm9yZyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQE91dGxpbmVSZWxlYXNlZEtleSIsImFkZCI6InBhaG9iYWMub3JnIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJwYWhvYmFjLm9yZyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InBhaG9iYWMub3JnIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQE91dGxpbmVSZWxlYXNlZEtleSIsImFkZCI6Im15Z3B0YWdlbnQub3JnIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibXlncHRhZ2VudC5vcmciLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJteWdwdGFnZW50Lm9yZyJ9
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?type=ws&security=none&path=/vless-test#131.123.37.199:8081
 vless://2f2ae482-5a3e-455e-aad6-4ac28a82f64f@212.80.7.129:6215?type=grpc&security=tls&sni=cdn.astranet.ignorelist.com#212.80.7.129:6215
 vless://b5d6221d-e3ad-4453-b5c6-8bf7ccaa7aa5@144.31.159.86:443?type=tcp&security=tls&sni=de3.duck-proxy.com&fp=chrome&flow=xtls-rprx-vision#144.31.159.86:443
@@ -44,6 +46,7 @@ hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quatt
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080?sni=hopp-romania-new.roxa.org&insecure=1#85.204.107.174:8080
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443?sni=admin.wwwinternetvideo.click&insecure=1#144.31.49.47:443
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?sni=nl01ntrhy01.tcp-reset-club.net&insecure=1#nl01ntrhy01.tcp-reset-club.net:443
+hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.237:8443?sni=hopp-swizland-new.mysynology.net&insecure=0#82.38.64.237:8443
 tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?sni=sg2-8sb.6121999.dpdns.org&congestion_control=bbr&udp_relay_mode=bbr&alpn=h3#146.235.16.130:33738
-trojan://utbvbnkm-6ll0-woau-glfy-7y92qhgzne4n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://l2kbo6zz-akul-db5s-je8m-i2wdcqzs8ekx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://x2kbm2ep-j333-jhjt-dj9d-ph41r4iql6go@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://sjs20pnx-d9j5-v7sc-mpvg-71rcdzb45ug4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
