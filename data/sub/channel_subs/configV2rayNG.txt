@@ -1,6 +1,7 @@
-trojan://k91g9eo9-2i9o-7gjf-3dyg-63wdfn7t24la@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/01 | 06:14
-trojan://cvprj4f7-81zg-57ov-g2oh-752lwqm3rf7x@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://t26j2rrb-2sln-8ut3-nrxv-9g9ruht6eut7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://dpx54738-9s6f-7rze-4u6o-xn6ku6lvbsyd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/01 | 14:02
+trojan://5rlxon24-84th-2h2r-eqbt-yec3hs76350p@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6p0wpcb8-ympd-28fc-zre1-bzymp0g0g8dc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnSmU3dW1TdEljazVNaWVn@20.166.59.119:443#20.166.59.119:443
 trojan://mitivpn@199.232.78.188:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.188:443
 trojan://mitivpn@199.232.78.170:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.170:443
 trojan://mitivpn@199.232.78.188:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.188:443
@@ -8,6 +9,7 @@ trojan://mitivpn@199.232.78.188:443?sni=ssl.fastly.com&peer=ssl.fastly.com&secur
 trojan://humanity@www.speedtest.net:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#www.speedtest.net:443
 trojan://mitivpn@199.232.78.101:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.101:443
 trojan://humanity@188.114.97.6:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#188.114.97.6:443
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNlXHVkZWQyQ29uZmlnVjJSYXlORyIsImFkZCI6IjIwMDE6YmM4OjMyZDc6MWE5OjoyIiwicG9ydCI6MTg5MDEsImlkIjoiM2E5NjZkMjAtN2I5ZC00OGNjLWJhMmMtOGQzODE2MWI2ZDNhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5nIn0
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?type=ws&security=tls&path=/fp=chrome?ed#?ed=512&sni=edgetunnel-4uw.pages.dev#188.114.97.6:443
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?type=ws&security=tls&sni=edgetunnel-4uw.pages.dev#188.114.97.6:443
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@188.114.97.6:443?type=ws&security=tls&sni=shephe.dpdns.org#188.114.97.6:443
@@ -24,5 +26,6 @@ vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?type=ws&security=t
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?type=ws&security=tls&path=/&sni=edgetunnel-4uw.pages.dev#188.114.97.6:443
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@162.159.254.201:443?type=ws&security=tls&path=/&sni=edgetunnel-4uw.pages.dev#162.159.254.201:443
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.241.226:9891?type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb#176.108.241.226:9891
-trojan://d16zhiao-tdq4-nrex-sirv-ut1m76bmwlxq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://dmneksob-wisz-ltd4-qjkj-hgvf8qsyk2ah@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://5469c1d9-e949-4553-a146-ac3ad363a705@91.233.121.32:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=Ez3w5uLzFlysA6Owr7SguTK5kzlIFZ09TgalzUHGAR4&sid=9f51e98fb874846b#91.233.121.32:443
+trojan://4icq4oyv-mbnf-iupc-37lv-fq0cqgwni41n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://8262d4es-jieu-5quq-7d6t-sk12e45evjyz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
