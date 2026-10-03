@@ -1,9 +1,11 @@
-trojan://oa0cjuzi-b05f-56th-qlwk-onosp3x1dyv7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/03 | 18:50
-trojan://n22hyr6x-csjv-3rgq-mtvk-bfyk0isinpsr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9nzg0nam-tlxk-bfa5-92ru-162svd7vrold@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://zqv45v80-nhdl-xin5-e2xw-qxcb8qsskgag@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/03 | 22:23
+trojan://sft5gppz-5ipj-f84u-vk4g-mdorz2214ipy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://f6rpxp5r-3vw7-pqnb-dcal-0zm0ccauxdp1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#74.234.59.81:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#74.234.59.81:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYmt5ckt2T3RmU2QyeFFi@20.164.220.189:443#20.164.220.189:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcjNSTEhKTG5nYnBsUFdk@20.238.125.195:443#20.238.125.195:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQnc1YjZFOW5vSG9sQmRB@4.168.234.190:443#4.168.234.190:443
 trojan://humanity@172.67.149.60:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#172.67.149.60:443
 trojan://humanity@172.67.149.60:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#172.67.149.60:443
 trojan://humanity@www.speedtest.net:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#www.speedtest.net:443
@@ -28,11 +30,13 @@ vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?type=ws&security
 vless://7fa9cb5f-532a-4fc7-b903-381a125bbb8a@fast.jkerm.com:443?type=ws&security=tls&path=/&sni=ssl.fastly.com#fast.jkerm.com:443
 vless://26becb32-3d57-4b59-9252-3b046768b1ea@151.101.215.97:443?type=xhttp&security=tls&path=/&sni=accounts.fastly.com#151.101.215.97:443
 vless://26becb32-3d57-4b59-9252-3b046768b1ea@151.101.215.97:443?type=xhttp&security=tls&path=/&sni=accounts.fastly.com#151.101.215.97:443
+vless://3d892ebf-8a37-5801-84f8-a8199bc2fc0f@69.46.46.91:443?type=ws&security=tls&path=/ws/Marda&sni=app-3f588c-eb6ee5-production.up.railway.app&fp=chrome#69.46.46.91:443
+vless://3d892ebf-8a37-5801-84f8-a8199bc2fc0f@69.46.46.02:443?type=ws&security=tls&path=/ws/Marda&sni=app-3f588c-eb6ee5-production.up.railway.app&fp=chrome#69.46.46.02:443
 vless://8ec1a004-34f5-4c2b-88f5-42c27c887c04@144.31.203.152:443?type=tcp&security=reality&sni=account.amd.com&fp=safari&flow=xtls-rprx-vision&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#144.31.203.152:443
 vless://9c8c6e9c-427d-4096-9f7d-a5964f566482@195.189.98.4:443?type=tcp&security=reality&sni=fastne.incrediblespeed.online&fp=safari&flow=xtls-rprx-vision&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&sid=dda29ff7e5832d15#195.189.98.4:443
 vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@176.98.176.86:9543?type=tcp&security=reality&sni=storage.yandexcloud.net&fp=ios&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf#176.98.176.86:9543
 vless://06765620-7fd9-4927-bf74-fa4b551f26b7@95.85.252.223:8443?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=4IFrK2mEJSNBJEqyiWLvPgXGNjV8vK49SxPI0RmheWg#95.85.252.223:8443
 vless://06765620-7fd9-4927-bf74-fa4b551f26b7@95.85.252.223:8443?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=4IFrK2mEJSNBJEqyiWLvPgXGNjV8vK49SxPI0RmheWg#95.85.252.223:8443
 vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@201.7.25.126:24446?type=grpc&security=reality&sni=spry-jolt.cdn.cachefleet.com&fp=random&pbk=esOi15BFVX7pHyci7GQp8_FVlY2EmjSF2-0pPu4lIlk&sid=defeaa98406c7bdf#201.7.25.126:24446
-trojan://8xtc77mv-zrft-zaxt-ms0q-torfa3idjgpv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hyp5uonf-kbnj-d3d3-ae1n-27b8ukmklau1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://s1xos1xg-q6lg-ji5i-g6l2-y6750540avjo@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://riqocwse-ul1l-fst7-aqed-nwyim7y6qb8b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
