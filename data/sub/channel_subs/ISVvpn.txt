@@ -1,7 +1,6 @@
-trojan://uzmhs1zg-mapr-qzb1-4qun-3g8v2mfuui15@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/04 | 06:35
-trojan://gyn9pvdr-f4yo-6eel-g8jj-zs8hh7mwba3e@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ecveefeu-te80-v15i-cpos-q6hqnp7u9hya@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@jgzt1997.qivfelo.ir:1080?sni=maps.google.com&peer=maps.google.com&security=reality#jgzt1997.qivfelo.ir:1080
+trojan://di41czlu-9inr-sn0y-mrw4-lu31ecgbi5u3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/04 | 13:47
+trojan://hm3h5grw-cd57-q4p0-lm34-e8xlbtzbch6j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ax3yn6lw-he0y-5824-1tae-koj0t48uu9ln@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://MiTiVPN@199.232.78.101:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#199.232.78.101:443
 trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@5.75.171.12:1080?sni=maps.google.com&peer=maps.google.com&security=reality#5.75.171.12:1080
 trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#8.47.69.0:443
@@ -24,8 +23,6 @@ vless://cd37aa8e-11c0-45e6-972b-ef13c416dff8@91.107.174.119:8880?type=tcp&securi
 vless://cd37aa8e-11c0-45e6-972b-ef13c416dff8@91.107.174.119:8880?type=tcp&security=none#91.107.174.119:8880
 vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.25.223:1085?type=tcp&security=none#188.245.25.223:1085
 vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@31.77.227.10:52006?type=tcp&security=tls&sni=fr.setlisting.ru&flow=xtls-rprx-vision#31.77.227.10:52006
-vless://9e6b8db1-da80-494f-bad7-7a0451f801a1@5.152.223.193:443?type=tcp&security=reality&sni=strapi.io&fp=firefox&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#5.152.223.193:443
-vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?type=tcp&security=reality&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&sid=85c86a9863#144.31.125.60:443
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?type=tcp&security=reality&sni=anyfile2file.com&fp=ios&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#tgfree.rush-server.com:443
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?type=grpc&security=reality&sni=www.hp.com&fp=chrome&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo#170.168.97.8:8443
 vless://279a8eef-898f-44ef-b4f5-67a494f4b542@77.233.213.106:40443?type=tcp&security=reality&sni=deepl.com&flow=xtls-rprx-vision&pbk=vAG5o6TQvpZAlvDnlyhHEFZBuSgEV_ybQigD_mGKh1M&sid=5b98#77.233.213.106:40443
@@ -43,5 +40,5 @@ vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@slowkd.sadiepinki.com:443?type=tcp&
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@212.46.33.5:443?type=tcp&security=reality&sni=slowkd.sadiepinki.com&fp=firefox&flow=xtls-rprx-vision&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb#212.46.33.5:443
 vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?type=tcp&security=reality&sni=www.akamai.com&flow=xtls-rprx-vision&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ#31.76.249.87:443
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?type=tcp&security=reality&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#169.40.42.74:443
-trojan://ztkpgk61-7pbb-ijoi-23sa-nydemilx0zik@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://eppxoy3x-os3h-yzwb-f8rl-3zv2a75pjdxg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://y9pluesn-nnam-prww-twx9-emqtinlu235c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://u2qovubd-mq2a-kqqi-c2i1-q6ofgjlmugie@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
