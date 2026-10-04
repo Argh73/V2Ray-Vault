@@ -1,10 +1,6 @@
-trojan://08lq19fj-o907-x59q-evjq-94f199bc4duf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/04 | 19:34
-trojan://04yi7lbo-hydx-rm6h-21t5-vwvmcp6s6fad@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://xfgkfw2n-aivr-63kb-hwke-j4bcg83xrkcm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://a9954637-e1d3-6981-e498-98769cd4dd35@69.46.46.21:443?type=ws&security=tls&path=/ws/a9954637-e1d3-6981-e498-98769cd4dd35&sni=polar-canyon-c381-production.up.railway.app&fp=ios#69.46.46.21:443
-vless://f4b06466-4ae3-de15-0852-0e627e1c274e@69.46.46.22:443?type=ws&security=tls&path=/ws/f4b06466-4ae3-de15-0852-0e627e1c274e&sni=coral-prairie-45a8-production.up.railway.app&fp=ios#69.46.46.22:443
-vless://5c3929a3-996a-43e4-fb33-02a52dd2450a@69.46.46.25:443?type=ws&security=tls&path=/ws/5c3929a3-996a-43e4-fb33-02a52dd2450a&sni=violet-compass-ef07-production.up.railway.app&fp=ios#69.46.46.25:443
-vless://3eb1c85a-a0bc-1c6e-bd80-ada5fb05ae48@69.46.46.26:443?type=ws&security=tls&path=/ws/3eb1c85a-a0bc-1c6e-bd80-ada5fb05ae48&sni=cobalt-prairie-172d-production.up.railway.app&fp=ios#69.46.46.26:443
+trojan://71vbw4p6-w279-evxw-mabm-71i13bcva8yo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/05 | 02:06
+trojan://wttbyn9j-ze75-yhup-zum3-lv65gzkpv3p4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://veajefhe-roii-gjcr-x1ri-gjipsvxjf99x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://7a434161-a605-38c0-1aa6-5ff7a879d5b5@69.46.46.21:443?type=ws&security=tls&path=/ws/7a434161-a605-38c0-1aa6-5ff7a879d5b5&sni=willow-ember-a62e-production.up.railway.app&fp=ios#69.46.46.21:443
 vless://fc5888d8-78bf-4501-594f-c6bd1be4f2c8@69.46.46.22:443?type=ws&security=tls&path=/ws/fc5888d8-78bf-4501-594f-c6bd1be4f2c8&sni=coral-current-6039-production.up.railway.app&fp=ios#69.46.46.22:443
 vless://8ff746cc-0264-b1f0-1035-98bf7be3de0e@69.46.46.25:443?type=ws&security=tls&path=/ws/8ff746cc-0264-b1f0-1035-98bf7be3de0e&sni=cobalt-ember-6fbb-production.up.railway.app&fp=ios#69.46.46.25:443
@@ -37,5 +33,9 @@ vless://Default@69.46.46.43:443?type=ws&security=tls&path=/ws/vless/Default?ed=2
 vless://Default@69.46.46.44:443?type=ws&security=tls&path=/ws/vless/Default?ed=2048&sni=ezaccess1-slv-ezaccess1-c507.up.railway.app&fp=chrome#69.46.46.44:443
 vless://Default@69.46.46.45:443?type=ws&security=tls&path=/ws/vless/Default?ed=2048&sni=ezaccess1-slv-ezaccess1-5222.up.railway.app&fp=chrome#69.46.46.45:443
 vless://Default@69.46.46.46:443?type=ws&security=tls&path=/ws/vless/Default?ed=2048&sni=ezaccess1-slv-ezaccess1-810d.up.railway.app&fp=chrome#69.46.46.46:443
-trojan://g0cea38u-06rc-1ulb-y2jj-x2hbtqk6bko2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://yvudjxfx-5ajp-1ekk-rp1a-5qp2x3qbyjqy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://ef6ee78f23c29cffcff543f4cbaa17da@69.46.46.71:443?type=ws&security=tls&path=/ws/ef6ee78f23c29cffcff543f4cbaa17da&sni=sys-ce7a4a-c99e95-production.up.railway.app&fp=chrome#69.46.46.71:443
+vless://5835bd7b3bc966b13e1eaa948b34a15e@69.46.46.71:443?type=ws&security=tls&path=/ws/5835bd7b3bc966b13e1eaa948b34a15e&sni=service-506e2a-186e1c-production.up.railway.app&fp=chrome#69.46.46.71:443
+vless://056cd5bff9841a0649f795bf2290514b@69.46.46.71:443?type=ws&security=tls&path=/ws/056cd5bff9841a0649f795bf2290514b&sni=core-f43180-09c9bf-production.up.railway.app&fp=chrome#69.46.46.71:443
+vless://00301b65f84df8f7e7e5e7735bcd53d2@69.46.46.71:443?type=ws&security=tls&path=/ws/00301b65f84df8f7e7e5e7735bcd53d2&sni=net-a3a68d-9dc8b8-production.up.railway.app&fp=chrome#69.46.46.71:443
+trojan://e7pwjiuo-5cm6-xqk8-rbwi-vg652ihje71z@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vbt3jr3r-8xso-5393-ykaz-ualoo7fr0hlh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
