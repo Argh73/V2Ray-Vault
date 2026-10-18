@@ -1,6 +1,6 @@
-trojan://kc0006h4-uby7-kzf7-hjsl-vnfe0td8fqnq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/18 | 01:20
-trojan://98am1tbr-hjuc-nlko-afh1-m00906s6x3y3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://d10xc2y4-y7ox-7nv1-najl-ieixpcr485ev@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://9wmz5t60-bxxk-1noh-wlwl-gt8jpowz7buo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/18 | 05:17
+trojan://fpnt4rae-0s23-wwah-ce2c-8ruylehf3bwl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ajc2tlvy-9dl2-poar-udmf-8ubmc54r0xkm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://humanity@188.114.97.6:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#188.114.97.6:443
 trojan://humanity@172.67.149.60:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#172.67.149.60:443
 trojan://mitivpn@188.114.97.6:443?sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir&peer=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir&security=tls#188.114.97.6:443
@@ -27,10 +27,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMTA0LjE4LjcuMTM4IiwicG9ydCI6
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMTcyLjY0LjE1NC4xNTAiLCJwb3J0Ijo0NDMsImlkIjoiNWY2NGZhNjUtN2IxNC00OWM1LTk1NGQtYWExNWM2YmZjYWNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMTcyLjY2LjQzLjEiLCJwb3J0Ijo0NDMsImlkIjoiODFkOTNmNjItMTVhMi00OTk0LWFkYjktMGI1ZDkwNmFhYzdlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMTA0LjE3LjE0Ny4yMjIiLCJwb3J0Ijo4MCwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3dzP2VkPTIwNDgifQ
-vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?type=ws&security=tls&path=/downloader&sni=matoride.adaspoloandco.com&fp=chrome#188.114.99.160:8443
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?type=ws&security=tls&path=/Telegram🇨🇳+@WangCai2+/?ed=2560&sni=gaosir.unfeeling.sbs&fp=chrome#159.246.55.253:2096
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?type=tcp&security=none#api.yespanel.ir:57132
-vless://3d5beb81-f9c1-46d7-aa0c-78a9daca4c5a@69.46.46.236:443?type=ws&security=tls&path=/ws/3d5beb81-f9c1-46d7-aa0c-78a9daca4c5a&sni=core-d225e5-df79df-production.up.railway.app&fp=chrome#69.46.46.236:443
 vless://8fba3304-bb4e-418e-868f-b27b33109135@104.21.65.133:80?type=ws&security=none&path=/SvnTeamV2ray?ed=2048#104.21.65.133:80
 vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@45.130.125.69:2096?type=grpc&security=tls&sni=sHort-aCtIon40S8o1J3v9.SaMSUNgOVEnS.Ir&fp=chrome#45.130.125.69:2096
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.42.85:2086?type=ws&security=none&path=/#172.64.42.85:2086
@@ -65,5 +61,5 @@ vless://8036f785-5b3f-4052-9e8d-01ae12d6061c@104.17.171.182:443?type=ws&security
 vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@104.16.107.139:8880?type=ws&security=none&path=/pyip=ProxyIP.US.CMLiussss.net#104.16.107.139:8880
 vless://59dc4549-b454-45f5-bf75-53c06db0459f@194.76.18.253:2082?type=httpupgrade&security=none&path=/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2082Telegram :#194.76.18.253:2082
 vless://7f11d97b-b29c-40bc-abfe-b8a2ad4b7dbb@185.157.217.4:8443?type=tcp&security=reality&sni=play.google.com&fp=random&flow=xtls-rprx-vision&pbk=X44dpyHVDlpzQMouk4RGzREF8OEL1XoPBCf6oY-EsmI&sid=d346e1a7eb724050#185.157.217.4:8443
-trojan://g37smy10-kjqt-m2y7-x93l-anhp7uh7qbje@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6k5pl9oq-0wck-ea8n-i5rk-77sxpx1zvxgs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://yysoxw31-0czx-jsbq-38sa-edprtq23s2ho@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ic0neioh-kxnl-jysf-dkol-bumi2hgjvt1h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
