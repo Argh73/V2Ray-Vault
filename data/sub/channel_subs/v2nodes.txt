@@ -1,7 +1,11 @@
-trojan://zew8bw5g-8trm-oe8u-2fe3-8hs5brie1xm1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/21 | 05:44
-trojan://vhewvbdp-j2u1-6scb-le5o-c4idc6pyt23s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://js5bezow-bslt-8jtk-hbc5-ywsplgycvtm8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?sni=de7.dedushka.top&peer=de7.dedushka.top&security=tls#de7.dedushka.top:443
+trojan://fcsyg1mj-nhf0-ltyy-aq53-gisaplxjzt0t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/21 | 12:28
+trojan://fwj4nea5-bkl2-zkab-71ti-7be7vy1ypu3s@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://z5umzc85-scz1-o9tx-7px3-q46o1ldn52t6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#202.50.253.81:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#202.50.253.36:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#202.50.253.45:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#202.50.253.99:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#202.50.253.72:19999
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&peer=resources.findlocaljobnetworkandbuildcommunityconnections.com&security=tls#resources.findlocaljobnetworkandbuildcommunityconnections.com:443
 trojan://bad06c3525a6eaee1757b34776b83892@4c2d5151.266nets.com:12001?sni=ixigua.com&peer=ixigua.com&security=tls#4c2d5151.266nets.com:12001
 trojan://bad06c3525a6eaee1757b34776b83892@4c2d5151.266nets.com:12019?sni=ixigua.com&peer=ixigua.com&security=tls#4c2d5151.266nets.com:12019
@@ -9,17 +13,13 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommun
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&peer=blog.findlocaljobnetworkandbuildcommunityconnections.com&security=tls#blog.findlocaljobnetworkandbuildcommunityconnections.com:443
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&peer=blog.findlocaljobnetworkandbuildcommunityconnections.com&security=tls#blog.findlocaljobnetworkandbuildcommunityconnections.com:443
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?sni=it1.dedushka.top&peer=it1.dedushka.top&security=tls#it1.dedushka.top:443
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@87.242.117.59:443?type=grpc&security=tls&sni=se1.my-cdn.org&fp=chrome#87.242.117.59:443
-vless://6a9443a2-b756-21f8-0e91-5eacf9a86382@uitestytre-production.up.railway.app:443?type=ws&security=tls&path=/ws/6a9443a2-b756-21f8-0e91-5eacf9a86382&sni=uitestytre-production.up.railway.app&fp=chrome#uitestytre-production.up.railway.app:443
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22222?type=tcp&security=none#13.135.17.74:22222
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?sni=lv1.dedushka.top&peer=lv1.dedushka.top&security=tls#lv1.dedushka.top:443
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@studio.10media.top:443?type=grpc&security=tls&sni=studio.10media.top&fp=chrome#studio.10media.top:443
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?type=tcp&security=none#connect.hondamotor.site:10002
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@de3.brightmetric.trade:443?type=tcp&security=tls&sni=de3.brightmetric.trade&fp=chrome&flow=xtls-rprx-vision-udp443#de3.brightmetric.trade:443
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?type=tcp&security=reality&sni=api.mediapolyana.cc&fp=ios&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#api.mediapolyana.cc:443
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE#hinet1.2yly.com:24215
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@64.188.66.181:443?type=tcp&security=reality&path=/&sni=ge-s-1.pythonmakemigreat.wiki&fp=chrome&flow=xtls-rprx-vision&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2#64.188.66.181:443
 vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-ss-64.ecom-ai-search.com:443?type=tcp&security=reality&sni=assets-ss-64.ecom-ai-search.com&fp=chrome&flow=xtls-rprx-vision&pbk=xXMV-UbVMpP75hZoXS_QSaj_DK1O58mrPIrreudQ71o&sid=294cd0660fde9027#app-ss-64.ecom-ai-search.com:443
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?type=tcp&security=reality&sni=sw.golangwikito.cfd&fp=chrome&flow=xtls-rprx-vision&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&sid=a1037b25dcef6aa7#sw.golangwikito.cfd:443
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47691?type=tcp&security=reality&sni=m.media-amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&sid=2905326a#funagfrdfs.alixxplay.com:47691
-trojan://c5ugzeok-p20r-1oki-roxd-9z7ki2bjwerk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://gjt5matg-cln9-gb0q-4sra-81j19k8zjcwq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://f5pkmosp-4z7r-aej1-z3g2-0v68376440se@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://e733ycfn-2rnv-y2oq-48hf-8omodhdxhuw2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
