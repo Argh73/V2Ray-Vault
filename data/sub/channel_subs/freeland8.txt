@@ -1,9 +1,16 @@
-trojan://0m3zjwy6-36q0-hz52-deqa-k66b0epgvyj5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/29 | 14:01
-trojan://pzqy8vsv-gkwg-p0s3-zjfi-przd2eurn54t@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://nudeiqb9-lkjg-o015-aloa-j4p2vpz26qth@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://5ad9yj9z-63tg-hn2y-k5el-lpnyujxl5aeq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/29 | 21:12
+trojan://oge9v09f-rbjj-fct2-yp9c-ggbotolyfr26@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jdtev3gl-8tqb-er2o-yjq4-jgol3eucwdii@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#82.38.31.11:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#193.29.139.197:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443#82.38.31.170:443
+vless://08abc461-ec08-4bc6-aed2-0dcf408ac053@pp-fx2.firelinkservers.ir:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=firefox#pp-fx2.firelinkservers.ir:443
+vless://08abc461-ec08-4bc6-aed2-0dcf408ac053@pp-fx2.firelinkservers.ir:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=firefox#pp-fx2.firelinkservers.ir:443
+vless://bc6b024b-34ad-4c58-b4bd-12049380d118@pp-fx2.firelinkservers.ir:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=firefox#pp-fx2.firelinkservers.ir:443
+vless://bc6b024b-34ad-4c58-b4bd-12049380d118@pp-fx2.firelinkservers.ir:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=firefox#pp-fx2.firelinkservers.ir:443
+vless://bc6b024b-34ad-4c58-b4bd-12049380d118@pp-fx2.firelinkservers.ir:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=firefox#pp-fx2.firelinkservers.ir:443
+vless://08abc461-ec08-4bc6-aed2-0dcf408ac053@pp-fx2.firelinkservers.ir:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=firefox#pp-fx2.firelinkservers.ir:443
+vless://08abc461-ec08-4bc6-aed2-0dcf408ac053@pp-fx2.firelinkservers.ir:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=firefox#pp-fx2.firelinkservers.ir:443
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?type=tcp&security=reality&sni=rusbid.de&fp=firefox&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM#cz-prg.dontblockmepls.com:2063
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080#95.216.27.15:2053
 vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@2607:5300:205:200::8aeb:8080?type=tcp&security=reality&sni=icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&sid=2b30#2607:5300:205:200::8aeb:8080
@@ -14,5 +21,9 @@ vless://ee82f319-ab92-425d-8e04-28a29f33f670@193.160.141.81:8443?type=tcp&securi
 vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21003?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&sid=eb9539689690d35c#526.150333.xyz:21003
 vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21004?type=tcp&security=reality&sni=www.cloudflare.com&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&sid=2f34703f16523c80#526.150333.xyz:21004
 vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@103.238.227.211:21003?type=tcp&security=reality&sni=www.cloudflare.com&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&sid=eb9539689690d35c#103.238.227.211:21003
-trojan://nu9tvzvu-fjwj-cx9u-89i7-eg1kg47y4h8v@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://alvmswyx-awk1-77r8-wkyn-izpeah300q5x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://08abc461-ec08-4bc6-aed2-0dcf408ac053@x.masterteam.ir:121?type=tcp&security=reality&path=/shop#x.masterteam.ir:121
+vless://bc6b024b-34ad-4c58-b4bd-12049380d118@n.masterteam.ir:26146?type=xhttp&security=reality&path=/shop&sni=play.google.com&fp=firefox&pbk=CsTyV5ODtjhvPGWth5hSBH0L-VCWWWZb6zf6YGiAm28&sid=f0e8eabd82b27804#n.masterteam.ir:26146
+vless://bc6b024b-34ad-4c58-b4bd-12049380d118@x.masterteam.ir:121?type=xhttp&security=reality&path=/shop&sni=google.com&fp=firefox&pbk=BF9AJ6xcsahz8yV6Lu29rquMpLgLS9MMjx8BcuFAsTI&sid=762c589b0df36fde#x.masterteam.ir:121
+vless://08abc461-ec08-4bc6-aed2-0dcf408ac053@n.masterteam.ir:26146?type=xhttp&security=reality&path=/shop&sni=www.zoom.com&fp=firefox&pbk=CsTyV5ODtjhvPGWth5hSBH0L-VCWWWZb6zf6YGiAm28&sid=6f3efa734c1f825c#n.masterteam.ir:26146
+trojan://776i2qze-jsf1-ob93-j5ua-70e0cqfncprf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://4uwredik-12ws-aihp-y41v-ocj998f7bxw3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
