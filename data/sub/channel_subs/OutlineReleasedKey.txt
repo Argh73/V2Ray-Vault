@@ -1,8 +1,6 @@
-trojan://mtz1uavq-sr17-m7fs-ycb3-4d8suh4556dy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/30 | 06:41
-trojan://1tahrxri-k6ob-qhjy-xvkc-k0m0mg9ykxyh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://33is0af3-9do0-psqf-cbze-3aypxhtkj22w@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@141.227.172.132:17001#141.227.172.132:17001
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#202.50.253.45:19999
+trojan://nm7osd5h-b85z-wssn-ey47-vkhsva0okja5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/10/30 | 14:02
+trojan://gpk389el-ikor-ybyd-b0hn-eat1k7xu0aye@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://a6rrvek8-evxy-po42-i0hf-wtrsmceomji8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl140.vpnbook.com:443#pl140.vpnbook.com:443
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.163.18:19999#193.151.163.18:19999
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#149.22.95.183:443
@@ -16,7 +14,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:4
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.18:19999#193.151.160.18:19999
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#57.129.113.16:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#54.36.174.134:443
-trojan://humanity@188.114.98.0:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#188.114.98.0:443
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#202.50.253.63:19999
 trojan://humanity@85.31.102.163:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#85.31.102.163:443
 trojan://humanity@104.18.37.127:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#104.18.37.127:443
 trojan://humanity@172.66.40.99:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#172.66.40.99:443
@@ -32,6 +30,7 @@ vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.179:2096?type=ws&securit
 vless://c60cd62f-8dc5-415f-826b-abb7856027d1@kala.fortresshost.ir:443?type=xhttp&security=tls&path=/Meh?di=443&sni=kala.fortresshost.ir&fp=chrome#kala.fortresshost.ir:443
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=tcp&security=none#edge10.cyrionflare.com:2052
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?type=ws&security=tls&path=/&sni=hw3.divarkhaghazi.com.&fp=chrome#hw3.divarkhaghazi.com:465
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@13.143.176.83:443?type=grpc&security=tls&sni=a.es-1.bnc-gt-r1.co.uk&fp=firefox#13.143.176.83:443
 vless://846cedee-2a52-0001-a0b9-11850ead6a8b@79.98.37.106:443?type=tcp&security=reality&sni=ee-central.v8x2b.lol&fp=chrome&flow=xtls-rprx-vision&pbk=USSepsAbvP9LpByHLV2xD2H8dq8GAJ6G0fINEqD4PAw#79.98.37.106:443
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?type=grpc&security=reality&sni=www.nvidia.com&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea#152.228.139.33:35108
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?type=tcp&security=reality&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#169.40.42.163:443
@@ -39,6 +38,7 @@ vless://75985152-e16e-4a48-87ff-35c2615e0ab5@147.45.46.157:8443?type=tcp&securit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?type=tcp&security=reality&sni=fuck.rkn&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#51.158.206.97:23576
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#51.158.206.103:23576
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&sni=fuck.rkn&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#62.210.91.2:23576
+vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&sid=296f27de82dad7ff#5.252.179.15:443
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=nl-hy-test.tcp-reset-club.net&insecure=0#nl-hy-test.tcp-reset-club.net:443
 hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443?sni=forshynewh.duckdns.org&insecure=0#217.60.72.225:443
 hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@pl3.nexfile.net:4444?sni=pl3.nexfile.net&insecure=0#pl3.nexfile.net:4444
@@ -47,5 +47,5 @@ hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?insecure=0#pro
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net&insecure=0#50.7.38.243:443
 hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@forshynewh.duckdns.org:443?sni=forshynewh.duckdns.org&insecure=0#forshynewh.duckdns.org:443
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net&insecure=0#50.7.38.243:443
-trojan://m5mh620o-buuv-xdw3-maha-ncxxa1vex7xh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ad1vyiuv-d4a1-wbxy-7h1r-emlunbnlo5z2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://58ofo08c-w6ur-k6mo-z8y8-ktggvjolwc9j@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://k2mtm7m2-y1cl-ui77-b6yq-cor7elyqvfdr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
