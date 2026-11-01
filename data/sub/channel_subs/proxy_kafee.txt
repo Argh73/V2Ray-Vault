@@ -1,6 +1,11 @@
-trojan://fmnnwfwm-fulx-mjo4-61f1-juo7on20o34k@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/11/01 | 06:21
-trojan://p2nqzp21-mz77-v9dj-y2il-oadrxl6z29qi@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://34o11xzb-7dnw-2c0u-ku14-72fe9ya9vhzv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://kxqt9t5q-6bpg-cwux-3npi-rg0zd633xm41@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/11/01 | 14:23
+trojan://b14j50g3-7afs-bixy-stqa-ge97yiunqqa7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6ygb7ls5-cblu-740z-9akv-p92ouu6k4ht2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?security=tls#fr001.zestapp778.com:16778
+trojan://humanity@104.18.45.38:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls#104.18.45.38:443
+trojan://humanity@104.18.37.127:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#104.18.37.127:443
+trojan://humanity@104.16.34.14:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#104.16.34.14:443
+trojan://humanity@8.6.112.206:443?sni=www.trusteeforward.com&peer=www.trusteeforward.com&security=tls#8.6.112.206:443
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCA6IEBwcm94eV9rYWZlZSIsImFkZCI6IjM4LjExMC4xLjI0NiIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vless://e3425eb4-e9be-4568-8740-529a031c9315@199.232.78.159:443?type=ws&security=tls&sni=community.fastly.steamstatic.com#199.232.78.159:443
 vless://e3425eb4-e9be-4568-8740-529a031c9315@199.232.78.159:443?type=ws&security=tls&path=/&sni=community.fastly.steamstatic.com#199.232.78.159:443
@@ -8,11 +13,16 @@ vless://7cefd992-452a-4c28-86bb-6195876582cf@146.75.59.186:443?type=ws&security=
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?type=ws&security=tls&path=/&sni=hw3.divarkhaghazi.com.&fp=chrome#hw3.divarkhaghazi.com:465
 vless://7cefd992-452a-4c28-86bb-6195876582cf@199.232.78.120:443?type=ws&security=tls&path=/&sni=firefox.com#199.232.78.120:443
 vless://780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7@199.232.78.160:443?type=ws&security=tls&sni=firefox.com#199.232.78.160:443
+vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@hw7.divarkhaghazi.com:465?type=ws&security=tls&path=/&sni=hw7.divarkhaghazi.com.&fp=chrome#hw7.divarkhaghazi.com:465
 vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1tun0.greewebservices.ir:38820?type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=66ded2#p1tun0.greewebservices.ir:38820
 vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1tun0.greewebservices.ir:38820?type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=66ded2#p1tun0.greewebservices.ir:38820
 vless://30c7b8df-92fd-40b8-9a34-d2db8e27bc59@185.19.33.35:443?type=tcp&security=reality&sni=android.clients.google.com&fp=chrome&pbk=-agfg9_OwMV9awsaUCUiV5hfb8QHvuhD5NdH2rmmqyU&sid=1a025b7a9575#185.19.33.35:443
 vless://f234330e-f9df-46e3-8f60-b2af5173c147@p11real2.greewebservices.ir:1040?type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#p11real2.greewebservices.ir:1040
 vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1real4.greewebservices.ir:1260?type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#p1real4.greewebservices.ir:1260
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?type=tcp&security=reality&sni=fuck.rkn&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#51.158.206.26:23576
-trojan://gibhwbnq-nxiq-ojpj-fzhm-hz7t667u0scz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pr6uuy49-541y-upld-9k5s-f20fw91974mi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@91.84.115.36:443?type=xhttp&security=reality&path=/v2/sync/af2c0c&sni=lectures.blog-forme.ru&fp=firefox&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed#91.84.115.36:443
+vless://996f6fed-a94e-4e9d-b876-82bc4ad02847@bigshagy.zqpm.ir:5780?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520#bigshagy.zqpm.ir:5780
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@144.31.140.125:8443?type=tcp&security=reality&sni=twitch.tv&flow=xtls-rprx-vision&pbk=wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo&sid=168c15efac9df5fd#144.31.140.125:8443
+vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@88.216.70.92:443?type=tcp&security=reality&sni=nl-modx-prime.storagedirectguide.com&flow=xtls-rprx-vision&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ#88.216.70.92:443
+trojan://o2rgeica-40lb-shvm-zfnt-99hxr5vhh96k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://mu3d7h1j-pqm2-2z40-b21r-lap28evytzo0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
