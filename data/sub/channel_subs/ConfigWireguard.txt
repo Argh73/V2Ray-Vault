@@ -1,13 +1,14 @@
-trojan://lz1bdpcj-pev9-gq9u-ab0k-vrvl4dsa7j66@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/09/24 | 12:20
-trojan://kchhot8g-eu33-09uk-dawo-na7y457ktc67@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://n3gntc9c-9ugn-t7g6-70l6-k0om17y6fiu9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?sni=gr.freeguard.org&peer=gr.freeguard.org&security=tls#86.106.119.23:443
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@38.180.35.145:443?sni=bu2.freeguard.org&peer=bu2.freeguard.org&security=tls#38.180.35.145:443
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@152.53.80.195:443?sni=abr2.freeguard.org&peer=abr2.freeguard.org&security=tls#152.53.80.195:443
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@104.160.44.203:443?sni=la14.freeguard.org&peer=la14.freeguard.org&security=tls#104.160.44.203:443
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@113.20.12.98:443?sni=ca.freeguard.org&peer=ca.freeguard.org&security=tls#113.20.12.98:443
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?sni=sj6.freeguard.org&peer=sj6.freeguard.org&security=tls#23.106.44.14:443
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?sni=la.freeguard.org&peer=la.freeguard.org&security=tls#103.97.91.17:443
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?sni=kr.freeguard.org&peer=kr.freeguard.org&security=tls#158.247.222.240:443
-trojan://i6lq8uwv-pu40-zmn5-ivnu-5gft3he8eyhz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://sgfa9sc9-ftrm-34hk-lavt-5kls18ryyru9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://zo52ka7x-1opp-zah8-gg5q-roy3obfgu43i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/11/04 | 22:29
+trojan://1t8u8mpv-ngq1-03c0-graf-6t94l4su5twj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qysk9xxy-ax38-x4zk-dmen-vh4sp7hdh0ur@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://YWVzLTI1Ni1nY206b3NvVm42cE0xa19yVUpRQnlPUmI2Zw@51.75.118.5:20222#51.75.118.5:20222
+trojan://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?security=none#51.75.118.5:20222
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyN2UxIFN0b3JtLTkzMzVcdTMwZmIyNDgzMCIsImFkZCI6IjUxLjc1LjExOC41IiwicG9ydCI6MjAyMjIsImlkIjoiNTQxZDQ2ZDgtNWZjNi00ZDU3LWE3YzQtOWNjZDNiNTk2NmViIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcGFyaGFtLWNvbmZpbmctdm1lc3M/dT02OTkxZmJkZC01MWUwLTQ5NzAtYjE1OS1mOWFmNDY4OTBjNDMtYmVkYTIzOWE0MDdhN2VlZDY2Zjc5MWM2In0
+vless://00000000-0000-4000-8000-000000000000@127.0.0.1:1?type=tcp&security=none#127.0.0.1:1
+vless://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?type=ws&security=none&path=/parham-confing-ws?u=6991fbdd-51e0-4970-b159-f9af46890c43-beda239a407a7eed66f791c6#51.75.118.5:20222
+vless://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?type=httpupgrade&security=none&path=/parham-confing-hu?u=6991fbdd-51e0-4970-b159-f9af46890c43-beda239a407a7eed66f791c6#51.75.118.5:20222
+vless://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?type=grpc&security=none#51.75.118.5:20222
+vless://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?type=xhttp&security=none&path=/parham-confing-xh#51.75.118.5:20222
+hysteria2://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?sni=www.google.com&insecure=1&obfs=salamander#51.75.118.5:20222
+trojan://ww3buniz-4347-imgw-c3j6-svjun3kmm07s@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://u2vhekrf-oytv-1t9x-vywp-boaazc17oa3v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
