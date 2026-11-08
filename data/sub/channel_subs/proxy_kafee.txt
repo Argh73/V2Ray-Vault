@@ -1,12 +1,27 @@
-trojan://7bouuaj3-ctml-x9ed-0m9q-5lv6zcf0o5g4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/11/08 | 06:27
-trojan://8iwysmhe-agwp-2hwf-9xlt-6hp2r0xeazey@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://61bj9ma8-33tp-xbpj-9gly-tj3lrif7l8nx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://7nkqgs3i-uje6-03dq-szcz-t1iooss81xj3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2026/11/08 | 14:21
+trojan://x4nwbh4b-kdba-b1tn-ft55-aqfu6e8tfudz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://omtoog8b-5igg-c1vx-5mab-1r7skz69ge97@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?sni=hk.catxstar.com&peer=hk.catxstar.com&security=tls#sclass-c1.catcat321.com:20086
 vless://3374d2ed-0dc3-404d-adfd-414b55b3dc9b@199.232.9.244:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=chrome#199.232.9.244:443
 vless://d817d7e8-0b9a-4ab3-8ff6-feaa9e5f7e60@websiteiran2.zorfel.ir:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=firefox#websiteiran2.zorfel.ir:443
 vless://d817d7e8-0b9a-4ab3-8ff6-feaa9e5f7e60@websiteiran2.zorfel.ir:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=firefox#websiteiran2.zorfel.ir:443
 vless://8fdeb819-df0c-456d-9a1d-e3a9950ece4d@199.232.78.159:443?type=ws&security=tls&path=/&sni=cdn.akamai.steamstatic.com#199.232.78.159:443
 vless://2dbf38e2-a0bc-4c65-8899-678818878bf4@fast.mo-chephosting.ir:53421?type=xhttp&security=none&path=/#fast.mo-chephosting.ir:53421
+vless://9a671182-63d4-40b0-a203-2cac6f7f0ccf@199.232.20.113:443?type=xhttp&security=tls&path=/&sni=community.fastly.steamstatic.com&fp=safari#199.232.20.113:443
+vless://89d096e6-6d55-4dff-bed7-0d8064665ee6@static.99.177.233.167.clients.your-server.de:443?type=tcp&security=tls&sni=static.132.5.245.188.clients.your-server.de&fp=chrome&flow=xtls-rprx-vision#static.99.177.233.167.clients.your-server.de:443
+vless://921b248d-f094-4a59-a794-cdbab080c26a@199.232.78.159:443?type=ws&security=tls&path=/&sni=community.fastly.steamstatic.com#199.232.78.159:443
+vless://279e5c33-e95f-410d-b666-0613fb8a054f@199.232.129.192:443?type=xhttp&security=tls&path=/&sni=cdn.akamai.steamstatic.com&fp=chrome#199.232.129.192:443
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@swo2.nexfile.net:4443?type=xhttp&security=tls&path=/api/v1/sync/&sni=swo2.nexfile.net&fp=chrome#swo2.nexfile.net:4443
+vless://320536e8-b0d3-4afa-a5ec-de93356ce562@static.117.242.109.65.clients.your-server.de:443?type=tcp&security=tls&sni=static.0.72.42.77.clients.your-server.de&fp=chrome&flow=xtls-rprx-vision#static.117.242.109.65.clients.your-server.de:443
+vless://8fdeb819-df0c-456d-9a1d-e3a9950ece4d@199.232.78.159:443?type=ws&security=tls&path=/&sni=cdn.akamai.steamstatic.com#199.232.78.159:443
+vless://8fdeb819-df0c-456d-9a1d-e3a9950ece4d@199.232.78.160:443?type=ws&security=tls&path=/&sni=cdn.akamai.steamstatic.com#199.232.78.160:443
+vless://8fdeb819-df0c-456d-9a1d-e3a9950ece4d@199.232.78.159:443?type=ws&security=tls&path=/&sni=cdn.akamai.steamstatic.com#199.232.78.159:443
+vless://8fdeb819-df0c-456d-9a1d-e3a9950ece4d@199.232.78.159:443?type=ws&security=tls&path=/&sni=cdn.akamai.steamstatic.com#199.232.78.159:443
+vless://9a671182-63d4-40b0-a203-2cac6f7f0ccf@199.232.20.113:443?type=xhttp&security=tls&path=/&sni=community.fastly.steamstatic.com&fp=safari#199.232.20.113:443
 vless://f47057d5-120d-4b42-b6d6-30469aef6813@tunell2027.crackerbinam.org:48312?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=d9eM_jy8ztZrOf3DMq1m55VQSo7bnKcG1dRnO9ktJ2Y&sid=902c315efc#tunell2027.crackerbinam.org:48312
 vless://f47057d5-120d-4b42-b6d6-30469aef6813@tunell2027.crackerbinam.org:48312?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=d9eM_jy8ztZrOf3DMq1m55VQSo7bnKcG1dRnO9ktJ2Y&sid=902c315efc#tunell2027.crackerbinam.org:48312
-trojan://i4u42nuz-dwgx-7kev-4cic-gad9dhuh7wbc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ohgiscex-3g83-e8b3-58sl-ma7td09ccnou@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://f47057d5-120d-4b42-b6d6-30469aef6813@tunell2027.crackerbinam.org:48312?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=d9eM_jy8ztZrOf3DMq1m55VQSo7bnKcG1dRnO9ktJ2Y&sid=902c315efc#tunell2027.crackerbinam.org:48312
+vless://4e524aed-4602-4cc8-bc4d-aaade8edb690@31.56.229.247:443?type=xhttp&security=reality&path=/DvuWKDJXOSBEDLSK&sni=www.nvidia.com&fp=chrome&pbk=9N5sjRBaCV0I-athgVVXueiXm0VGYWFHuZedQHiNTHo&sid=713f6ad0cb32f0af#31.56.229.247:443
+vless://af185070-7170-46a8-b1e9-d61a035f4691@147.45.104.86:7443?type=tcp&security=reality&sni=max.ru&flow=xtls-rprx-vision&pbk=KbjX7IJnVtwq2USeRmLgXzACOtFCiA5lnsXhIFOX3ho&sid=a7eb8a4e#147.45.104.86:7443
+trojan://464502l6-7nue-6ab4-f6xx-apm8mraw0l97@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://lo6inbu6-tbik-vlex-xb06-h6usieicg4ak@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
